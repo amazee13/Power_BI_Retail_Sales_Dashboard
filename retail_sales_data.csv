@@ -1,0 +1,1513 @@
+OrderID,OrderDate,CustomerID,Segment,Region,City,Category,SubCategory,Quantity,UnitPrice,Discount,Sales,Cost,Profit
+ORD-10002,2025-08-27,CUST-280,Small Business,West,Exeter,Technology,Laptops,4,492.16,0.1,1771.78,1379.04,392.74
+ORD-10152,2025-12-09,CUST-093,Corporate,West,Plymouth,Furniture,Storage,2,77.34,0.15,131.48,101.49,29.99
+ORD-10308,2024-06-23,CUST-016,Small Business,West,Exeter,Technology,Accessories,2,13.75,0,27.5,19.21,8.29
+ORD-10471,2025-01-19,CUST-266,Corporate,East,Norwich,Furniture,Desks,7,306.62,0,2146.34,1570.22,576.12
+ORD-11146,2025-07-02,CUST-091,Corporate,West,Exeter,Technology,Phones,8,447.42,0,3579.36,2707.91,871.45
+ORD-11473,2025-08-04,CUST-140,Corporate,East,Ipswich,Technology,Phones,2,296.71,0.15,504.41,371.83,132.58
+ORD-10309,2025-10-31,CUST-284,Consumer,South,Bristol,Office Supplies,Binders,2,4.89,0,9.78,5.88,3.9
+ORD-10708,2025-06-12,CUST-162,Consumer,East,Cambridge,Technology,Phones,1,272.79,0.15,231.87,205.02,26.85
+ORD-10539,2024-01-01,CUST-196,Corporate,East,Cambridge,Technology,Phones,4,632.84,0.05,2404.79,1836.64,568.15
+ORD-10747,2025-02-20,CUST-115,Consumer,East,Norwich,Technology,Accessories,8,35.91,0,287.28,195.15,92.13
+ORD-11197,2024-12-29,CUST-200,Consumer,East,Cambridge,Furniture,Chairs,5,142.49,0,712.45,569.91,142.54
+ORD-10410,2025-12-15,CUST-295,Small Business,West,Cardiff,Technology,Phones,7,594.78,0,4163.46,2903.02,1260.44
+ORD-10758,2024-12-15,CUST-172,Small Business,South,Bristol,Office Supplies,Binders,8,11.34,0.1,81.65,65.6,16.05
+ORD-11234,2024-04-05,CUST-182,Small Business,North,Manchester,Office Supplies,Pens,7,11.15,0.2,62.44,48.07,14.37
+ORD-11242,2024-01-23,CUST-182,Consumer,West,Cardiff,Office Supplies,Pens,6,2.58,0.05,14.71,11.87,2.84
+ORD-11154,2025-09-13,CUST-187,Small Business,North,Manchester,Furniture,Desks,1,439.71,0,439.71,331.06,108.65
+ORD-10023,2024-10-19,CUST-297,Consumer,West,Plymouth,Office Supplies,Pens,8,11.95,0,95.6,57.12,38.48
+ORD-10649,2024-11-22,CUST-121,Consumer,North,Manchester,Office Supplies,Paper,5,21.92,0.2,87.68,68.15,19.53
+ORD-10822,2025-11-29,CUST-052,Corporate,East,Norwich,Furniture,Chairs,7,238.79,0.05,1587.95,1174.59,413.36
+ORD-11055,2025-10-07,CUST-261,Consumer,West,Cardiff,Office Supplies,Binders,8,6.47,0.15,44.0,30.21,13.79
+ORD-11218,2024-12-24,CUST-078,Small Business,North,Leeds,Technology,Phones,7,270.22,0,1891.54,1383.65,507.89
+ORD-10847,2025-07-29,CUST-001,Consumer,East,Norwich,Technology,Laptops,5,890.97,0,4454.85,3526.32,928.53
+ORD-10369,2025-12-29,CUST-092,Small Business,South,Bristol,Technology,Laptops,5,730.88,0.15,3106.24,2325.38,780.86
+ORD-10046,2025-09-01,CUST-244,Corporate,East,Cambridge,Furniture,Storage,7,154.1,0.2,862.96,837.84,25.12
+ORD-10489,2025-05-28,CUST-116,Small Business,East,Norwich,Technology,Accessories,7,22.88,0.2,128.13,127.74,0.39
+ORD-10312,2025-04-29,CUST-196,Corporate,North,Manchester,Furniture,Desks,5,314.83,0,1574.15,1118.38,455.77
+ORD-11038,2024-10-07,CUST-136,Small Business,East,Norwich,Furniture,Storage,1,75.07,0,75.07,47.05,28.02
+ORD-10382,2025-05-13,CUST-034,Small Business,North,Leeds,Furniture,Storage,2,66.95,0,133.9,79.25,54.65
+ORD-10867,2024-07-21,CUST-129,Consumer,North,Leeds,Office Supplies,Pens,7,10.99,0,76.93,59.87,17.06
+ORD-10533,2025-02-27,CUST-221,Consumer,South,Southampton,Office Supplies,Paper,8,15.96,0.05,121.3,72.33,48.97
+ORD-11455,2024-03-22,CUST-216,Corporate,East,Norwich,Office Supplies,Pens,7,4.98,0.2,27.89,27.28,0.61
+ORD-10371,2025-03-08,CUST-083,Consumer,North,Manchester,Office Supplies,Paper,3,5.51,0,16.53,11.86,4.67
+ORD-10458,2024-12-30,CUST-178,Small Business,South,Southampton,Office Supplies,Pens,3,9.91,0.05,28.24,18.08,10.16
+ORD-11037,2024-01-16,CUST-020,Corporate,East,Ipswich,Office Supplies,Binders,4,4.03,0.2,12.9,11.05,1.85
+ORD-11298,2024-01-14,CUST-063,Small Business,East,Norwich,Office Supplies,Paper,8,8.12,0.15,55.22,49.91,5.31
+ORD-11331,2025-01-11,CUST-192,Corporate,South,Bristol,Furniture,Chairs,1,88.93,0.15,75.59,65.46,10.13
+ORD-10221,2025-10-27,CUST-256,Small Business,North,Manchester,Technology,Phones,8,389.63,0,3117.04,2210.56,906.48
+ORD-10341,2025-01-17,CUST-177,Consumer,North,Manchester,Furniture,Storage,1,66.68,0.15,56.68,48.9,7.78
+ORD-10943,2024-09-27,CUST-266,Consumer,East,Ipswich,Furniture,Storage,7,73.82,0,516.74,286.21,230.53
+ORD-10780,2025-10-16,CUST-096,Small Business,East,Norwich,Technology,Laptops,3,496.94,0,1490.82,1127.98,362.84
+ORD-10951,2025-02-04,CUST-161,Small Business,North,Newcastle,Furniture,Chairs,8,138.61,0.15,942.55,631.04,311.51
+ORD-10050,2025-01-24,CUST-280,Corporate,West,Plymouth,Technology,Phones,7,349.31,0.2,1956.14,1889.9,66.24
+ORD-11144,2025-02-09,CUST-282,Small Business,South,Southampton,Technology,Laptops,3,706.84,0.2,1696.42,1250.64,445.78
+ORD-11255,2024-09-02,CUST-051,Small Business,West,Plymouth,Technology,Phones,1,220.8,0.05,209.76,166.2,43.56
+ORD-11311,2025-09-13,CUST-055,Consumer,West,Cardiff,Furniture,Desks,3,481.57,0.05,1372.47,1144.61,227.86
+ORD-10250,2024-06-20,CUST-087,Consumer,North,Manchester,Office Supplies,Paper,4,20.92,0,83.68,46.71,36.97
+ORD-10765,2024-07-15,CUST-097,Consumer,West,Plymouth,Office Supplies,Binders,7,6.82,0.15,40.58,29.18,11.4
+ORD-10313,2024-07-10,CUST-050,Small Business,West,Cardiff,Technology,Phones,5,419.87,0,2099.35,1593.97,505.38
+ORD-10762,2024-01-31,CUST-101,Small Business,South,Brighton,Technology,Phones,5,287.07,0.15,1220.05,851.98,368.07
+ORD-10445,2025-06-20,CUST-156,Corporate,East,Norwich,Furniture,Desks,2,338.88,0.05,643.87,424.93,218.94
+ORD-10633,2024-09-13,CUST-256,Consumer,West,Plymouth,Furniture,Chairs,3,179.39,0,538.17,309.39,228.78
+ORD-10949,2024-07-17,CUST-297,Consumer,South,Brighton,Office Supplies,Binders,1,12.24,0,12.24,6.99,5.25
+ORD-10713,2024-10-17,CUST-277,Consumer,South,Bristol,Technology,Accessories,6,37.59,0.2,180.43,159.89,20.54
+ORD-11123,2025-09-15,CUST-118,Corporate,South,Brighton,Technology,Phones,1,381.14,0.1,343.03,266.72,76.31
+ORD-10427,2024-07-23,CUST-183,Consumer,South,Brighton,Office Supplies,Paper,4,22.45,0,89.8,53.94,35.86
+ORD-11167,2025-06-19,CUST-038,Consumer,East,Norwich,Technology,Laptops,8,552.41,0.05,4198.32,2539.17,1659.15
+ORD-11160,2024-09-20,CUST-265,Corporate,South,Southampton,Technology,Laptops,3,712.45,0.1,1923.62,1181.99,741.63
+ORD-10518,2025-04-18,CUST-010,Corporate,West,Cardiff,Office Supplies,Paper,5,21.7,0.1,97.65,79.34,18.31
+ORD-10464,2024-02-02,CUST-270,Corporate,South,Bristol,Technology,Phones,1,295.81,0.1,266.23,210.15,56.08
+ORD-10429,2025-09-27,CUST-114,Small Business,East,Ipswich,Furniture,Storage,8,161.63,0,1293.04,1029.39,263.65
+ORD-10882,2025-06-30,CUST-188,Small Business,South,Southampton,Technology,Laptops,5,536.27,0.2,2145.08,2046.83,98.25
+ORD-10895,2024-05-26,CUST-289,Consumer,North,Manchester,Technology,Laptops,6,694.07,0.2,3331.54,3026.97,304.57
+ORD-10009,2025-11-02,CUST-300,Small Business,West,Exeter,Furniture,Storage,5,104.24,0,521.2,318.8,202.4
+ORD-10058,2025-01-14,CUST-236,Corporate,North,Newcastle,Office Supplies,Pens,7,5.41,0.2,30.3,25.47,4.83
+ORD-10251,2025-08-02,CUST-022,Corporate,West,Plymouth,Office Supplies,Pens,2,3.13,0,6.26,4.66,1.6
+ORD-10902,2024-05-31,CUST-143,Small Business,West,Cardiff,Furniture,Storage,8,151.56,0.2,969.98,687.27,282.71
+ORD-10159,2025-04-07,CUST-149,Consumer,South,Southampton,Office Supplies,Binders,6,14.97,0.15,76.35,57.2,19.15
+ORD-11247,2024-04-01,CUST-176,Small Business,North,Leeds,Furniture,Storage,7,138.13,0.2,773.53,630.32,143.21
+ORD-11163,2024-05-02,CUST-104,Small Business,South,Southampton,Furniture,Desks,1,310.76,0.2,248.61,228.89,19.72
+ORD-10689,2024-02-16,CUST-175,Small Business,North,Leeds,Furniture,Storage,8,81.67,0.2,522.69,468.83,53.86
+ORD-10450,2024-01-20,CUST-005,Small Business,South,Brighton,Technology,Accessories,2,11.11,0,22.22,13.72,8.5
+ORD-10837,2025-12-14,CUST-028,Small Business,South,Bristol,Office Supplies,Pens,3,5.94,0,17.82,13.15,4.67
+ORD-11429,2025-04-04,CUST-223,Consumer,South,Southampton,Technology,Accessories,6,13.67,0.15,69.72,51.67,18.05
+ORD-10563,2025-11-11,CUST-252,Small Business,West,Exeter,Furniture,Chairs,7,193.01,0.1,1215.96,744.34,471.62
+ORD-10434,2025-01-25,CUST-265,Consumer,South,Bristol,Technology,Accessories,1,17.48,0,17.48,11.46,6.02
+ORD-10117,2025-12-20,CUST-016,Consumer,East,Norwich,Furniture,Desks,3,152.14,0.1,410.78,326.04,84.74
+ORD-10160,2024-06-10,CUST-284,Corporate,South,Bristol,Furniture,Storage,4,71.39,0.2,228.45,166.97,61.48
+ORD-10307,2025-12-04,CUST-038,Corporate,South,Southampton,Technology,Phones,1,236.85,0,236.85,131.46,105.39
+ORD-10467,2024-02-11,CUST-099,Small Business,North,Newcastle,Furniture,Chairs,2,239.47,0,478.94,350.25,128.69
+ORD-10570,2025-10-31,CUST-050,Consumer,North,Manchester,Furniture,Storage,3,46.41,0,139.23,82.57,56.66
+ORD-10059,2024-06-05,CUST-239,Small Business,West,Exeter,Technology,Accessories,5,36.09,0.1,162.41,135.71,26.7
+ORD-11041,2024-08-20,CUST-226,Consumer,South,Bristol,Technology,Accessories,4,42.8,0,171.2,122.18,49.02
+ORD-10138,2025-03-24,CUST-120,Small Business,North,Newcastle,Furniture,Desks,4,386.73,0.05,1469.57,1086.94,382.63
+ORD-11108,2025-10-15,CUST-098,Small Business,East,Ipswich,Furniture,Chairs,4,226.67,0,906.68,688.47,218.21
+ORD-11259,2024-04-01,CUST-025,Consumer,East,Cambridge,Office Supplies,Pens,3,11.0,0.15,28.05,20.74,7.31
+ORD-10812,2025-12-06,CUST-186,Corporate,East,Ipswich,Office Supplies,Paper,7,18.02,0.15,107.22,77.16,30.06
+ORD-11013,2024-02-08,CUST-069,Small Business,North,Newcastle,Furniture,Desks,1,362.29,0,362.29,228.35,133.94
+ORD-10839,2025-10-28,CUST-219,Consumer,North,Newcastle,Furniture,Storage,2,159.86,0.15,271.76,238.63,33.13
+ORD-11117,2024-04-20,CUST-154,Small Business,West,Plymouth,Furniture,Desks,7,483.89,0.1,3048.51,1887.16,1161.35
+ORD-10916,2024-02-03,CUST-162,Corporate,South,Brighton,Furniture,Chairs,1,245.57,0.1,221.01,195.63,25.38
+ORD-10019,2025-04-29,CUST-028,Corporate,South,Bristol,Furniture,Desks,2,216.64,0.15,368.29,285.0,83.29
+ORD-11325,2025-08-05,CUST-053,Consumer,North,Newcastle,Office Supplies,Paper,3,19.46,0.05,55.46,33.04,22.42
+ORD-10889,2024-01-11,CUST-299,Small Business,East,Norwich,Technology,Accessories,3,58.26,0,174.78,138.58,36.2
+ORD-10209,2024-02-29,CUST-231,Corporate,West,Exeter,Furniture,Storage,7,114.2,0,799.4,490.63,308.77
+ORD-10899,2024-04-14,CUST-078,Consumer,East,Norwich,Furniture,Chairs,2,176.98,0,353.96,276.38,77.58
+ORD-10161,2025-01-12,CUST-270,Small Business,West,Exeter,Office Supplies,Paper,2,17.24,0,34.48,21.63,12.85
+ORD-10381,2024-11-24,CUST-261,Corporate,West,Exeter,Technology,Phones,5,328.3,0,1641.5,1276.81,364.69
+ORD-10997,2025-12-30,CUST-216,Small Business,East,Norwich,Furniture,Desks,7,299.68,0.05,1992.87,1395.68,597.19
+ORD-10909,2024-03-21,CUST-271,Corporate,South,Bristol,Technology,Laptops,7,706.13,0,4942.91,3664.45,1278.46
+ORD-11470,2025-10-19,CUST-159,Small Business,South,Bristol,Technology,Phones,5,560.62,0.15,2382.63,1610.97,771.66
+ORD-10131,2025-05-02,CUST-127,Small Business,South,Bristol,Technology,Phones,6,251.75,0.15,1283.92,862.62,421.3
+ORD-10440,2025-03-31,CUST-121,Consumer,East,Ipswich,Office Supplies,Pens,8,7.21,0.05,54.8,34.14,20.66
+ORD-11235,2024-05-16,CUST-116,Consumer,West,Exeter,Technology,Accessories,5,50.73,0.1,228.28,175.66,52.62
+ORD-10162,2025-02-23,CUST-283,Corporate,North,Newcastle,Technology,Phones,8,521.17,0.05,3960.89,3002.05,958.84
+ORD-10377,2024-09-18,CUST-155,Corporate,North,Manchester,Furniture,Desks,3,398.39,0,1195.17,703.27,491.9
+ORD-10972,2024-03-02,CUST-271,Corporate,South,Bristol,Technology,Accessories,7,20.81,0,145.67,97.88,47.79
+ORD-10025,2024-07-09,CUST-021,Small Business,North,Newcastle,Office Supplies,Paper,4,18.5,0.05,70.3,42.92,27.38
+ORD-11376,2025-06-13,CUST-166,Small Business,North,Leeds,Furniture,Storage,5,77.55,0.2,310.2,241.27,68.93
+ORD-10872,2024-12-18,CUST-246,,North,Manchester,Office Supplies,Paper,6,6.04,0.05,34.43,28.78,5.65
+ORD-10190,2025-04-10,CUST-132,Consumer,West,Plymouth,Technology,Accessories,4,33.4,0.2,106.88,77.24,29.64
+ORD-10827,2024-06-21,CUST-055,Small Business,West,Exeter,Technology,Phones,4,531.32,0,2125.28,1281.35,843.93
+ORD-10900,2025-03-14,CUST-179,Small Business,East,Norwich,Office Supplies,Paper,3,18.59,0.15,47.4,40.25,7.15
+ORD-11403,2025-04-22,CUST-256,Corporate,East,Norwich,Office Supplies,Pens,7,9.18,0.2,51.41,39.38,12.03
+ORD-10232,2024-09-09,CUST-195,Corporate,West,Exeter,Office Supplies,Pens,2,3.96,0,7.92,4.96,2.96
+ORD-11332,2025-02-01,CUST-147,Corporate,South,Southampton,Technology,Accessories,4,22.81,0,91.24,70.66,20.58
+ORD-10823,2025-04-12,CUST-128,Small Business,West,Exeter,Office Supplies,Paper,2,5.51,0.2,8.82,7.52,1.3
+ORD-10707,2025-02-28,CUST-210,Corporate,East,Cambridge,Office Supplies,Pens,7,4.45,0.2,24.92,18.91,6.01
+ORD-11191,2024-07-12,CUST-277,Consumer,South,Southampton,Technology,Phones,1,290.79,0.1,261.71,203.69,58.02
+ORD-10674,2024-10-14,CUST-224,Corporate,East,Norwich,Furniture,Desks,5,465.98,0.1,2096.91,1764.66,332.25
+ORD-10076,2024-01-22,CUST-093,Corporate,East,Ipswich,Office Supplies,Paper,3,20.26,0.05,57.74,41.31,16.43
+ORD-10710,2025-03-05,CUST-144,,West,Plymouth,Office Supplies,Pens,5,7.54,0.15,32.05,27.73,4.32
+ORD-11406,2024-11-05,CUST-239,Corporate,West,Exeter,Technology,Laptops,4,457.37,0.05,1738.01,1121.89,616.12
+ORD-11280,2024-07-18,CUST-241,Consumer,East,Norwich,Furniture,Storage,7,160.74,0,1125.18,800.0,325.18
+ORD-10736,2024-06-20,CUST-109,Corporate,North,Newcastle,Technology,Phones,5,336.65,0.2,1346.6,1211.94,134.66
+ORD-11401,2025-09-15,CUST-022,Small Business,East,Norwich,Office Supplies,Binders,8,8.55,0,68.4,49.76,18.64
+ORD-10259,2025-07-14,CUST-081,,South,Southampton,Office Supplies,Binders,1,12.46,0,12.46,7.16,5.3
+ORD-10392,2025-11-18,CUST-157,Corporate,South,Bristol,Technology,Phones,4,509.76,0,2039.04,1369.14,669.9
+ORD-10534,2025-08-03,CUST-059,Small Business,East,Ipswich,Office Supplies,Pens,2,4.36,0.15,7.41,6.83,0.58
+ORD-11222,2024-04-15,CUST-222,Small Business,North,Manchester,Office Supplies,Pens,6,11.6,0,69.6,53.41,16.19
+ORD-11223,2024-02-28,CUST-129,Corporate,North,Manchester,Furniture,Storage,5,142.54,0.15,605.79,482.47,123.32
+ORD-11232,2024-07-26,CUST-058,Consumer,East,Norwich,Office Supplies,Binders,8,7.21,0,57.68,42.61,15.07
+ORD-10984,2025-08-03,CUST-172,Corporate,East,Cambridge,Technology,Accessories,3,35.16,0.2,84.38,60.49,23.89
+ORD-11014,2025-08-10,CUST-271,Consumer,South,Brighton,Technology,Phones,5,445.55,0,2227.75,1337.31,890.44
+ORD-10970,2025-06-24,CUST-136,Corporate,South,Southampton,Office Supplies,Binders,5,10.94,0,54.7,40.65,14.05
+ORD-10912,2025-12-27,CUST-206,Consumer,South,Bristol,Furniture,Chairs,2,111.65,0.1,200.97,143.89,57.08
+ORD-11446,2024-01-19,CUST-180,Small Business,North,Leeds,Technology,Laptops,3,515.62,0.1,1392.17,1166.03,226.14
+ORD-11212,2024-04-23,CUST-043,Small Business,North,Newcastle,Office Supplies,Pens,6,4.96,0,29.76,19.74,10.02
+ORD-10421,2025-07-16,CUST-100,Corporate,East,Cambridge,Office Supplies,Pens,6,11.15,0,66.9,52.91,13.99
+ORD-10768,2024-07-02,CUST-206,Corporate,East,Ipswich,Office Supplies,Binders,8,9.31,0.15,63.31,58.76,4.55
+ORD-11302,2024-07-12,CUST-152,Consumer,North,Newcastle,Office Supplies,Paper,6,8.76,0.2,42.05,41.94,0.11
+ORD-10078,2025-11-09,CUST-001,Corporate,West,Plymouth,Office Supplies,Paper,6,14.1,0,84.6,53.37,31.23
+ORD-11362,2024-01-06,CUST-299,Consumer,West,Exeter,Office Supplies,Pens,7,11.05,0,77.35,48.39,28.96
+ORD-10685,2025-01-12,CUST-080,Corporate,South,Southampton,Furniture,Storage,1,99.64,0.1,89.68,63.31,26.37
+ORD-10265,2025-09-16,CUST-045,Corporate,South,Brighton,Furniture,Desks,3,402.85,0.05,1148.12,850.84,297.28
+ORD-10957,2025-05-14,CUST-220,Consumer,West,Cardiff,Furniture,Desks,5,358.72,0.2,1434.88,1129.41,305.47
+ORD-10781,2024-03-12,CUST-168,,West,Exeter,Furniture,Chairs,2,104.28,0.05,198.13,117.7,80.43
+ORD-11214,2024-06-04,CUST-116,Small Business,North,Newcastle,Office Supplies,Binders,3,9.47,0,28.41,16.75,11.66
+ORD-11153,2025-11-24,CUST-276,Corporate,West,Cardiff,Office Supplies,Binders,2,13.35,0.2,21.36,17.47,3.89
+ORD-10806,2024-07-21,CUST-247,Small Business,South,Brighton,Furniture,Chairs,5,175.11,0,875.55,607.72,267.83
+ORD-11080,2025-02-20,CUST-191,Corporate,East,Ipswich,Furniture,Desks,4,467.68,0.05,1777.18,1036.95,740.23
+ORD-11194,2024-02-20,CUST-260,Consumer,West,Plymouth,Furniture,Desks,7,219.52,0.1,1382.98,1158.05,224.93
+ORD-11494,2025-07-05,CUST-059,Corporate,East,Ipswich,Technology,Accessories,1,47.42,0.15,40.31,27.86,12.45
+ORD-10274,2025-12-25,CUST-191,Small Business,South,Brighton,Office Supplies,Paper,6,8.28,0.1,44.71,33.75,10.96
+ORD-11493,2024-02-01,CUST-051,Corporate,North,Manchester,Furniture,Chairs,2,203.94,0,407.88,294.48,113.4
+ORD-10281,2025-07-13,CUST-005,Small Business,South,Southampton,Technology,Laptops,1,869.58,0,869.58,596.0,273.58
+ORD-10305,2024-01-12,CUST-198,,East,Cambridge,Technology,Laptops,6,761.93,0,4571.58,3413.85,1157.73
+ORD-11128,2025-04-06,CUST-197,Corporate,East,Ipswich,Furniture,Storage,6,86.91,0,521.46,389.2,132.26
+ORD-11006,2024-04-19,CUST-156,,West,Cardiff,Furniture,Desks,5,201.86,0.05,958.84,585.43,373.41
+ORD-11121,2025-02-07,CUST-163,Consumer,South,Brighton,Furniture,Storage,8,92.68,0.15,630.22,452.79,177.43
+ORD-10636,2024-05-01,CUST-156,Consumer,West,Plymouth,Furniture,Desks,8,448.51,0.05,3408.68,2005.72,1402.96
+ORD-10193,2025-04-02,CUST-061,Small Business,East,Cambridge,Furniture,Desks,1,353.86,0,353.86,252.45,101.41
+ORD-10261,2024-03-25,CUST-220,Small Business,East,Ipswich,Office Supplies,Pens,7,3.66,0.15,21.78,16.05,5.73
+ORD-10628,2024-10-22,CUST-228,Small Business,North,Leeds,Technology,Phones,7,446.86,0,3128.02,2077.74,1050.28
+ORD-10142,2025-02-28,CUST-051,Consumer,North,Newcastle,Furniture,Storage,7,92.35,0,646.45,416.14,230.31
+ORD-10460,2025-07-09,CUST-284,Corporate,West,Cardiff,Technology,Accessories,6,19.33,0,115.98,85.03,30.95
+ORD-10012,2024-04-27,CUST-135,Small Business,East,Ipswich,Office Supplies,Binders,7,4.34,0,30.38,20.16,10.22
+ORD-10010,2025-08-20,CUST-079,Consumer,West,Plymouth,Furniture,Chairs,3,249.49,0.1,673.62,504.0,169.62
+ORD-11093,2024-09-26,CUST-243,Small Business,North,Leeds,Technology,Accessories,7,39.37,0,275.59,191.24,84.35
+ORD-11107,2024-04-29,CUST-006,Consumer,North,Leeds,Technology,Accessories,6,14.32,0.1,77.33,60.72,16.61
+ORD-11062,2024-09-26,CUST-039,Small Business,North,Manchester,Technology,Phones,2,565.82,0,1131.64,849.76,281.88
+ORD-10424,2025-04-16,CUST-118,Consumer,North,Manchester,Furniture,Chairs,7,108.99,0.15,648.49,570.03,78.46
+ORD-10277,2025-06-05,CUST-019,Consumer,North,Newcastle,Technology,Laptops,8,560.05,0,4480.4,2893.2,1587.2
+ORD-11381,2024-05-07,CUST-282,Corporate,West,Plymouth,Office Supplies,Binders,4,3.04,0.2,9.73,9.53,0.2
+ORD-11246,2024-06-14,CUST-062,Small Business,South,Southampton,Technology,Accessories,3,48.69,0.2,116.86,86.96,29.9
+ORD-10026,2024-03-24,CUST-136,Small Business,West,Exeter,Office Supplies,Pens,6,7.65,0,45.9,27.59,18.31
+ORD-10453,2024-01-13,CUST-049,Consumer,North,Newcastle,Office Supplies,Paper,8,12.7,0,101.6,74.62,26.98
+ORD-10566,2025-10-25,CUST-055,Small Business,South,Bristol,Technology,Accessories,7,11.97,0.15,71.22,50.09,21.13
+ORD-10294,2025-06-22,CUST-249,Corporate,South,Southampton,Office Supplies,Pens,7,9.95,0.2,55.72,50.73,4.99
+ORD-10034,2024-06-15,CUST-128,Small Business,South,Southampton,Furniture,Chairs,6,94.08,0.2,451.58,441.82,9.76
+ORD-10368,2025-02-11,CUST-281,Small Business,East,Cambridge,Furniture,Desks,3,431.68,0.05,1230.29,907.35,322.94
+ORD-10669,2024-10-24,CUST-006,Small Business,East,Cambridge,Technology,Accessories,4,32.55,0,130.2,90.58,39.62
+ORD-10933,2024-06-13,CUST-297,Small Business,West,Plymouth,Furniture,Storage,1,119.84,0.1,107.86,89.37,18.49
+ORD-11238,2024-07-15,CUST-135,Corporate,West,Exeter,Technology,Accessories,7,39.04,0.15,232.29,168.17,64.12
+ORD-10372,2025-11-30,CUST-232,Consumer,East,Norwich,Technology,Laptops,5,760.77,0,3803.85,2808.76,995.09
+ORD-11003,2024-04-09,CUST-248,Consumer,South,Brighton,Technology,Laptops,8,663.18,0.05,5040.17,2991.81,2048.36
+ORD-10515,2025-02-28,CUST-035,Small Business,West,Exeter,Technology,Phones,4,374.83,0,1499.32,1064.75,434.57
+ORD-10237,2025-04-04,CUST-275,Corporate,West,Plymouth,Office Supplies,Binders,7,9.41,0.1,59.28,36.83,22.45
+ORD-11020,2025-02-12,CUST-134,Consumer,North,Leeds,Office Supplies,Pens,8,10.92,0,87.36,62.31,25.05
+ORD-10029,2025-10-31,CUST-080,Consumer,North,Manchester,Office Supplies,Pens,2,4.99,0,9.98,6.15,3.83
+ORD-11491,2025-05-17,CUST-280,Corporate,South,Brighton,Technology,Laptops,2,764.45,0.1,1376.01,897.4,478.61
+ORD-10215,2025-05-26,CUST-280,Corporate,East,Cambridge,Furniture,Desks,8,488.28,0.05,3710.93,2312.72,1398.21
+ORD-10478,2024-04-02,CUST-026,Corporate,South,Bristol,Furniture,Desks,3,425.23,0,1275.69,808.84,466.85
+ORD-11352,2025-12-11,CUST-157,Consumer,South,Brighton,Office Supplies,Paper,2,22.86,0.05,43.43,26.8,16.63
+ORD-11142,2024-11-07,CUST-290,Consumer,East,Cambridge,Furniture,Desks,1,386.08,0,386.08,272.66,113.42
+ORD-10425,2025-02-26,CUST-176,Corporate,East,Norwich,Office Supplies,Pens,5,2.1,0,10.5,6.53,3.97
+ORD-10926,2024-09-07,CUST-237,Consumer,North,Newcastle,Technology,Laptops,3,580.8,0.1,1568.16,1132.25,435.91
+ORD-10319,2025-02-28,CUST-275,Consumer,South,Southampton,Technology,Accessories,2,39.4,0,78.8,54.42,24.38
+ORD-11215,2024-06-04,CUST-244,Small Business,West,Exeter,Technology,Phones,7,224.46,0,1571.22,1017.28,553.94
+ORD-10666,2025-02-14,CUST-270,,West,Exeter,Office Supplies,Binders,6,4.79,0,28.74,22.61,6.13
+ORD-10397,2025-04-28,CUST-187,Small Business,South,Bristol,Furniture,Desks,5,228.16,0,1140.8,759.97,380.83
+ORD-11342,2025-04-21,CUST-246,Corporate,West,Cardiff,Technology,Laptops,1,709.54,0.15,603.11,401.42,201.69
+ORD-11367,2024-03-09,CUST-201,Corporate,South,Brighton,Office Supplies,Binders,1,4.39,0,4.39,2.64,1.75
+ORD-11067,2025-10-15,CUST-251,Corporate,East,Ipswich,Furniture,Storage,3,131.97,0,395.91,300.96,94.95
+ORD-10538,2024-12-18,CUST-282,Corporate,North,Leeds,Office Supplies,Paper,7,17.23,0.2,96.49,70.18,26.31
+ORD-10658,2024-11-12,CUST-202,Consumer,East,Cambridge,Office Supplies,Paper,4,15.7,0.2,50.24,41.49,8.75
+ORD-11337,2025-09-23,CUST-291,Corporate,North,Leeds,Technology,Laptops,1,728.67,0,728.67,570.21,158.46
+ORD-10705,2024-10-26,CUST-063,Corporate,West,Cardiff,Office Supplies,Binders,2,11.79,0,23.58,16.78,6.8
+ORD-10155,2025-06-09,CUST-188,Consumer,South,Southampton,Technology,Laptops,8,831.9,0,6655.2,3870.38,2784.82
+ORD-11052,2025-04-09,CUST-013,Consumer,North,Newcastle,Technology,Laptops,8,638.38,0.15,4340.98,2937.82,1403.16
+ORD-11012,2024-08-25,CUST-129,Consumer,South,Brighton,Technology,Laptops,7,777.67,0.2,4354.95,4318.64,36.31
+ORD-11300,2024-02-21,CUST-096,Small Business,North,Manchester,Furniture,Desks,4,368.91,0.05,1401.86,1113.2,288.66
+ORD-11485,2024-03-15,CUST-272,Small Business,South,Bristol,Furniture,Chairs,3,142.58,0,427.74,311.58,116.16
+ORD-10776,2024-08-27,CUST-214,Corporate,West,Cardiff,Office Supplies,Binders,2,7.09,0,14.18,10.8,3.38
+ORD-10338,2024-07-24,CUST-042,Small Business,East,Cambridge,Furniture,Storage,8,165.0,0,1320.0,830.41,489.59
+ORD-10640,2024-04-09,CUST-044,Consumer,West,Plymouth,Furniture,Desks,1,294.18,0.15,250.05,179.76,70.29
+ORD-11415,2025-05-09,CUST-176,Consumer,North,Newcastle,Technology,Phones,3,657.57,0.15,1676.8,1328.36,348.44
+ORD-11475,2024-02-16,CUST-040,,East,Norwich,Furniture,Desks,6,415.62,0.05,2369.03,1513.42,855.61
+ORD-11324,2024-01-27,CUST-166,Consumer,West,Plymouth,Office Supplies,Binders,6,7.75,0.1,41.85,35.29,6.56
+ORD-10345,2025-10-17,CUST-060,Consumer,East,Cambridge,Office Supplies,Pens,1,2.49,0.15,2.12,1.44,0.68
+ORD-10361,2025-07-16,CUST-175,Small Business,North,Manchester,Technology,Accessories,5,58.16,0.1,261.72,200.82,60.9
+ORD-10731,2025-02-21,CUST-164,Corporate,South,Brighton,Technology,Accessories,3,58.06,0,174.18,126.86,47.32
+ORD-10147,2024-03-10,CUST-035,Consumer,North,Manchester,Furniture,Desks,7,165.24,0,1156.68,709.52,447.16
+ORD-10006,2024-03-22,CUST-037,Consumer,South,Bristol,Technology,Phones,6,338.99,0,2033.94,1306.9,727.04
+ORD-10064,2025-07-20,CUST-062,Corporate,East,Ipswich,Furniture,Storage,6,117.05,0.15,596.95,465.93,131.02
+ORD-11451,2024-11-15,CUST-195,Consumer,West,Cardiff,Furniture,Chairs,1,223.14,0,223.14,159.81,63.33
+ORD-10101,2024-11-05,CUST-276,Consumer,West,Cardiff,Technology,Laptops,1,470.41,0,470.41,375.85,94.56
+ORD-10317,2025-03-21,CUST-285,Consumer,South,Southampton,Office Supplies,Paper,5,21.68,0,108.4,84.3,24.1
+ORD-10042,2025-03-28,CUST-172,Small Business,West,Cardiff,Office Supplies,Paper,3,15.22,0.15,38.81,26.08,12.73
+ORD-10057,2025-08-29,CUST-220,Consumer,South,Bristol,Technology,Accessories,2,48.62,0.2,77.79,77.4,0.39
+ORD-11410,2024-03-02,CUST-236,Corporate,North,Manchester,Office Supplies,Paper,6,17.61,0,105.66,69.96,35.7
+ORD-10519,2025-08-14,CUST-085,Corporate,East,Ipswich,Furniture,Chairs,5,244.23,0.2,976.92,681.15,295.77
+ORD-10503,2024-05-06,CUST-262,Corporate,North,Newcastle,Technology,Accessories,6,32.47,0,194.82,132.66,62.16
+ORD-10511,2025-03-13,CUST-108,Small Business,North,Newcastle,Furniture,Desks,5,197.09,0,985.45,671.84,313.61
+ORD-10418,2025-11-02,CUST-266,Consumer,East,Cambridge,Office Supplies,Pens,3,2.57,0.15,6.55,5.19,1.36
+ORD-10648,2025-10-03,CUST-223,Small Business,North,Manchester,Office Supplies,Paper,3,12.29,0,36.87,21.67,15.2
+ORD-10726,2025-03-29,CUST-064,Small Business,East,Ipswich,Office Supplies,Paper,1,22.32,0.1,20.09,15.79,4.3
+ORD-11208,2024-02-19,CUST-006,Consumer,South,Bristol,Technology,Laptops,1,514.33,0.2,411.46,385.08,26.38
+ORD-11094,2024-06-21,CUST-027,Consumer,North,Leeds,Technology,Laptops,3,491.1,0,1473.3,871.02,602.28
+ORD-11042,2024-11-20,CUST-023,Corporate,North,Newcastle,Office Supplies,Pens,5,4.28,0,21.4,11.86,9.54
+ORD-10348,2024-04-26,CUST-210,Consumer,North,Manchester,Furniture,Chairs,5,175.71,0.2,702.84,598.11,104.73
+ORD-10079,2025-07-09,CUST-027,Small Business,West,Cardiff,Furniture,Chairs,6,95.64,0.1,516.46,424.13,92.33
+ORD-10481,2024-04-25,CUST-087,Consumer,West,Exeter,Furniture,Desks,6,271.91,0,1631.46,1139.52,491.94
+ORD-11262,2025-01-25,CUST-200,Corporate,South,Brighton,Office Supplies,Paper,1,23.49,0,23.49,16.79,6.7
+ORD-10660,2024-03-23,CUST-134,Consumer,West,Plymouth,Furniture,Storage,6,97.81,0.15,498.83,384.74,114.09
+ORD-10289,2024-04-06,CUST-206,Consumer,West,Exeter,Technology,Laptops,1,504.65,0.2,403.72,376.09,27.63
+ORD-10139,2024-09-01,CUST-215,Corporate,East,Norwich,Furniture,Chairs,8,129.89,0.05,987.16,771.4,215.76
+ORD-11179,2025-09-24,CUST-024,Small Business,West,Plymouth,Furniture,Chairs,3,74.14,0,222.42,162.53,59.89
+ORD-10426,2025-07-21,CUST-098,Small Business,South,Southampton,Furniture,Desks,5,273.74,0,1368.7,1076.87,291.83
+ORD-10715,2024-05-06,CUST-298,Consumer,North,Newcastle,Office Supplies,Paper,1,13.97,0.05,13.27,8.87,4.4
+ORD-10203,2024-08-23,CUST-215,Consumer,South,Bristol,Furniture,Desks,4,204.29,0.15,694.59,605.82,88.77
+ORD-10811,2024-02-09,CUST-251,Small Business,North,Newcastle,Furniture,Storage,7,62.73,0,439.11,326.18,112.93
+ORD-10477,2024-11-22,CUST-295,Corporate,South,Bristol,Furniture,Storage,3,137.69,0,413.07,296.75,116.32
+ORD-10451,2024-04-02,CUST-238,Corporate,South,Bristol,Technology,Phones,7,308.59,0,2160.13,1612.39,547.74
+ORD-10918,2025-11-21,CUST-196,Consumer,North,Manchester,Furniture,Desks,2,463.78,0.1,834.8,697.41,137.39
+ORD-10263,2024-12-17,CUST-053,Small Business,North,Manchester,Furniture,Storage,2,58.5,0,117.0,75.55,41.45
+ORD-11101,2024-02-28,CUST-280,Small Business,North,Leeds,Office Supplies,Binders,8,14.97,0.05,113.77,71.07,42.7
+ORD-10790,2024-01-11,CUST-043,Corporate,East,Ipswich,Technology,Accessories,6,55.86,0.15,284.89,247.07,37.82
+ORD-11310,2024-06-02,CUST-098,Small Business,East,Cambridge,Furniture,Chairs,7,64.12,0,448.84,280.92,167.92
+ORD-11102,2024-02-09,CUST-062,Consumer,East,Norwich,Technology,Accessories,3,54.71,0.15,139.51,120.48,19.03
+ORD-10600,2024-05-31,CUST-079,Consumer,East,Norwich,Furniture,Desks,3,484.67,0.15,1235.91,994.29,241.62
+ORD-11497,2024-02-15,CUST-265,Corporate,North,Manchester,Technology,Accessories,4,23.06,0.05,87.63,58.7,28.93
+ORD-10868,2025-04-26,CUST-225,Consumer,West,Cardiff,Furniture,Desks,3,277.57,0.1,749.44,626.94,122.5
+ORD-11459,2025-11-28,CUST-199,Consumer,East,Norwich,Office Supplies,Pens,4,9.76,0.05,37.09,26.82,10.27
+ORD-11341,2025-12-20,CUST-255,Corporate,West,Exeter,Technology,Accessories,4,44.59,0,178.36,115.82,62.54
+ORD-10466,2025-10-16,CUST-137,Small Business,North,Newcastle,Furniture,Storage,7,144.09,0.2,806.9,647.81,159.09
+ORD-11267,2025-07-03,CUST-285,Consumer,East,Cambridge,Furniture,Storage,2,76.61,0.05,145.56,115.79,29.77
+ORD-11156,2025-11-03,CUST-235,Small Business,East,Ipswich,Technology,Laptops,4,808.0,0,3232.0,1856.08,1375.92
+ORD-10829,2024-05-19,CUST-176,Small Business,West,Exeter,Technology,Accessories,4,26.64,0.1,95.9,79.02,16.88
+ORD-10300,2024-12-14,CUST-038,Small Business,South,Southampton,Furniture,Chairs,3,64.16,0.2,153.98,111.2,42.78
+ORD-11393,2025-08-08,CUST-131,Corporate,East,Cambridge,Furniture,Desks,7,157.17,0.15,935.16,727.59,207.57
+ORD-10647,2024-01-20,CUST-223,Small Business,South,Bristol,Office Supplies,Binders,8,5.56,0,44.48,34.89,9.59
+ORD-10297,2025-02-01,CUST-015,Corporate,East,Ipswich,Technology,Laptops,6,556.45,0.2,2670.96,2452.36,218.6
+ORD-10876,2025-02-21,CUST-027,Consumer,East,Cambridge,Office Supplies,Pens,4,11.8,0,47.2,30.99,16.21
+ORD-10096,2024-04-09,CUST-213,Corporate,North,Leeds,Furniture,Desks,6,161.68,0.15,824.57,565.41,259.16
+ORD-11213,2024-07-05,CUST-270,Small Business,West,Plymouth,Office Supplies,Paper,4,7.83,0.2,25.06,17.36,7.7
+ORD-10992,2025-05-15,CUST-258,Corporate,East,Ipswich,Technology,Phones,1,376.13,0,376.13,230.51,145.62
+ORD-10102,2025-02-01,CUST-051,Consumer,West,Exeter,Furniture,Storage,7,172.91,0.1,1089.33,890.31,199.02
+ORD-10540,2025-01-25,CUST-185,Corporate,West,Exeter,Office Supplies,Paper,8,18.25,0,146.0,87.17,58.83
+ORD-10831,2024-04-28,CUST-199,Small Business,East,Cambridge,Technology,Phones,1,677.03,0,677.03,382.84,294.19
+ORD-11049,2024-04-28,CUST-186,Small Business,South,Bristol,Furniture,Storage,7,174.07,0,1218.49,694.44,524.05
+ORD-10672,2024-09-16,CUST-258,Consumer,West,Exeter,Furniture,Desks,3,384.94,0.1,1039.34,647.02,392.32
+ORD-11296,2024-07-16,CUST-261,Small Business,West,Cardiff,Furniture,Desks,8,179.16,0.15,1218.29,818.69,399.6
+ORD-11110,2024-07-23,CUST-268,Small Business,South,Southampton,Furniture,Desks,5,394.15,0,1970.75,1325.27,645.48
+ORD-10446,2024-01-01,CUST-221,Corporate,South,Southampton,Furniture,Desks,1,314.22,0.15,267.09,245.26,21.83
+ORD-11002,2025-10-05,CUST-062,Consumer,East,Ipswich,Office Supplies,Paper,4,21.11,0,84.44,47.86,36.58
+ORD-11088,2025-01-15,CUST-129,Small Business,South,Southampton,Technology,Phones,4,461.63,0.2,1477.22,1299.03,178.19
+ORD-10028,2024-08-06,CUST-155,Corporate,East,Ipswich,Technology,Phones,4,640.43,0,2561.72,1591.46,970.26
+ORD-10723,2024-08-08,CUST-159,Corporate,South,Bristol,Office Supplies,Binders,6,3.03,0,18.18,13.96,4.22
+ORD-11056,2024-06-04,CUST-144,Consumer,North,Leeds,Office Supplies,Pens,8,5.7,0.05,43.32,28.73,14.59
+ORD-10124,2025-12-27,CUST-186,Small Business,West,Cardiff,Furniture,Chairs,6,136.96,0,821.76,616.59,205.17
+ORD-11286,2025-05-01,CUST-061,Consumer,East,Ipswich,Office Supplies,Paper,2,10.79,0.2,17.26,14.9,2.36
+ORD-11354,2024-03-14,CUST-154,Consumer,North,Manchester,Furniture,Desks,7,482.85,0,3379.95,2418.0,961.95
+ORD-10233,2025-03-26,CUST-161,Small Business,East,Norwich,Furniture,Storage,3,176.39,0,529.17,333.47,195.7
+ORD-10454,2025-11-12,CUST-282,Small Business,South,Bristol,Furniture,Desks,5,388.5,0,1942.5,1145.4,797.1
+ORD-10701,2025-05-20,CUST-090,Corporate,East,Ipswich,Technology,Laptops,1,700.57,0,700.57,539.6,160.97
+ORD-10073,2025-08-26,CUST-158,Consumer,South,Bristol,Furniture,Chairs,3,163.47,0,490.41,371.07,119.34
+ORD-10405,2025-10-06,CUST-289,Corporate,North,Newcastle,Office Supplies,Paper,5,6.12,0,30.6,20.78,9.82
+ORD-10905,2024-08-23,CUST-009,,West,Exeter,Technology,Accessories,4,45.75,0.15,155.55,104.64,50.91
+ORD-11217,2025-02-24,CUST-100,Small Business,South,Brighton,Technology,Phones,4,611.22,0.05,2322.64,1825.29,497.35
+ORD-11099,2024-01-11,CUST-130,Consumer,South,Bristol,Furniture,Desks,1,334.1,0.1,300.69,209.68,91.01
+ORD-10927,2024-04-05,CUST-204,Small Business,East,Cambridge,Furniture,Desks,8,374.87,0,2998.96,1713.77,1285.19
+ORD-10423,2024-09-20,CUST-235,Corporate,East,Ipswich,Office Supplies,Binders,8,14.59,0.2,93.38,71.29,22.09
+ORD-10248,2025-10-12,CUST-184,Corporate,South,Brighton,Office Supplies,Paper,3,14.79,0,44.37,27.89,16.48
+ORD-10619,2025-09-20,CUST-160,Consumer,North,Newcastle,Furniture,Desks,2,470.61,0.2,752.98,548.55,204.43
+ORD-10682,2025-02-12,CUST-207,Consumer,East,Cambridge,Technology,Laptops,7,884.27,0,6189.89,3436.18,2753.71
+ORD-10186,2025-10-15,CUST-282,,South,Brighton,Technology,Laptops,8,635.99,0,5087.92,3664.82,1423.1
+ORD-11452,2024-10-14,CUST-012,Small Business,East,Norwich,Furniture,Chairs,6,245.27,0,1471.62,992.71,478.91
+ORD-10998,2024-05-23,CUST-028,Small Business,East,Cambridge,Technology,Accessories,3,35.61,0.1,96.15,73.27,22.88
+ORD-11289,2025-12-05,CUST-174,Small Business,East,Norwich,Furniture,Storage,8,120.07,0,960.56,761.32,199.24
+ORD-11323,2024-05-11,CUST-193,Consumer,East,Ipswich,Technology,Laptops,6,473.59,0.1,2557.39,1901.77,655.62
+ORD-10180,2024-07-27,CUST-245,Consumer,West,Plymouth,Office Supplies,Pens,1,11.21,0.15,9.53,6.55,2.98
+ORD-10093,2024-11-02,CUST-196,Corporate,West,Plymouth,Office Supplies,Binders,5,8.48,0,42.4,33.91,8.49
+ORD-10544,2025-08-13,CUST-270,Small Business,East,Cambridge,Technology,Laptops,6,705.67,0,4234.02,2942.93,1291.09
+ORD-10234,2025-02-11,CUST-202,Corporate,East,Cambridge,Furniture,Storage,8,137.29,0.1,988.49,818.79,169.7
+ORD-10904,2025-10-13,CUST-273,Small Business,East,Ipswich,Technology,Accessories,7,56.08,0.05,372.93,269.82,103.11
+ORD-10266,2024-05-23,CUST-044,Consumer,North,Leeds,Office Supplies,Pens,7,5.84,0,40.88,30.57,10.31
+ORD-10207,2025-11-26,CUST-214,Small Business,West,Exeter,Office Supplies,Binders,6,3.56,0.15,18.16,15.33,2.83
+ORD-10552,2024-02-23,CUST-200,Small Business,South,Southampton,Furniture,Desks,8,316.68,0.15,2153.42,1993.98,159.44
+ORD-10085,2025-07-10,CUST-243,Corporate,West,Plymouth,Furniture,Desks,4,454.36,0.1,1635.7,1173.6,462.1
+ORD-10522,2024-04-04,CUST-269,Corporate,West,Exeter,Office Supplies,Paper,3,20.98,0,62.94,39.97,22.97
+ORD-10013,2024-07-01,CUST-272,Consumer,North,Leeds,Office Supplies,Binders,4,13.1,0,52.4,33.72,18.68
+ORD-10177,2025-05-01,CUST-014,Small Business,North,Newcastle,Furniture,Desks,7,385.83,0.1,2430.73,1693.19,737.54
+ORD-10844,2025-05-10,CUST-011,Small Business,West,Exeter,Furniture,Storage,6,57.53,0,345.18,251.44,93.74
+ORD-11120,2024-07-27,CUST-282,Corporate,West,Plymouth,Technology,Accessories,6,22.24,0,133.44,89.32,44.12
+ORD-10395,2024-04-21,CUST-040,Small Business,South,Bristol,Office Supplies,Pens,5,2.82,0.2,11.28,10.67,0.61
+ORD-11444,2024-03-08,CUST-063,Small Business,East,Cambridge,Technology,Laptops,6,794.21,0,4765.26,3217.1,1548.16
+ORD-11392,2025-09-06,CUST-012,Corporate,West,Exeter,Technology,Accessories,4,56.76,0.15,192.98,164.47,28.51
+ORD-11488,2025-08-18,CUST-203,Consumer,North,Newcastle,Office Supplies,Paper,4,23.02,0.15,78.27,66.76,11.51
+ORD-10483,2024-02-25,CUST-242,Consumer,South,Brighton,Office Supplies,Paper,5,22.38,0,111.9,71.15,40.75
+ORD-10126,2024-03-19,CUST-121,Small Business,North,Leeds,Office Supplies,Pens,6,3.94,0,23.64,17.3,6.34
+ORD-11440,2025-11-10,CUST-200,Consumer,North,Newcastle,Furniture,Storage,5,69.88,0.2,279.52,202.29,77.23
+ORD-10524,2024-01-05,CUST-160,Consumer,East,Norwich,Technology,Accessories,2,52.41,0,104.82,69.89,34.93
+ORD-10005,2024-05-07,CUST-117,Consumer,West,Exeter,Technology,Accessories,6,24.66,0.1,133.16,88.49,44.67
+ORD-11386,2024-11-20,CUST-139,Small Business,South,Southampton,Technology,Phones,1,301.57,0,301.57,172.74,128.83
+ORD-11398,2025-07-15,CUST-138,Consumer,West,Cardiff,Furniture,Chairs,4,104.89,0.1,377.6,305.5,72.1
+ORD-11419,2025-12-15,CUST-034,Consumer,East,Cambridge,Furniture,Storage,6,95.98,0,575.88,328.41,247.47
+ORD-10320,2025-02-24,CUST-206,Corporate,East,Norwich,Furniture,Storage,8,107.98,0,863.84,512.3,351.54
+ORD-11312,2024-11-27,CUST-158,,West,Plymouth,Office Supplies,Binders,8,4.7,0.2,30.08,22.71,7.37
+ORD-11453,2024-10-18,CUST-049,Consumer,East,Cambridge,Technology,Accessories,3,14.65,0.1,39.56,30.8,8.76
+ORD-10485,2025-08-19,CUST-005,Corporate,North,Leeds,Furniture,Chairs,4,71.42,0.2,228.54,206.87,21.67
+ORD-10911,2024-06-26,CUST-257,Corporate,South,Southampton,Technology,Phones,8,616.34,0.1,4437.65,3588.83,848.82
+ORD-10802,2024-02-08,CUST-021,Consumer,South,Bristol,Office Supplies,Pens,8,11.89,0.15,80.85,73.18,7.67
+ORD-10311,2025-01-04,CUST-150,Consumer,North,Leeds,Furniture,Chairs,8,115.96,0,927.68,532.72,394.96
+ORD-10103,2025-09-22,CUST-051,Consumer,West,Plymouth,Furniture,Chairs,4,191.15,0.05,726.37,505.53,220.84
+ORD-10065,2024-07-16,CUST-269,Corporate,East,Ipswich,Technology,Accessories,3,36.79,0,110.37,66.67,43.7
+ORD-11306,2024-11-22,CUST-098,Corporate,West,Cardiff,Furniture,Storage,6,153.54,0.05,875.18,575.83,299.35
+ORD-11185,2024-05-02,CUST-290,Small Business,West,Exeter,Furniture,Desks,1,432.12,0.2,345.7,294.75,50.95
+ORD-10982,2024-03-12,CUST-091,Corporate,South,Southampton,Technology,Phones,3,649.93,0,1949.79,1397.04,552.75
+ORD-10898,2024-05-30,CUST-057,Consumer,East,Norwich,Office Supplies,Binders,7,5.71,0.15,33.97,30.82,3.15
+ORD-10279,2024-02-23,CUST-160,Corporate,South,Southampton,Technology,Accessories,7,59.07,0,413.49,318.08,95.41
+ORD-11492,2024-11-25,CUST-013,Consumer,West,Plymouth,Technology,Accessories,6,23.82,0,142.92,79.79,63.13
+ORD-10711,2025-09-17,CUST-177,Small Business,South,Bristol,Office Supplies,Binders,4,8.35,0.1,30.06,23.58,6.48
+ORD-10255,2025-11-26,CUST-128,Small Business,North,Leeds,Technology,Phones,5,659.38,0.2,2637.52,2353.9,283.62
+ORD-11279,2025-04-19,CUST-098,Consumer,East,Ipswich,Furniture,Desks,3,382.88,0.15,976.34,783.93,192.41
+ORD-11004,2024-08-28,CUST-124,Consumer,East,Norwich,Office Supplies,Pens,2,6.39,0.05,12.14,7.5,4.64
+ORD-11236,2024-02-11,CUST-126,Small Business,South,Brighton,Office Supplies,Paper,5,18.35,0,91.75,61.8,29.95
+ORD-11275,2025-05-02,CUST-177,Corporate,West,Plymouth,Furniture,Storage,8,126.25,0.15,858.5,615.51,242.99
+ORD-10880,2025-01-15,CUST-062,Consumer,South,Brighton,Office Supplies,Binders,7,5.52,0,38.64,29.82,8.82
+ORD-10712,2025-02-18,CUST-267,Small Business,South,Bristol,Furniture,Chairs,6,67.02,0.05,382.01,294.06,87.95
+ORD-11374,2024-10-11,CUST-158,Small Business,West,Exeter,Furniture,Desks,6,377.56,0,2265.36,1719.59,545.77
+ORD-11394,2024-08-22,CUST-272,Small Business,East,Norwich,Furniture,Desks,3,317.49,0,952.47,727.13,225.34
+ORD-11495,2025-10-23,CUST-252,Small Business,East,Ipswich,Furniture,Desks,3,205.75,0.1,555.52,442.59,112.93
+ORD-10561,2025-02-06,CUST-133,Consumer,South,Brighton,Office Supplies,Binders,7,4.3,0,30.1,21.18,8.92
+ORD-10212,2025-12-13,CUST-134,Small Business,South,Southampton,Furniture,Chairs,5,164.9,0.05,783.27,549.58,233.69
+ORD-10988,2024-04-20,CUST-170,Small Business,East,Cambridge,Office Supplies,Pens,8,7.45,0.1,53.64,35.39,18.25
+ORD-11048,2025-06-21,CUST-162,Corporate,West,Plymouth,Furniture,Desks,5,218.26,0,1091.3,689.89,401.41
+ORD-10226,2025-09-20,CUST-222,Small Business,West,Cardiff,Furniture,Chairs,8,180.48,0.05,1371.65,876.46,495.19
+ORD-11409,2024-12-26,CUST-288,Consumer,East,Cambridge,Technology,Phones,3,660.99,0,1982.97,1582.46,400.51
+ORD-10721,2025-01-13,CUST-191,Small Business,North,Manchester,Office Supplies,Binders,6,4.32,0.1,23.33,16.13,7.2
+ORD-10734,2024-10-02,CUST-257,Corporate,North,Leeds,Technology,Accessories,3,42.58,0,127.74,88.4,39.34
+ORD-11316,2025-10-09,CUST-049,Consumer,South,Southampton,Office Supplies,Pens,4,8.09,0.05,30.74,22.36,8.38
+ORD-11138,2024-05-12,CUST-114,Consumer,East,Norwich,Furniture,Desks,6,359.68,0,2158.08,1306.35,851.73
+ORD-10256,2025-12-29,CUST-232,Small Business,East,Norwich,Technology,Accessories,3,29.64,0.1,80.03,62.96,17.07
+ORD-10074,2025-08-05,CUST-253,Corporate,East,Cambridge,Furniture,Chairs,5,149.05,0.15,633.46,484.88,148.58
+ORD-10252,2025-03-27,CUST-179,Consumer,South,Brighton,Furniture,Chairs,4,199.84,0,799.36,614.47,184.89
+ORD-10549,2024-05-15,CUST-229,Small Business,East,Cambridge,Furniture,Desks,2,154.97,0.1,278.95,184.0,94.95
+ORD-11137,2025-05-28,CUST-213,,North,Newcastle,Office Supplies,Binders,5,13.92,0,69.6,38.37,31.23
+ORD-11465,2024-10-08,CUST-125,Consumer,West,Exeter,Office Supplies,Paper,3,22.16,0,66.48,43.03,23.45
+ORD-10198,2025-04-01,CUST-158,Corporate,North,Newcastle,Furniture,Chairs,8,157.52,0.1,1134.14,711.28,422.86
+ORD-11256,2024-04-03,CUST-070,Consumer,East,Cambridge,Office Supplies,Pens,7,7.75,0.2,43.4,37.25,6.15
+ORD-11240,2024-05-11,CUST-179,Small Business,North,Newcastle,Office Supplies,Pens,6,6.76,0,40.56,30.49,10.07
+ORD-11391,2025-12-16,CUST-119,Consumer,West,Exeter,Technology,Phones,6,303.57,0,1821.42,1186.25,635.17
+ORD-11164,2025-11-11,CUST-276,Small Business,North,Leeds,Furniture,Storage,6,53.84,0.1,290.74,183.1,107.64
+ORD-10824,2025-04-07,CUST-185,,West,Cardiff,Office Supplies,Binders,1,10.92,0.15,9.28,8.62,0.66
+ORD-11375,2025-06-07,CUST-176,Small Business,West,Plymouth,Furniture,Storage,3,122.54,0.05,349.24,233.17,116.07
+ORD-10923,2024-03-13,CUST-072,Corporate,South,Brighton,Office Supplies,Binders,8,6.1,0,48.8,36.15,12.65
+ORD-10052,2024-05-10,CUST-094,Consumer,North,Leeds,Furniture,Storage,1,119.01,0,119.01,84.58,34.43
+ORD-11290,2025-01-13,CUST-165,Small Business,North,Manchester,Technology,Laptops,7,730.81,0,5115.67,2955.54,2160.13
+ORD-11100,2024-01-14,CUST-141,Small Business,East,Ipswich,Technology,Accessories,8,23.75,0.05,180.5,106.59,73.91
+ORD-10653,2024-05-23,CUST-269,Small Business,South,Southampton,Technology,Accessories,2,46.72,0.1,84.1,66.91,17.19
+ORD-10285,2025-02-06,CUST-055,Small Business,East,Norwich,Furniture,Desks,2,245.18,0,490.36,286.38,203.98
+ORD-10218,2025-05-14,CUST-147,Corporate,North,Leeds,Technology,Accessories,1,37.58,0,37.58,25.64,11.94
+ORD-10678,2025-11-10,CUST-049,Consumer,South,Southampton,Office Supplies,Paper,3,15.52,0.05,44.23,36.32,7.91
+ORD-10562,2024-02-05,CUST-001,Consumer,North,Leeds,Technology,Accessories,8,46.38,0,371.04,287.23,83.81
+ORD-11016,2025-07-13,CUST-257,Small Business,North,Manchester,Furniture,Chairs,8,189.65,0,1517.2,1150.19,367.01
+ORD-10568,2025-02-02,CUST-022,Consumer,North,Manchester,Office Supplies,Pens,8,5.08,0,40.64,22.73,17.91
+ORD-11348,2025-06-02,CUST-106,Consumer,South,Bristol,Office Supplies,Binders,3,9.48,0.2,22.75,21.32,1.43
+ORD-11426,2025-10-20,CUST-243,Corporate,North,Manchester,Furniture,Storage,5,71.33,0,356.65,231.23,125.42
+ORD-10879,2024-04-09,CUST-271,Corporate,North,Newcastle,Office Supplies,Pens,3,9.7,0,29.1,18.63,10.47
+ORD-11253,2024-05-03,CUST-080,Consumer,East,Ipswich,Furniture,Chairs,3,126.32,0.1,341.06,257.55,83.51
+ORD-11245,2025-11-28,CUST-272,Consumer,East,Cambridge,Technology,Accessories,6,12.65,0.1,68.31,44.02,24.29
+ORD-11385,2025-03-16,CUST-284,Consumer,South,Bristol,Technology,Laptops,5,728.24,0.1,3277.08,2324.5,952.58
+ORD-11119,2025-04-14,CUST-095,Corporate,West,Cardiff,Technology,Phones,3,200.42,0,601.26,463.41,137.85
+ORD-10771,2025-06-08,CUST-013,Corporate,East,Norwich,Furniture,Desks,7,313.64,0,2195.48,1649.08,546.4
+ORD-10683,2025-10-24,CUST-068,Corporate,South,Southampton,Technology,Phones,7,445.42,0.15,2650.25,2343.41,306.84
+ORD-10060,2025-08-29,CUST-292,Consumer,East,Ipswich,Furniture,Chairs,2,217.84,0,435.68,335.65,100.03
+ORD-10330,2025-04-15,CUST-192,Small Business,East,Ipswich,Technology,Phones,7,351.07,0.1,2211.74,1414.48,797.26
+ORD-10578,2025-11-06,CUST-082,Corporate,South,Bristol,Furniture,Chairs,3,96.81,0.15,246.87,221.0,25.87
+ORD-11244,2025-04-07,CUST-074,Small Business,East,Ipswich,Office Supplies,Pens,6,8.75,0,52.5,36.35,16.15
+ORD-10038,2025-09-12,CUST-276,Small Business,North,Newcastle,Furniture,Storage,1,66.61,0.15,56.62,43.9,12.72
+ORD-11313,2024-06-11,CUST-175,Consumer,East,Ipswich,Office Supplies,Binders,7,11.21,0.1,70.62,45.55,25.07
+ORD-10332,2025-11-02,CUST-164,Small Business,East,Ipswich,Technology,Laptops,4,682.78,0,2731.12,2052.05,679.07
+ORD-10542,2024-03-27,CUST-231,Small Business,South,Southampton,Office Supplies,Binders,7,13.32,0.1,83.92,55.47,28.45
+ORD-10840,2024-06-21,CUST-223,Small Business,North,Leeds,Technology,Phones,3,687.08,0,2061.24,1194.15,867.09
+ORD-11124,2025-05-26,CUST-146,Consumer,South,Southampton,Technology,Laptops,2,585.87,0,1171.74,756.96,414.78
+ORD-10725,2025-04-04,CUST-024,Corporate,South,Bristol,Office Supplies,Binders,7,4.07,0.05,27.07,17.33,9.74
+ORD-10670,2024-05-16,CUST-049,Small Business,East,Ipswich,Office Supplies,Binders,7,11.24,0.15,66.88,51.6,15.28
+ORD-10964,2025-04-17,CUST-213,Consumer,East,Ipswich,Technology,Phones,1,218.5,0,218.5,155.4,63.1
+ORD-11357,2025-05-17,CUST-049,Consumer,North,Manchester,Furniture,Chairs,2,242.93,0.05,461.57,297.85,163.72
+ORD-11347,2024-09-16,CUST-022,Small Business,South,Southampton,Furniture,Desks,8,375.91,0.2,2405.82,2059.39,346.43
+ORD-10021,2024-10-12,CUST-048,Small Business,West,Cardiff,Technology,Laptops,2,649.41,0,1298.82,926.11,372.71
+ORD-10499,2025-08-08,CUST-021,Corporate,North,Newcastle,Office Supplies,Paper,1,14.03,0,14.03,9.54,4.49
+ORD-10070,2025-09-02,CUST-031,Corporate,South,Bristol,Office Supplies,Binders,8,8.41,0,67.28,51.47,15.81
+ORD-11071,2025-11-22,CUST-113,Consumer,East,Cambridge,Furniture,Desks,7,433.16,0.05,2880.51,1865.28,1015.23
+ORD-10171,2025-05-25,CUST-181,Consumer,West,Cardiff,Furniture,Desks,2,324.08,0.05,615.75,438.39,177.36
+ORD-10958,2025-08-03,CUST-210,Small Business,East,Cambridge,Furniture,Storage,8,154.71,0,1237.68,955.94,281.74
+ORD-10355,2025-03-24,CUST-067,Small Business,South,Southampton,Office Supplies,Binders,1,12.35,0.2,9.88,8.91,0.97
+ORD-10416,2025-06-04,CUST-047,,West,Cardiff,Furniture,Storage,1,125.96,0,125.96,81.53,44.43
+ORD-11498,2025-06-26,CUST-165,Corporate,South,Southampton,Furniture,Desks,4,347.05,0.05,1318.79,815.32,503.47
+ORD-11076,2025-05-28,CUST-140,Small Business,West,Plymouth,Furniture,Chairs,5,89.82,0,449.1,272.83,176.27
+ORD-10527,2024-10-17,CUST-026,Consumer,South,Brighton,Technology,Laptops,6,590.12,0.1,3186.65,2340.1,846.55
+ORD-10156,2025-01-27,CUST-272,Consumer,North,Manchester,Office Supplies,Paper,6,18.58,0,111.48,73.69,37.79
+ORD-11134,2024-02-11,CUST-155,Small Business,North,Manchester,Furniture,Desks,2,163.4,0.05,310.46,221.62,88.84
+ORD-10632,2025-08-18,CUST-056,Consumer,East,Norwich,Office Supplies,Binders,7,7.27,0.05,48.35,34.5,13.85
+ORD-10976,2024-05-01,CUST-140,Corporate,North,Manchester,Furniture,Desks,7,224.22,0.1,1412.59,1032.31,380.28
+ORD-10991,2024-06-15,CUST-064,Consumer,East,Norwich,Furniture,Desks,5,172.62,0,863.1,572.64,290.46
+ORD-10661,2024-03-08,CUST-095,Consumer,East,Ipswich,Furniture,Storage,6,142.09,0.05,809.91,617.07,192.84
+ORD-10431,2025-12-16,CUST-133,Corporate,West,Cardiff,Furniture,Storage,4,41.18,0.05,156.48,114.52,41.96
+ORD-10365,2024-12-12,CUST-259,Corporate,North,Leeds,Furniture,Chairs,2,236.06,0.2,377.7,364.92,12.78
+ORD-11439,2024-02-18,CUST-157,Small Business,North,Newcastle,Furniture,Storage,7,154.02,0,1078.14,728.22,349.92
+ORD-10915,2024-09-02,CUST-104,Corporate,East,Ipswich,Technology,Accessories,4,15.32,0.1,55.15,33.87,21.28
+ORD-10761,2024-01-11,CUST-185,Small Business,North,Leeds,Furniture,Chairs,3,165.39,0,496.17,327.52,168.65
+ORD-11264,2025-10-31,CUST-250,Consumer,East,Cambridge,Furniture,Storage,7,41.43,0.05,275.51,179.67,95.84
+ORD-10217,2025-12-25,CUST-248,Small Business,South,Bristol,Technology,Laptops,6,677.58,0,4065.48,2863.96,1201.52
+ORD-10849,2025-07-05,CUST-111,Consumer,South,Brighton,Office Supplies,Paper,1,18.25,0,18.25,10.21,8.04
+ORD-10853,2025-06-28,CUST-075,Corporate,North,Leeds,Office Supplies,Pens,6,6.07,0.15,30.96,20.84,10.12
+ORD-11435,2024-08-04,CUST-101,Small Business,South,Southampton,Furniture,Storage,5,132.21,0.1,594.95,428.14,166.81
+ORD-10324,2024-06-11,CUST-099,Small Business,North,Leeds,Furniture,Storage,3,110.95,0.2,266.28,253.91,12.37
+ORD-10278,2025-11-02,CUST-258,Small Business,West,Plymouth,Technology,Phones,6,324.13,0,1944.78,1471.22,473.56
+ORD-10462,2025-09-26,CUST-255,Corporate,East,Ipswich,Office Supplies,Paper,2,11.41,0.15,19.4,18.07,1.33
+ORD-10343,2025-06-16,CUST-207,Consumer,East,Norwich,Furniture,Storage,6,179.37,0.05,1022.41,688.58,333.83
+ORD-10380,2025-07-28,CUST-021,Small Business,North,Newcastle,Technology,Accessories,4,27.3,0.15,92.82,76.81,16.01
+ORD-11390,2025-06-20,CUST-040,Consumer,East,Ipswich,Furniture,Chairs,7,154.82,0.2,866.99,715.86,151.13
+ORD-11336,2024-12-01,CUST-128,Corporate,West,Cardiff,Furniture,Storage,8,145.54,0.05,1106.1,803.62,302.48
+ORD-10914,2024-06-17,CUST-172,Corporate,North,Leeds,Furniture,Storage,5,99.39,0,496.95,286.29,210.66
+ORD-11209,2025-05-07,CUST-280,Corporate,West,Exeter,Furniture,Chairs,7,179.46,0.05,1193.41,1002.68,190.73
+ORD-10739,2024-09-08,CUST-002,Consumer,East,Ipswich,Furniture,Chairs,6,147.36,0,884.16,688.32,195.84
+ORD-10484,2024-12-05,CUST-010,Small Business,South,Southampton,Office Supplies,Pens,5,4.12,0.1,18.54,13.82,4.72
+ORD-10086,2025-01-25,CUST-052,Small Business,West,Exeter,Office Supplies,Pens,8,11.81,0,94.48,54.95,39.53
+ORD-10901,2024-10-04,CUST-076,Consumer,West,Exeter,Office Supplies,Binders,2,14.19,0.2,22.7,15.62,7.08
+ORD-10153,2024-10-27,CUST-228,Small Business,East,Cambridge,Technology,Laptops,5,597.56,0,2987.8,1976.37,1011.43
+ORD-11478,2025-08-25,CUST-275,Corporate,West,Plymouth,Technology,Laptops,4,603.37,0.1,2172.13,1399.08,773.05
+ORD-10592,2025-01-27,CUST-105,Small Business,East,Norwich,Furniture,Storage,6,45.72,0,274.32,195.33,78.99
+ORD-10551,2025-02-26,CUST-136,Corporate,West,Cardiff,Technology,Accessories,3,32.01,0,96.03,66.69,29.34
+ORD-10231,2024-11-04,CUST-185,Corporate,East,Cambridge,Furniture,Chairs,7,72.02,0,504.14,330.35,173.79
+ORD-10387,2024-03-29,CUST-201,Consumer,East,Ipswich,Furniture,Desks,1,288.29,0.05,273.88,169.83,104.05
+ORD-11030,2024-02-25,CUST-267,Consumer,East,Norwich,Furniture,Storage,8,173.08,0,1384.64,788.71,595.93
+ORD-10213,2025-06-09,CUST-212,Consumer,West,Cardiff,Furniture,Chairs,8,212.54,0.2,1360.26,1292.13,68.13
+ORD-10260,2025-04-12,CUST-185,Corporate,North,Manchester,Furniture,Chairs,3,249.18,0.15,635.41,467.56,167.85
+ORD-11230,2025-07-25,CUST-276,Consumer,East,Ipswich,Office Supplies,Binders,3,12.04,0.2,28.9,24.38,4.52
+ORD-10575,2025-12-24,CUST-268,Consumer,East,Cambridge,Furniture,Storage,8,153.04,0.15,1040.67,712.22,328.45
+ORD-11129,2024-03-22,CUST-233,Small Business,South,Southampton,Technology,Phones,5,674.1,0,3370.5,2287.64,1082.86
+ORD-11059,2025-03-25,CUST-073,Consumer,South,Brighton,Technology,Phones,5,669.6,0.1,3013.2,2472.05,541.15
+ORD-11363,2024-08-22,CUST-225,Small Business,West,Exeter,Office Supplies,Paper,3,7.03,0,21.09,15.5,5.59
+ORD-11463,2025-02-08,CUST-008,Consumer,South,Southampton,Technology,Phones,1,679.7,0.15,577.75,409.55,168.2
+ORD-11029,2025-03-30,CUST-258,Corporate,East,Norwich,Furniture,Storage,4,80.98,0.1,291.53,250.47,41.06
+ORD-11204,2024-05-17,CUST-050,Small Business,North,Manchester,Furniture,Desks,5,314.32,0,1571.6,991.24,580.36
+ORD-10480,2025-08-08,CUST-295,Corporate,South,Brighton,Office Supplies,Pens,4,11.97,0,47.88,27.19,20.69
+ORD-10514,2024-07-03,CUST-107,Small Business,South,Bristol,Office Supplies,Binders,1,14.75,0,14.75,8.2,6.55
+ORD-10627,2025-03-10,CUST-185,Small Business,South,Bristol,Office Supplies,Paper,6,13.15,0,78.9,52.58,26.32
+ORD-10491,2024-09-03,CUST-298,Consumer,South,Bristol,Furniture,Desks,6,468.41,0.05,2669.94,1926.73,743.21
+ORD-10170,2024-10-24,CUST-098,Small Business,West,Cardiff,Office Supplies,Binders,3,5.98,0.2,14.35,11.34,3.01
+ORD-11239,2025-01-14,CUST-276,Small Business,East,Ipswich,Technology,Phones,2,470.18,0.15,799.31,548.82,250.49
+ORD-10071,2024-04-11,CUST-002,Small Business,South,Southampton,Office Supplies,Paper,2,10.29,0,20.58,12.55,8.03
+ORD-10456,2025-03-20,CUST-298,Consumer,East,Ipswich,Technology,Laptops,2,807.48,0.05,1534.21,1206.84,327.37
+ORD-11077,2024-05-06,CUST-213,Consumer,West,Cardiff,Office Supplies,Binders,5,4.57,0.2,18.28,13.05,5.23
+ORD-10206,2025-08-14,CUST-090,Consumer,East,Ipswich,Technology,Phones,4,638.13,0.05,2424.89,1595.64,829.25
+ORD-11192,2024-03-11,CUST-112,Corporate,East,Cambridge,Furniture,Chairs,4,185.05,0,740.2,437.33,302.87
+ORD-10513,2025-09-15,CUST-255,Corporate,East,Cambridge,Furniture,Storage,6,120.52,0,723.12,508.77,214.35
+ORD-11011,2025-09-24,CUST-244,Consumer,West,Exeter,Technology,Laptops,3,463.28,0,1389.84,797.96,591.88
+ORD-11373,2025-05-24,CUST-021,Consumer,North,Manchester,Furniture,Storage,2,44.33,0.1,79.79,50.64,29.15
+ORD-10576,2025-02-25,CUST-155,Consumer,South,Southampton,Technology,Accessories,3,44.58,0.15,113.68,90.27,23.41
+ORD-11359,2025-02-24,CUST-141,Small Business,North,Newcastle,Technology,Accessories,1,16.42,0.1,14.78,10.86,3.92
+ORD-10941,2025-03-30,CUST-101,Small Business,North,Manchester,Office Supplies,Binders,4,13.22,0,52.88,39.35,13.53
+ORD-10121,2025-11-14,CUST-131,Consumer,East,Cambridge,Technology,Laptops,1,627.87,0,627.87,377.42,250.45
+ORD-10067,2025-07-20,CUST-246,Small Business,East,Cambridge,Office Supplies,Paper,8,17.76,0,142.08,109.14,32.94
+ORD-11417,2024-10-12,CUST-208,Corporate,South,Brighton,Technology,Laptops,5,645.24,0,3226.2,2532.52,693.68
+ORD-10140,2024-07-23,CUST-064,Small Business,South,Southampton,Furniture,Chairs,6,181.82,0.1,981.83,854.82,127.01
+ORD-10004,2024-08-08,CUST-236,Corporate,East,Ipswich,Technology,Laptops,6,620.97,0.2,2980.66,2369.58,611.08
+ORD-10245,2025-01-09,CUST-201,Corporate,East,Ipswich,Technology,Phones,8,256.98,0.1,1850.26,1627.15,223.11
+ORD-10388,2024-10-29,CUST-022,Small Business,South,Brighton,Furniture,Storage,6,164.18,0,985.08,678.11,306.97
+ORD-10719,2025-10-13,CUST-066,Consumer,West,Exeter,Furniture,Storage,8,170.34,0.15,1158.31,1081.07,77.24
+ORD-11345,2024-06-16,CUST-298,Corporate,East,Cambridge,Office Supplies,Binders,3,11.71,0,35.13,25.78,9.35
+ORD-11225,2025-12-26,CUST-056,Small Business,West,Plymouth,Office Supplies,Pens,7,10.37,0.1,65.33,49.34,15.99
+ORD-10310,2025-07-07,CUST-079,Small Business,East,Norwich,Office Supplies,Binders,2,6.57,0,13.14,8.52,4.62
+ORD-10650,2024-09-01,CUST-019,Corporate,North,Leeds,Technology,Laptops,5,462.47,0.05,2196.73,1552.39,644.34
+ORD-10288,2025-02-09,CUST-282,Corporate,North,Leeds,Office Supplies,Binders,3,6.12,0,18.36,14.47,3.89
+ORD-10897,2024-04-15,CUST-219,Consumer,East,Cambridge,Technology,Accessories,7,54.32,0,380.24,209.25,170.99
+ORD-10269,2024-11-20,CUST-035,,South,Brighton,Furniture,Storage,3,98.92,0.2,237.41,198.16,39.25
+ORD-11284,2025-10-05,CUST-047,Consumer,North,Manchester,Office Supplies,Paper,2,20.74,0,41.48,22.9,18.58
+ORD-11130,2024-02-19,CUST-130,Small Business,West,Exeter,Furniture,Chairs,8,83.09,0.05,631.48,426.6,204.88
+ORD-11175,2025-06-12,CUST-156,Corporate,West,Exeter,Office Supplies,Pens,5,9.89,0,49.45,38.73,10.72
+ORD-11438,2025-11-15,CUST-002,Corporate,East,Cambridge,Furniture,Desks,4,151.5,0,606.0,366.9,239.1
+ORD-10864,2025-11-26,CUST-292,Consumer,South,Southampton,Office Supplies,Paper,8,10.8,0,86.4,53.24,33.16
+ORD-11031,2024-11-08,CUST-233,Small Business,South,Brighton,Technology,Phones,3,562.46,0,1687.38,1340.59,346.79
+ORD-11079,2024-01-24,CUST-048,Corporate,East,Norwich,Furniture,Desks,5,220.93,0.15,938.95,766.68,172.27
+ORD-10732,2025-02-26,CUST-253,Small Business,East,Ipswich,Furniture,Desks,2,479.55,0,959.1,576.07,383.03
+ORD-10090,2024-06-19,CUST-272,Corporate,East,Cambridge,Technology,Laptops,1,595.97,0,595.97,381.19,214.78
+ORD-10716,2025-10-04,CUST-168,Small Business,South,Bristol,Furniture,Desks,3,249.59,0.15,636.45,482.52,153.93
+ORD-11434,2024-02-09,CUST-257,Corporate,North,Leeds,Office Supplies,Binders,6,11.54,0,69.24,38.13,31.11
+ORD-11028,2025-02-11,CUST-183,Consumer,West,Cardiff,Office Supplies,Paper,2,18.13,0,36.26,28.45,7.81
+ORD-10273,2024-09-07,CUST-062,Small Business,North,Leeds,Furniture,Chairs,1,146.14,0,146.14,104.71,41.43
+ORD-11428,2024-11-30,CUST-076,Small Business,South,Brighton,Technology,Phones,3,274.36,0,823.08,469.04,354.04
+ORD-11424,2024-02-11,CUST-201,Consumer,South,Southampton,Furniture,Desks,2,184.99,0,369.98,260.31,109.67
+ORD-11472,2025-08-11,CUST-284,Corporate,South,Southampton,Office Supplies,Binders,1,14.73,0,14.73,11.63,3.1
+ORD-11111,2025-10-08,CUST-148,Small Business,South,Brighton,Technology,Accessories,4,29.28,0.15,99.55,77.12,22.43
+ORD-10939,2025-09-01,CUST-051,Small Business,South,Brighton,Office Supplies,Binders,7,7.58,0.15,45.1,32.94,12.16
+ORD-10654,2025-05-23,CUST-121,Small Business,North,Manchester,Technology,Accessories,6,16.11,0,96.66,73.28,23.38
+ORD-10100,2025-01-15,CUST-238,Consumer,North,Newcastle,Office Supplies,Paper,6,14.43,0.1,77.92,52.41,25.51
+ORD-10488,2024-09-10,CUST-155,Corporate,East,Norwich,Furniture,Desks,3,287.69,0,863.07,549.51,313.56
+ORD-11469,2024-06-13,CUST-283,Corporate,West,Plymouth,Technology,Phones,1,652.4,0.2,521.92,397.05,124.87
+ORD-10220,2025-02-10,CUST-042,Small Business,North,Newcastle,Furniture,Desks,4,310.65,0.15,1056.21,753.59,302.62
+ORD-10580,2024-06-29,CUST-215,Small Business,South,Brighton,Technology,Phones,2,457.45,0,914.9,668.2,246.7
+ORD-10178,2025-04-30,CUST-195,Small Business,East,Norwich,Office Supplies,Pens,1,7.78,0.1,7.0,5.21,1.79
+ORD-11148,2025-02-24,CUST-210,Consumer,South,Brighton,Office Supplies,Paper,3,17.38,0.1,46.93,36.76,10.17
+ORD-11190,2025-11-21,CUST-296,Corporate,East,Norwich,Office Supplies,Binders,4,10.84,0.2,34.69,32.75,1.94
+ORD-10967,2025-03-22,CUST-027,Consumer,South,Southampton,Technology,Laptops,6,536.02,0.2,2572.9,2494.81,78.09
+ORD-10869,2024-05-23,CUST-216,Consumer,East,Ipswich,Office Supplies,Binders,4,3.07,0,12.28,7.34,4.94
+ORD-10335,2024-10-27,CUST-182,Small Business,North,Leeds,Furniture,Chairs,3,200.77,0.15,511.96,466.73,45.23
+ORD-10887,2024-02-10,CUST-001,Consumer,South,Bristol,Furniture,Chairs,1,111.38,0.15,94.67,88.55,6.12
+ORD-11299,2025-12-22,CUST-120,,South,Brighton,Technology,Accessories,3,56.33,0,168.99,123.29,45.7
+ORD-11106,2025-10-12,CUST-238,Small Business,North,Leeds,Furniture,Desks,2,346.2,0,692.4,461.53,230.87
+ORD-10334,2024-12-17,CUST-286,Corporate,South,Brighton,Office Supplies,Pens,8,8.38,0.15,56.98,42.88,14.1
+ORD-10091,2025-08-02,CUST-074,Corporate,South,Brighton,Technology,Laptops,7,485.54,0.1,3058.9,2449.79,609.11
+ORD-10919,2025-08-23,CUST-119,Consumer,North,Leeds,Furniture,Chairs,8,88.79,0,710.32,547.87,162.45
+ORD-10681,2025-08-05,CUST-196,Small Business,South,Brighton,Technology,Laptops,5,810.7,0,4053.5,3038.25,1015.25
+ORD-10216,2024-07-07,CUST-119,Consumer,North,Leeds,Office Supplies,Paper,2,21.78,0.2,34.85,31.23,3.62
+ORD-11177,2025-02-17,CUST-104,Consumer,North,Leeds,Furniture,Desks,3,376.03,0.05,1071.69,836.77,234.92
+ORD-10786,2024-06-28,CUST-292,Small Business,West,Cardiff,Technology,Laptops,7,854.98,0.05,5685.62,3867.21,1818.41
+ORD-10742,2025-04-18,CUST-047,Small Business,East,Ipswich,Technology,Phones,1,204.68,0.2,163.74,126.96,36.78
+ORD-10616,2025-10-16,CUST-162,Consumer,North,Newcastle,Office Supplies,Paper,3,20.33,0.2,48.79,34.99,13.8
+ORD-10808,2025-01-25,CUST-157,Corporate,West,Exeter,Technology,Phones,3,497.59,0.1,1343.49,1092.2,251.29
+ORD-10342,2024-05-12,CUST-234,Corporate,North,Newcastle,Furniture,Storage,3,122.41,0,367.23,277.61,89.62
+ORD-10535,2025-09-02,CUST-056,Corporate,West,Plymouth,Furniture,Storage,8,53.67,0,429.36,269.21,160.15
+ORD-11074,2025-11-01,CUST-118,Corporate,North,Manchester,Office Supplies,Paper,4,12.24,0,48.96,37.19,11.77
+ORD-10910,2024-11-02,CUST-017,Consumer,West,Plymouth,Furniture,Storage,1,87.23,0,87.23,50.4,36.83
+ORD-11205,2025-05-19,CUST-207,Small Business,South,Southampton,Technology,Laptops,3,681.63,0,2044.89,1461.69,583.2
+ORD-11210,2024-04-30,CUST-234,Corporate,East,Ipswich,Office Supplies,Pens,6,11.24,0,67.44,41.4,26.04
+ORD-11206,2025-09-21,CUST-267,Corporate,North,Newcastle,Technology,Laptops,5,562.8,0,2814.0,2047.51,766.49
+ORD-10944,2025-09-06,CUST-202,Corporate,East,Norwich,Furniture,Chairs,7,242.24,0,1695.68,1168.21,527.47
+ORD-10877,2024-04-22,CUST-001,Consumer,East,Norwich,Furniture,Desks,7,480.05,0,3360.35,2116.89,1243.46
+ORD-10722,2025-01-18,CUST-157,Corporate,East,Cambridge,Furniture,Desks,3,159.79,0,479.37,357.59,121.78
+ORD-10123,2024-12-28,CUST-294,Corporate,North,Manchester,Furniture,Storage,1,45.92,0.05,43.62,35.83,7.79
+ORD-10314,2025-11-15,CUST-215,Corporate,East,Ipswich,Office Supplies,Binders,4,14.65,0.1,52.74,33.12,19.62
+ORD-10863,2024-06-28,CUST-058,Consumer,North,Manchester,Furniture,Chairs,1,157.6,0.05,149.72,106.2,43.52
+ORD-10008,2024-11-28,CUST-162,Small Business,North,Leeds,Technology,Laptops,7,812.27,0,5685.89,3221.32,2464.57
+ORD-11241,2025-12-19,CUST-034,Corporate,South,Brighton,Furniture,Desks,1,350.99,0.05,333.44,247.34,86.1
+ORD-11479,2025-10-06,CUST-251,,South,Brighton,Technology,Phones,3,544.5,0.15,1388.47,1207.7,180.77
+ORD-11039,2025-03-30,CUST-030,Small Business,West,Plymouth,Technology,Phones,1,204.44,0,204.44,136.99,67.45
+ORD-10097,2024-07-24,CUST-152,Corporate,South,Bristol,Office Supplies,Binders,5,9.37,0.2,37.48,27.69,9.79
+ORD-10329,2024-06-26,CUST-193,Small Business,North,Manchester,Technology,Phones,5,504.17,0.15,2142.72,1995.9,146.82
+ORD-10745,2024-03-07,CUST-012,Corporate,South,Bristol,Office Supplies,Paper,4,7.55,0.1,27.18,22.11,5.07
+ORD-11027,2024-02-28,CUST-067,Consumer,South,Bristol,Furniture,Chairs,6,113.69,0,682.14,477.91,204.23
+ORD-10573,2024-03-05,CUST-298,Consumer,North,Leeds,Furniture,Chairs,3,203.93,0.15,520.02,393.06,126.96
+ORD-11058,2024-08-03,CUST-141,Consumer,West,Exeter,Office Supplies,Binders,6,9.9,0,59.4,37.83,21.57
+ORD-10983,2024-03-19,CUST-024,Consumer,South,Brighton,Office Supplies,Paper,8,16.88,0.1,121.54,74.31,47.23
+ORD-10861,2025-06-04,CUST-004,Consumer,South,Bristol,Furniture,Desks,2,330.25,0.05,627.48,365.57,261.91
+ORD-10502,2024-11-27,CUST-084,Corporate,West,Plymouth,Technology,Laptops,4,654.16,0.05,2485.81,1498.14,987.67
+ORD-10693,2024-01-17,CUST-276,Small Business,South,Brighton,Technology,Laptops,3,666.5,0.15,1699.58,1220.58,479.0
+ORD-10125,2025-03-23,CUST-171,Small Business,North,Leeds,Technology,Phones,2,494.44,0.05,939.44,759.1,180.34
+ORD-10931,2024-05-25,CUST-133,Consumer,North,Leeds,Furniture,Desks,8,178.6,0.2,1143.04,935.76,207.28
+ORD-10615,2025-12-10,CUST-150,Corporate,South,Bristol,Furniture,Chairs,6,70.05,0.05,399.28,298.02,101.26
+ORD-11358,2025-01-23,CUST-111,Small Business,East,Ipswich,Technology,Accessories,1,59.2,0,59.2,37.15,22.05
+ORD-10109,2024-02-01,CUST-042,Corporate,North,Manchester,Furniture,Desks,2,299.2,0.05,568.48,435.7,132.78
+ORD-10517,2024-12-04,CUST-275,Consumer,East,Cambridge,Office Supplies,Binders,1,13.99,0.15,11.89,8.17,3.72
+ORD-10229,2025-03-17,CUST-167,Small Business,West,Exeter,Office Supplies,Pens,2,7.12,0,14.24,8.15,6.09
+ORD-10865,2024-08-10,CUST-004,Corporate,East,Ipswich,Office Supplies,Pens,1,10.26,0.05,9.75,7.93,1.82
+ORD-11147,2024-10-22,CUST-215,Corporate,North,Manchester,Office Supplies,Binders,3,12.16,0.15,31.01,28.34,2.67
+ORD-10543,2024-12-29,CUST-211,Small Business,South,Bristol,Technology,Phones,8,502.29,0.2,3214.66,2944.34,270.32
+ORD-11456,2025-11-04,CUST-245,,East,Norwich,Furniture,Storage,2,47.29,0,94.58,74.46,20.12
+ORD-10614,2024-09-21,CUST-164,Small Business,West,Exeter,Office Supplies,Paper,1,12.46,0.2,9.97,7.66,2.31
+ORD-10227,2025-11-27,CUST-079,Corporate,West,Plymouth,Technology,Accessories,4,24.77,0.15,84.22,56.31,27.91
+ORD-11061,2025-03-12,CUST-222,Consumer,West,Exeter,Office Supplies,Paper,5,21.62,0,108.1,78.81,29.29
+ORD-10794,2025-01-21,CUST-173,Consumer,South,Brighton,Technology,Phones,4,654.38,0,2617.52,1450.13,1167.39
+ORD-11220,2025-11-07,CUST-140,Small Business,West,Cardiff,Furniture,Chairs,8,162.84,0,1302.72,739.42,563.3
+ORD-10795,2025-11-27,CUST-168,Corporate,North,Manchester,Technology,Laptops,3,808.62,0.15,2061.98,1435.53,626.45
+ORD-11151,2024-10-27,CUST-091,Corporate,North,Manchester,Technology,Laptops,8,709.92,0,5679.36,4094.35,1585.01
+ORD-10352,2024-02-16,CUST-048,Small Business,North,Manchester,Technology,Accessories,6,42.36,0,254.16,196.63,57.53
+ORD-10183,2025-05-06,CUST-203,Corporate,East,Cambridge,Office Supplies,Pens,2,4.73,0.1,8.51,6.8,1.71
+ORD-11420,2024-02-28,CUST-121,Corporate,West,Exeter,Furniture,Desks,8,203.92,0,1631.36,1033.38,597.98
+ORD-10724,2025-04-08,CUST-231,Small Business,East,Ipswich,Furniture,Desks,3,442.06,0.2,1060.94,775.33,285.61
+ORD-10948,2025-01-26,CUST-114,Corporate,North,Manchester,Office Supplies,Pens,8,3.31,0.15,22.51,18.74,3.77
+ORD-10694,2024-03-29,CUST-228,Consumer,East,Cambridge,Furniture,Chairs,1,150.06,0,150.06,88.76,61.3
+ORD-10763,2024-06-29,CUST-108,Consumer,East,Cambridge,Technology,Laptops,3,824.15,0.05,2348.83,1764.63,584.2
+ORD-10959,2025-09-10,CUST-111,Corporate,East,Ipswich,Furniture,Chairs,6,81.78,0.05,466.15,366.89,99.26
+ORD-11271,2025-01-24,CUST-013,Small Business,South,Southampton,Furniture,Storage,3,48.91,0.15,124.72,87.83,36.89
+ORD-10952,2025-04-06,CUST-061,Small Business,South,Southampton,Technology,Phones,3,205.07,0.15,522.93,425.62,97.31
+ORD-10774,2025-12-23,CUST-207,Corporate,South,Southampton,Office Supplies,Pens,5,7.43,0,37.15,27.58,9.57
+ORD-11133,2025-05-20,CUST-292,Small Business,West,Exeter,Furniture,Desks,4,490.15,0.2,1568.48,1521.22,47.26
+ORD-10106,2024-01-03,CUST-184,Consumer,East,Norwich,Technology,Laptops,3,693.1,0,2079.3,1487.25,592.05
+ORD-11368,2025-01-15,CUST-071,Corporate,North,Manchester,Office Supplies,Paper,5,7.26,0.1,32.67,24.78,7.89
+ORD-10746,2025-11-25,CUST-166,Small Business,East,Cambridge,Office Supplies,Pens,1,10.83,0.05,10.29,7.69,2.6
+ORD-10981,2024-01-04,CUST-162,Small Business,North,Newcastle,Technology,Accessories,8,55.39,0.15,376.65,277.54,99.11
+ORD-10228,2025-02-02,CUST-045,Corporate,East,Norwich,Furniture,Chairs,5,77.39,0.05,367.6,247.64,119.96
+ORD-10401,2024-09-26,CUST-181,Consumer,South,Southampton,Furniture,Storage,2,92.99,0.1,167.38,113.99,53.39
+ORD-10651,2024-06-12,CUST-249,Small Business,East,Norwich,Technology,Laptops,5,566.28,0.15,2406.69,1947.09,459.6
+ORD-10590,2024-03-13,CUST-278,Small Business,West,Plymouth,Office Supplies,Binders,5,9.37,0.05,44.51,34.59,9.92
+ORD-10546,2024-11-15,CUST-170,Corporate,North,Manchester,Furniture,Storage,8,148.99,0.05,1132.32,808.32,324.0
+ORD-10137,2025-06-23,CUST-085,Consumer,North,Newcastle,Office Supplies,Binders,3,13.52,0.1,36.5,26.13,10.37
+ORD-11308,2024-06-05,CUST-077,Corporate,South,Southampton,Office Supplies,Binders,1,8.04,0.2,6.43,4.7,1.73
+ORD-10656,2025-12-17,CUST-189,Consumer,North,Manchester,Furniture,Storage,4,99.33,0,397.32,305.88,91.44
+ORD-11131,2024-12-11,CUST-019,Corporate,East,Ipswich,Technology,Accessories,5,23.36,0,116.8,76.42,40.38
+ORD-10362,2024-02-25,CUST-050,Small Business,South,Bristol,Furniture,Desks,8,346.05,0.15,2353.14,1977.45,375.69
+ORD-10144,2024-01-20,CUST-025,Consumer,East,Norwich,Technology,Laptops,7,696.96,0,4878.72,3629.98,1248.74
+ORD-10665,2024-01-22,CUST-087,Consumer,North,Leeds,Office Supplies,Pens,4,8.12,0,32.48,25.77,6.71
+ORD-10404,2025-05-05,CUST-083,Consumer,West,Cardiff,Technology,Accessories,7,18.06,0,126.42,77.23,49.19
+ORD-11169,2025-08-18,CUST-001,Small Business,West,Exeter,Technology,Accessories,4,54.33,0.1,195.59,163.3,32.29
+ORD-10472,2024-11-05,CUST-284,Small Business,North,Newcastle,Furniture,Chairs,6,100.82,0,604.92,449.38,155.54
+ORD-10785,2025-08-12,CUST-201,Small Business,North,Newcastle,Office Supplies,Paper,8,10.76,0,86.08,62.41,23.67
+ORD-11476,2025-08-01,CUST-281,Small Business,South,Southampton,Technology,Phones,4,633.28,0.05,2406.46,1654.36,752.1
+ORD-10866,2025-04-16,CUST-221,,East,Cambridge,Furniture,Desks,6,187.51,0.15,956.3,671.14,285.16
+ORD-10258,2025-04-14,CUST-146,Corporate,East,Cambridge,Technology,Accessories,7,29.89,0.2,167.38,126.16,41.22
+ORD-10855,2025-05-16,CUST-088,Consumer,North,Manchester,Office Supplies,Binders,5,11.41,0.1,51.34,35.24,16.1
+ORD-10384,2025-12-03,CUST-286,Consumer,South,Brighton,Technology,Phones,1,558.43,0,558.43,317.36,241.07
+ORD-10351,2024-09-27,CUST-060,Small Business,West,Cardiff,Technology,Laptops,1,815.93,0.2,652.74,508.03,144.71
+ORD-10181,2025-01-20,CUST-136,Small Business,East,Ipswich,Technology,Phones,6,656.06,0.1,3542.72,2513.65,1029.07
+ORD-11182,2025-08-26,CUST-134,Small Business,East,Ipswich,Office Supplies,Paper,8,16.24,0,129.92,82.1,47.82
+ORD-11024,2024-07-19,CUST-221,Corporate,West,Plymouth,Office Supplies,Pens,8,9.38,0,75.04,48.53,26.51
+ORD-11360,2025-08-01,CUST-232,Small Business,West,Exeter,Office Supplies,Pens,5,9.24,0.1,41.58,26.77,14.81
+ORD-10128,2025-04-04,CUST-029,Corporate,East,Cambridge,Office Supplies,Binders,2,4.81,0.05,9.14,6.35,2.79
+ORD-10032,2024-04-24,CUST-158,Corporate,North,Manchester,Office Supplies,Paper,6,15.91,0.1,85.91,65.69,20.22
+ORD-10718,2024-08-07,CUST-300,Corporate,West,Exeter,Technology,Phones,7,538.41,0.1,3391.98,2599.55,792.43
+ORD-10583,2025-01-02,CUST-088,Corporate,East,Cambridge,Technology,Phones,1,263.61,0,263.61,153.98,109.63
+ORD-10760,2025-09-30,CUST-004,Consumer,South,Southampton,Technology,Phones,6,567.29,0.2,2722.99,2501.82,221.17
+ORD-11173,2024-07-17,CUST-154,Corporate,North,Newcastle,Technology,Laptops,5,588.24,0,2941.2,2181.21,759.99
+ORD-11152,2025-05-27,CUST-017,,North,Newcastle,Office Supplies,Binders,3,13.47,0,40.41,26.89,13.52
+ORD-10391,2025-04-17,CUST-183,Corporate,North,Leeds,Furniture,Storage,2,49.43,0,98.86,72.31,26.55
+ORD-11317,2024-05-31,CUST-142,Consumer,East,Ipswich,Technology,Accessories,5,34.55,0,172.75,114.42,58.33
+ORD-10370,2025-07-09,CUST-274,Small Business,East,Cambridge,Office Supplies,Paper,8,20.22,0.1,145.58,112.04,33.54
+ORD-11096,2025-12-24,CUST-086,Small Business,West,Plymouth,Furniture,Desks,6,443.53,0.1,2395.06,1515.67,879.39
+ORD-11369,2024-09-06,CUST-278,Consumer,West,Cardiff,Technology,Laptops,8,748.82,0.05,5691.03,3615.49,2075.54
+ORD-10054,2024-03-24,CUST-016,Small Business,West,Cardiff,Technology,Accessories,6,36.97,0,221.82,158.05,63.77
+ORD-10378,2025-08-09,CUST-279,Small Business,East,Ipswich,Technology,Accessories,4,25.89,0,103.56,70.44,33.12
+ORD-10940,2024-04-16,CUST-052,Small Business,North,Newcastle,Office Supplies,Paper,7,17.33,0,121.31,81.78,39.53
+ORD-11005,2025-06-07,CUST-198,Small Business,South,Bristol,Furniture,Desks,2,251.51,0.1,452.72,338.65,114.07
+ORD-10191,2024-07-09,CUST-219,Small Business,North,Newcastle,Office Supplies,Binders,4,12.49,0,49.96,35.11,14.85
+ORD-10409,2025-05-30,CUST-190,Corporate,North,Leeds,Technology,Phones,1,529.7,0.2,423.76,381.19,42.57
+ORD-11000,2025-08-31,CUST-262,Small Business,North,Newcastle,Furniture,Storage,6,107.41,0.2,515.57,364.26,151.31
+ORD-10986,2025-11-10,CUST-073,Consumer,West,Exeter,Technology,Phones,1,542.89,0,542.89,431.41,111.48
+ORD-10936,2024-02-07,CUST-098,Corporate,South,Bristol,Office Supplies,Paper,3,13.4,0.1,36.18,25.9,10.28
+ORD-11143,2025-03-01,CUST-064,Consumer,North,Leeds,Furniture,Storage,4,144.17,0.05,547.85,449.98,97.87
+ORD-11047,2025-10-26,CUST-242,Small Business,North,Newcastle,Technology,Laptops,7,704.43,0.1,4437.91,3615.72,822.19
+ORD-10040,2024-11-12,CUST-090,Corporate,West,Plymouth,Furniture,Desks,3,394.02,0,1182.06,774.38,407.68
+ORD-10506,2025-09-29,CUST-122,Small Business,East,Norwich,Technology,Phones,8,448.81,0.1,3231.43,2699.55,531.88
+ORD-11408,2025-04-21,CUST-246,Small Business,West,Cardiff,Office Supplies,Binders,5,3.94,0,19.7,14.88,4.82
+ORD-10591,2024-07-31,CUST-027,Small Business,North,Leeds,Office Supplies,Binders,1,11.83,0.1,10.65,9.3,1.35
+ORD-10529,2025-04-21,CUST-241,Small Business,South,Brighton,Technology,Accessories,8,33.41,0,267.28,192.74,74.54
+ORD-10328,2025-10-24,CUST-068,,South,Bristol,Office Supplies,Paper,7,10.38,0.1,65.39,40.33,25.06
+ORD-11181,2025-03-24,CUST-078,Small Business,East,Norwich,Technology,Phones,2,267.14,0,534.28,424.38,109.9
+ORD-11276,2025-04-10,CUST-199,Small Business,West,Exeter,Technology,Phones,6,468.23,0,2809.38,1646.58,1162.8
+ORD-11083,2025-02-16,CUST-173,Corporate,West,Cardiff,Office Supplies,Pens,4,10.4,0,41.6,30.86,10.74
+ORD-10518,2025-04-18,CUST-010,Corporate,West,Cardiff,Office Supplies,Paper,5,21.7,0.1,97.65,79.34,18.31
+ORD-10447,2025-09-03,CUST-200,Consumer,South,Southampton,Technology,Accessories,7,28.68,0.1,180.68,132.36,48.32
+ORD-10589,2025-08-20,CUST-001,Corporate,North,Newcastle,Furniture,Desks,7,420.14,0,2940.98,2198.28,742.7
+ORD-11161,2025-05-03,CUST-269,Corporate,South,Southampton,Furniture,Storage,6,61.82,0.1,333.83,238.72,95.11
+ORD-10772,2025-03-28,CUST-041,Small Business,South,Southampton,Furniture,Storage,2,50.62,0,101.24,77.01,24.23
+ORD-10748,2024-10-11,CUST-116,Small Business,West,Plymouth,Office Supplies,Binders,7,6.79,0,47.53,30.12,17.41
+ORD-11001,2024-02-24,CUST-080,Small Business,South,Southampton,Office Supplies,Paper,8,16.24,0,129.92,78.72,51.2
+ORD-10825,2024-11-29,CUST-052,Corporate,West,Plymouth,Technology,Accessories,2,34.23,0,68.46,44.98,23.48
+ORD-11104,2024-11-20,CUST-034,Small Business,South,Brighton,Office Supplies,Pens,1,11.44,0.15,9.72,7.45,2.27
+ORD-10626,2024-04-11,CUST-182,Consumer,South,Southampton,Office Supplies,Pens,3,6.75,0.05,19.24,14.55,4.69
+ORD-10507,2025-08-25,CUST-286,Corporate,West,Cardiff,Furniture,Desks,1,304.66,0,304.66,234.75,69.91
+ORD-10473,2025-07-23,CUST-132,Small Business,South,Southampton,Technology,Laptops,3,657.17,0,1971.51,1214.94,756.57
+ORD-11414,2025-03-03,CUST-136,Consumer,South,Bristol,Furniture,Storage,4,119.55,0,478.2,381.49,96.71
+ORD-11089,2025-04-18,CUST-214,,South,Brighton,Furniture,Storage,3,140.82,0,422.46,287.74,134.72
+ORD-10066,2024-10-16,CUST-024,Small Business,North,Leeds,Technology,Phones,3,313.74,0,941.22,521.0,420.22
+ORD-10629,2025-07-21,CUST-007,Small Business,West,Plymouth,Furniture,Desks,2,216.07,0.2,345.71,324.37,21.34
+ORD-10080,2024-09-30,CUST-123,Small Business,South,Bristol,Furniture,Desks,8,458.3,0,3666.4,2042.98,1623.42
+ORD-11091,2025-10-01,CUST-219,Consumer,West,Plymouth,Office Supplies,Paper,4,6.34,0,25.36,17.93,7.43
+ORD-10282,2024-01-02,CUST-031,Corporate,West,Cardiff,Office Supplies,Pens,4,5.08,0.1,18.29,16.17,2.12
+ORD-10714,2024-09-21,CUST-260,Corporate,South,Southampton,Furniture,Storage,2,99.18,0.15,168.61,112.07,56.54
+ORD-11432,2025-12-25,CUST-213,Consumer,West,Cardiff,Office Supplies,Binders,3,14.5,0,43.5,33.38,10.12
+ORD-11333,2024-01-30,CUST-055,Consumer,West,Plymouth,Office Supplies,Pens,7,8.72,0,61.04,36.39,24.65
+ORD-11260,2025-01-29,CUST-023,Consumer,South,Brighton,Furniture,Storage,7,47.34,0.15,281.67,224.38,57.29
+ORD-10673,2024-12-13,CUST-066,Corporate,West,Exeter,Technology,Laptops,7,592.79,0,4149.53,2552.38,1597.15
+ORD-10779,2024-12-04,CUST-292,Corporate,West,Exeter,Furniture,Chairs,2,240.25,0.1,432.45,310.7,121.75
+ORD-10201,2025-01-26,CUST-276,Consumer,West,Exeter,Furniture,Desks,3,178.09,0.15,454.13,408.75,45.38
+ORD-10813,2025-12-24,CUST-127,Small Business,North,Newcastle,Office Supplies,Pens,5,8.45,0.1,38.02,28.05,9.97
+ORD-10400,2025-01-04,CUST-141,Small Business,West,Plymouth,Furniture,Desks,1,458.54,0.15,389.76,289.35,100.41
+ORD-10778,2024-08-18,CUST-072,Small Business,West,Cardiff,Furniture,Storage,5,145.37,0,726.85,506.42,220.43
+ORD-10412,2025-12-27,CUST-210,Small Business,North,Manchester,Office Supplies,Pens,1,3.18,0.05,3.02,2.27,0.75
+ORD-10821,2024-08-04,CUST-173,Corporate,North,Manchester,Furniture,Storage,5,112.81,0.05,535.85,376.96,158.89
+ORD-11266,2024-06-11,CUST-204,Small Business,West,Exeter,Technology,Laptops,3,691.62,0.15,1763.63,1274.22,489.41
+ORD-11166,2025-12-07,CUST-033,Small Business,West,Cardiff,Technology,Laptops,5,890.72,0.1,4008.24,2758.42,1249.82
+ORD-11416,2025-01-16,CUST-267,Small Business,West,Plymouth,Furniture,Storage,6,118.2,0.15,602.82,507.95,94.87
+ORD-10094,2025-01-02,CUST-026,Small Business,East,Ipswich,Office Supplies,Binders,7,3.26,0,22.82,12.6,10.22
+ORD-11285,2024-12-31,CUST-299,Small Business,South,Southampton,Office Supplies,Paper,5,24.16,0.2,96.64,68.43,28.21
+ORD-11356,2024-11-23,CUST-180,Consumer,East,Ipswich,Technology,Phones,7,550.32,0.2,3081.79,2637.84,443.95
+ORD-11186,2024-02-02,CUST-286,Consumer,East,Norwich,Office Supplies,Binders,6,6.39,0.15,32.59,21.73,10.86
+ORD-10469,2025-11-12,CUST-227,Consumer,West,Exeter,Technology,Laptops,7,806.61,0.1,5081.64,3581.87,1499.77
+ORD-10730,2025-01-26,CUST-079,Corporate,East,Cambridge,Technology,Laptops,3,890.9,0,2672.7,1566.23,1106.47
+ORD-10973,2024-11-16,CUST-232,Corporate,East,Ipswich,Office Supplies,Binders,2,10.86,0,21.72,13.13,8.59
+ORD-10642,2024-01-21,CUST-251,Small Business,West,Cardiff,Office Supplies,Paper,7,24.72,0.1,155.74,112.06,43.68
+ORD-10896,2024-06-16,CUST-011,Small Business,East,Norwich,Furniture,Desks,1,204.08,0.1,183.67,147.55,36.12
+ORD-10356,2025-05-14,CUST-269,Small Business,North,Newcastle,Furniture,Desks,5,166.09,0.15,705.88,521.99,183.89
+ORD-10291,2024-04-04,CUST-203,Corporate,East,Cambridge,Technology,Laptops,1,874.03,0,874.03,682.65,191.38
+ORD-10796,2025-07-29,CUST-166,Consumer,South,Brighton,Office Supplies,Paper,7,23.69,0.05,157.54,96.21,61.33
+ORD-10663,2025-10-26,CUST-089,Small Business,South,Bristol,Office Supplies,Pens,6,6.1,0.05,34.77,24.51,10.26
+ORD-10068,2024-12-14,CUST-296,Corporate,South,Bristol,Technology,Phones,8,670.53,0,5364.24,4052.84,1311.4
+ORD-10791,2025-11-03,CUST-091,Consumer,South,Southampton,Office Supplies,Binders,5,4.68,0.2,18.72,13.81,4.91
+ORD-10567,2025-12-06,CUST-123,Consumer,East,Cambridge,Furniture,Chairs,8,228.19,0.15,1551.69,1090.5,461.19
+ORD-10525,2025-08-14,CUST-061,Corporate,East,Cambridge,Office Supplies,Paper,4,11.42,0,45.68,28.28,17.4
+ORD-10625,2025-08-06,CUST-276,Corporate,North,Leeds,Technology,Accessories,4,48.16,0.15,163.74,115.18,48.56
+ORD-10346,2025-03-30,CUST-216,,West,Plymouth,Technology,Accessories,3,22.64,0,67.92,49.16,18.76
+ORD-10621,2024-05-11,CUST-058,Corporate,South,Brighton,Office Supplies,Paper,4,11.15,0,44.6,35.47,9.13
+ORD-11082,2024-11-14,CUST-043,Corporate,East,Norwich,Technology,Accessories,2,58.79,0.1,105.82,69.64,36.18
+ORD-11017,2024-12-31,CUST-265,Consumer,South,Southampton,Technology,Phones,7,413.76,0.2,2317.06,1644.29,672.77
+ORD-10664,2025-08-30,CUST-293,Corporate,East,Norwich,Furniture,Chairs,6,76.04,0,456.24,295.81,160.43
+ORD-11092,2024-11-09,CUST-144,Consumer,East,Norwich,Office Supplies,Binders,4,14.21,0,56.84,39.68,17.16
+ORD-10520,2025-09-12,CUST-212,Small Business,West,Cardiff,Technology,Accessories,5,15.84,0.15,67.32,60.54,6.78
+ORD-10893,2025-12-04,CUST-270,Corporate,South,Brighton,Technology,Laptops,4,482.42,0.05,1833.2,1499.91,333.29
+ORD-10738,2025-07-23,CUST-232,Small Business,East,Cambridge,Furniture,Chairs,6,175.98,0.15,897.5,830.29,67.21
+ORD-10613,2025-10-22,CUST-290,Corporate,South,Southampton,Technology,Laptops,8,794.12,0,6352.96,4445.31,1907.65
+ORD-11162,2024-06-28,CUST-143,Consumer,West,Plymouth,Furniture,Chairs,2,187.06,0,374.12,226.79,147.33
+ORD-10556,2024-01-11,CUST-129,Consumer,North,Leeds,Technology,Laptops,2,635.06,0.15,1079.6,840.17,239.43
+ORD-10679,2024-01-27,CUST-079,Consumer,East,Norwich,Office Supplies,Pens,6,3.22,0.1,17.39,15.11,2.28
+ORD-10236,2024-03-11,CUST-194,Consumer,West,Cardiff,Office Supplies,Binders,5,4.67,0,23.35,14.32,9.03
+ORD-11315,2024-08-27,CUST-066,Small Business,East,Cambridge,Office Supplies,Binders,6,12.44,0.1,67.18,55.86,11.32
+ORD-10620,2025-01-06,CUST-061,Consumer,South,Brighton,Furniture,Storage,6,113.24,0,679.44,494.27,185.17
+ORD-11033,2024-01-20,CUST-157,Corporate,West,Cardiff,Furniture,Desks,4,165.55,0.05,629.09,394.74,234.35
+ORD-10339,2024-12-06,CUST-082,Consumer,South,Southampton,Furniture,Storage,8,48.12,0,384.96,231.88,153.08
+ORD-10039,2025-11-17,CUST-154,Consumer,South,Bristol,Furniture,Desks,6,174.49,0.1,942.25,657.98,284.27
+ORD-10130,2025-08-31,CUST-165,Small Business,West,Plymouth,Furniture,Storage,1,117.6,0.05,111.72,91.41,20.31
+ORD-10163,2025-08-24,CUST-083,Consumer,South,Southampton,Technology,Phones,1,451.43,0.2,361.14,262.3,98.84
+ORD-10017,2024-05-03,CUST-031,Consumer,South,Brighton,Technology,Laptops,4,602.14,0.1,2167.7,1457.31,710.39
+ORD-11277,2024-06-13,CUST-278,Corporate,East,Norwich,Office Supplies,Paper,5,13.63,0,68.15,38.21,29.94
+ORD-10296,2025-01-01,CUST-113,Small Business,South,Bristol,Technology,Laptops,4,561.54,0,2246.16,1535.08,711.08
+ORD-10555,2025-04-17,CUST-161,Small Business,South,Bristol,Office Supplies,Pens,4,7.89,0.1,28.4,20.02,8.38
+ORD-10624,2025-11-17,CUST-124,Consumer,East,Ipswich,Technology,Laptops,5,515.5,0.1,2319.75,1641.76,677.99
+ORD-10639,2024-11-24,CUST-175,Small Business,North,Manchester,Technology,Accessories,6,12.26,0,73.56,55.35,18.21
+ORD-10441,2024-09-14,CUST-014,Corporate,North,Manchester,Technology,Laptops,2,628.67,0,1257.34,986.0,271.34
+ORD-10241,2025-04-11,CUST-154,Corporate,South,Brighton,Office Supplies,Binders,2,7.18,0.05,13.64,10.49,3.15
+ORD-11314,2025-01-17,CUST-168,Corporate,South,Bristol,Furniture,Storage,2,175.86,0,351.72,232.76,118.96
+ORD-11008,2025-05-30,CUST-289,Corporate,South,Southampton,Furniture,Storage,2,113.51,0,227.02,162.09,64.93
+ORD-10888,2024-12-21,CUST-030,Small Business,East,Ipswich,Furniture,Chairs,5,239.82,0.15,1019.23,699.56,319.67
+ORD-11482,2024-02-16,CUST-069,Corporate,South,Brighton,Technology,Laptops,5,538.94,0.05,2559.97,1523.36,1036.61
+ORD-10571,2025-09-17,CUST-104,Small Business,South,Southampton,Office Supplies,Paper,2,21.36,0,42.72,28.81,13.91
+ORD-10041,2025-08-05,CUST-165,Small Business,East,Cambridge,Furniture,Storage,5,156.72,0,783.6,472.15,311.45
+ORD-10609,2025-02-28,CUST-034,Small Business,South,Bristol,Office Supplies,Pens,4,2.86,0,11.44,7.65,3.79
+ORD-11199,2024-06-08,CUST-191,Small Business,South,Bristol,Office Supplies,Binders,1,12.15,0.1,10.94,9.12,1.82
+ORD-11480,2025-02-25,CUST-183,Corporate,East,Cambridge,Technology,Laptops,4,676.67,0.1,2436.01,1676.56,759.45
+ORD-10582,2025-04-27,CUST-100,Consumer,West,Plymouth,Technology,Phones,8,272.47,0,2179.76,1409.94,769.82
+ORD-10789,2024-01-28,CUST-204,Corporate,North,Leeds,Office Supplies,Pens,8,8.76,0.05,66.58,44.56,22.02
+ORD-10143,2025-10-27,CUST-003,Small Business,East,Norwich,Technology,Laptops,8,467.24,0.15,3177.23,2832.51,344.72
+ORD-10585,2024-08-09,CUST-297,Consumer,West,Cardiff,Furniture,Desks,7,155.08,0.15,922.73,833.87,88.86
+ORD-11170,2025-02-20,CUST-273,Small Business,East,Norwich,Furniture,Storage,8,64.71,0.1,465.91,321.45,144.46
+ORD-10179,2025-11-28,CUST-212,Corporate,South,Bristol,Technology,Accessories,2,57.41,0,114.82,63.69,51.13
+ORD-10667,2025-04-09,CUST-254,Corporate,West,Exeter,Technology,Laptops,4,771.1,0.2,2467.52,2323.64,143.88
+ORD-11139,2025-09-18,CUST-200,Small Business,East,Cambridge,Office Supplies,Pens,8,8.09,0.1,58.25,42.4,15.85
+ORD-11273,2025-06-14,CUST-004,Consumer,North,Manchester,Office Supplies,Pens,6,3.7,0,22.2,12.42,9.78
+ORD-10751,2025-09-06,CUST-034,Consumer,West,Cardiff,Technology,Accessories,2,32.32,0,64.64,51.3,13.34
+ORD-11060,2024-07-30,CUST-145,Consumer,South,Bristol,Technology,Accessories,4,55.13,0,220.52,148.21,72.31
+ORD-11118,2025-12-15,CUST-073,Consumer,South,Southampton,Office Supplies,Paper,6,7.6,0.2,36.48,36.02,0.46
+ORD-10807,2025-01-03,CUST-247,Corporate,West,Cardiff,Furniture,Chairs,7,149.44,0.1,941.47,734.71,206.76
+ORD-10272,2025-07-03,CUST-123,Small Business,East,Norwich,Furniture,Storage,2,128.8,0,257.6,186.67,70.93
+ORD-10875,2024-05-03,CUST-027,Small Business,South,Southampton,Furniture,Chairs,4,112.03,0,448.12,294.22,153.9
+ORD-10108,2025-01-05,CUST-235,Small Business,North,Newcastle,Furniture,Storage,1,71.02,0.15,60.37,52.97,7.4
+ORD-11187,2025-06-28,CUST-221,Consumer,South,Southampton,Office Supplies,Paper,8,16.48,0.1,118.66,93.94,24.72
+ORD-10842,2025-11-17,CUST-251,Consumer,North,Newcastle,Furniture,Storage,8,93.49,0,747.92,413.53,334.39
+ORD-10344,2024-08-21,CUST-020,Consumer,South,Southampton,Office Supplies,Paper,1,9.22,0.1,8.3,6.23,2.07
+ORD-11318,2024-05-26,CUST-075,Small Business,East,Cambridge,Technology,Phones,1,323.29,0,323.29,206.6,116.69
+ORD-10375,2025-10-10,CUST-091,Consumer,East,Ipswich,Office Supplies,Pens,4,9.38,0.2,30.02,27.44,2.58
+ORD-10676,2024-09-23,CUST-235,Small Business,South,Southampton,Office Supplies,Binders,8,8.24,0,65.92,43.53,22.39
+ORD-10696,2025-10-07,CUST-250,Corporate,West,Cardiff,Furniture,Desks,5,407.98,0,2039.9,1370.56,669.34
+ORD-10403,2024-06-02,CUST-247,Corporate,South,Bristol,Technology,Phones,2,501.01,0.15,851.72,608.81,242.91
+ORD-10089,2024-03-11,CUST-052,Consumer,South,Southampton,Office Supplies,Pens,4,11.21,0.15,38.11,25.68,12.43
+ORD-10164,2025-12-27,CUST-156,Small Business,South,Bristol,Furniture,Storage,2,165.29,0,330.58,198.04,132.54
+ORD-10985,2025-05-17,CUST-171,Corporate,East,Ipswich,Office Supplies,Binders,5,10.96,0,54.8,36.42,18.38
+ORD-10336,2024-11-10,CUST-299,Corporate,West,Plymouth,Furniture,Desks,5,241.2,0.05,1145.7,919.94,225.76
+ORD-10358,2025-07-25,CUST-252,Consumer,North,Manchester,Technology,Accessories,8,56.72,0.2,363.01,305.82,57.19
+ORD-10645,2025-08-15,CUST-155,Consumer,North,Newcastle,Office Supplies,Binders,8,6.28,0.05,47.73,30.27,17.46
+ORD-11338,2024-04-09,CUST-012,Consumer,North,Manchester,Furniture,Chairs,7,182.7,0.15,1087.06,983.62,103.44
+ORD-11387,2024-05-07,CUST-144,Consumer,North,Leeds,Technology,Phones,8,310.49,0.1,2235.53,1469.02,766.51
+ORD-10859,2024-08-22,CUST-040,Consumer,East,Ipswich,Office Supplies,Paper,7,23.95,0.2,134.12,105.32,28.8
+ORD-10675,2024-11-19,CUST-019,Consumer,West,Exeter,Technology,Accessories,8,52.65,0,421.2,251.55,169.65
+ORD-11251,2025-01-18,CUST-080,Corporate,North,Newcastle,Technology,Laptops,8,736.42,0,5891.36,4028.53,1862.83
+ORD-10148,2024-09-03,CUST-090,Corporate,North,Newcastle,Office Supplies,Pens,3,9.57,0,28.71,18.32,10.39
+ORD-11034,2025-07-08,CUST-015,Small Business,East,Cambridge,Technology,Accessories,6,47.72,0.2,229.06,222.43,6.63
+ORD-11045,2025-01-18,CUST-014,Consumer,West,Cardiff,Furniture,Storage,6,44.36,0,266.16,165.74,100.42
+ORD-11072,2025-10-13,CUST-169,Small Business,North,Leeds,Furniture,Desks,3,293.43,0.1,792.26,529.54,262.72
+ORD-10783,2025-03-18,CUST-142,Small Business,West,Cardiff,Technology,Accessories,5,38.75,0.1,174.38,116.39,57.99
+ORD-10374,2025-01-31,CUST-227,Consumer,West,Cardiff,Office Supplies,Binders,1,14.59,0,14.59,10.74,3.85
+ORD-10016,2025-03-09,CUST-265,Small Business,South,Southampton,Office Supplies,Pens,5,8.9,0.05,42.27,35.55,6.72
+ORD-11283,2025-02-15,CUST-272,Corporate,South,Bristol,Technology,Phones,4,358.25,0.2,1146.4,1052.71,93.69
+ORD-11454,2024-12-07,CUST-282,Corporate,East,Ipswich,Technology,Laptops,2,709.39,0,1418.78,797.74,621.04
+ORD-10531,2025-05-14,CUST-295,Corporate,North,Leeds,Technology,Phones,8,256.44,0.05,1948.94,1562.11,386.83
+ORD-10415,2024-12-18,CUST-052,Small Business,West,Cardiff,Office Supplies,Paper,2,22.1,0.15,37.57,26.85,10.72
+ORD-11442,2024-05-12,CUST-084,Corporate,East,Cambridge,Technology,Accessories,5,24.62,0.05,116.95,72.69,44.26
+ORD-11159,2025-10-11,CUST-150,Small Business,East,Cambridge,Furniture,Storage,5,101.58,0,507.9,373.78,134.12
+ORD-11090,2024-06-02,CUST-049,Small Business,West,Cardiff,Technology,Laptops,4,590.33,0,2361.32,1708.44,652.88
+ORD-11168,2025-05-04,CUST-292,Small Business,North,Leeds,Furniture,Chairs,2,150.45,0.1,270.81,209.83,60.98
+ORD-10996,2024-10-31,CUST-258,Corporate,West,Plymouth,Office Supplies,Paper,7,12.52,0,87.64,51.24,36.4
+ORD-11402,2025-01-21,CUST-207,Small Business,South,Bristol,Technology,Phones,8,430.39,0.15,2926.65,2542.97,383.68
+ORD-11297,2024-01-24,CUST-039,Consumer,South,Brighton,Technology,Laptops,6,483.49,0,2900.94,1707.21,1193.73
+ORD-10122,2024-12-01,CUST-287,Small Business,North,Newcastle,Technology,Phones,3,573.51,0,1720.53,1109.83,610.7
+ORD-11044,2025-03-01,CUST-209,Corporate,North,Newcastle,Office Supplies,Binders,3,13.51,0,40.53,25.6,14.93
+ORD-11022,2025-09-16,CUST-022,Consumer,North,Leeds,Furniture,Chairs,2,240.48,0.1,432.86,322.1,110.76
+ORD-11464,2024-04-19,CUST-266,Corporate,East,Ipswich,Technology,Phones,2,272.19,0.2,435.5,349.59,85.91
+ORD-10652,2024-02-26,CUST-047,Small Business,North,Manchester,Furniture,Storage,2,81.72,0.05,155.27,126.53,28.74
+ORD-10737,2025-06-06,CUST-072,Small Business,East,Ipswich,Technology,Laptops,2,782.63,0,1565.26,896.0,669.26
+ORD-10961,2024-08-26,CUST-039,Small Business,North,Newcastle,Furniture,Desks,4,360.63,0,1442.52,995.68,446.84
+ORD-11145,2024-12-26,CUST-163,Small Business,South,Bristol,Furniture,Storage,6,79.04,0.15,403.1,273.36,129.74
+ORD-10720,2025-12-29,CUST-081,Corporate,West,Plymouth,Technology,Accessories,2,35.66,0.15,60.62,43.02,17.6
+ORD-10805,2024-02-23,CUST-160,Corporate,South,Brighton,Technology,Laptops,4,491.29,0,1965.16,1330.13,635.03
+ORD-10505,2024-07-02,CUST-104,Consumer,North,Leeds,Furniture,Desks,8,258.33,0,2066.64,1460.32,606.32
+ORD-10989,2025-08-26,CUST-291,Corporate,West,Exeter,Furniture,Desks,6,216.7,0.2,1040.16,914.16,126.0
+ORD-10757,2025-06-14,CUST-104,Consumer,South,Brighton,Technology,Laptops,1,678.2,0.05,644.29,431.3,212.99
+ORD-10461,2024-03-11,CUST-095,Small Business,South,Brighton,Furniture,Desks,6,436.8,0.05,2489.76,1441.91,1047.85
+ORD-10942,2024-05-07,CUST-138,Consumer,East,Ipswich,Furniture,Desks,7,467.8,0,3274.6,2570.25,704.35
+ORD-10858,2025-09-15,CUST-220,Corporate,West,Plymouth,Office Supplies,Binders,6,5.2,0.2,24.96,20.82,4.14
+ORD-10235,2024-04-26,CUST-150,Small Business,South,Bristol,Office Supplies,Pens,1,3.8,0.15,3.23,2.53,0.7
+ORD-10347,2024-04-13,CUST-061,Small Business,East,Cambridge,Office Supplies,Pens,7,9.01,0.2,50.46,48.86,1.6
+ORD-10030,2024-10-15,CUST-217,Consumer,South,Southampton,Office Supplies,Binders,5,5.44,0.1,24.48,18.28,6.2
+ORD-10419,2024-07-18,CUST-001,Consumer,North,Leeds,Office Supplies,Pens,4,7.16,0.1,25.78,16.97,8.81
+ORD-10327,2024-06-16,CUST-110,Small Business,East,Norwich,Office Supplies,Pens,1,2.9,0.05,2.75,1.63,1.12
+ORD-11231,2024-08-21,CUST-096,Small Business,East,Cambridge,Furniture,Chairs,2,233.69,0.15,397.27,304.51,92.76
+ORD-11307,2025-08-24,CUST-238,Corporate,South,Southampton,Technology,Accessories,8,27.64,0.05,210.06,139.55,70.51
+ORD-11287,2025-09-25,CUST-128,Small Business,West,Cardiff,Technology,Accessories,8,37.62,0.15,255.82,239.51,16.31
+ORD-11395,2024-02-07,CUST-284,Consumer,West,Cardiff,Furniture,Chairs,2,204.53,0.15,347.7,318.64,29.06
+ORD-11404,2024-02-07,CUST-154,Corporate,South,Southampton,Technology,Accessories,5,59.74,0,298.7,209.42,89.28
+ORD-10249,2025-05-11,CUST-228,Corporate,South,Southampton,Technology,Phones,8,681.91,0.05,5182.52,3934.21,1248.31
+ORD-10553,2024-09-25,CUST-022,Small Business,South,Brighton,Office Supplies,Binders,8,3.14,0.05,23.86,18.08,5.78
+ORD-11184,2024-08-07,CUST-012,Small Business,South,Brighton,Furniture,Desks,6,229.69,0,1378.14,826.53,551.61
+ORD-11200,2025-02-28,CUST-057,Small Business,South,Brighton,Furniture,Chairs,3,93.18,0.15,237.61,210.31,27.3
+ORD-10437,2024-12-25,CUST-250,Corporate,South,Bristol,Office Supplies,Pens,3,8.5,0.2,20.4,15.84,4.56
+ORD-10777,2025-03-25,CUST-182,Consumer,West,Exeter,Office Supplies,Paper,3,12.49,0,37.47,29.45,8.02
+ORD-11257,2024-07-21,CUST-288,Corporate,East,Cambridge,Office Supplies,Binders,7,7.85,0,54.95,36.96,17.99
+ORD-10449,2024-03-11,CUST-097,Small Business,South,Southampton,Technology,Phones,8,255.18,0.1,1837.3,1353.87,483.43
+ORD-10622,2024-01-20,CUST-061,Small Business,West,Exeter,Furniture,Chairs,1,97.31,0.2,77.85,69.57,8.28
+ORD-10704,2025-09-17,CUST-081,Consumer,North,Newcastle,Office Supplies,Paper,3,15.15,0.15,38.63,26.34,12.29
+ORD-10749,2025-03-09,CUST-222,Consumer,North,Leeds,Technology,Laptops,5,524.02,0,2620.1,1851.1,769.0
+ORD-10804,2025-12-13,CUST-036,Consumer,South,Brighton,Office Supplies,Binders,3,9.26,0.05,26.39,19.65,6.74
+ORD-10871,2025-11-29,CUST-065,Consumer,South,Brighton,Furniture,Desks,7,325.65,0,2279.55,1316.29,963.26
+ORD-11339,2024-02-05,CUST-016,Small Business,North,Manchester,Furniture,Chairs,4,109.92,0,439.68,342.89,96.79
+ORD-10753,2025-02-15,CUST-052,Corporate,North,Manchester,Office Supplies,Binders,1,5.8,0.05,5.51,3.75,1.76
+ORD-10349,2024-06-13,CUST-057,Consumer,North,Newcastle,Office Supplies,Binders,8,13.92,0,111.36,67.78,43.58
+ORD-11445,2025-11-15,CUST-129,Consumer,East,Ipswich,Technology,Phones,6,594.5,0,3567.0,2307.74,1259.26
+ORD-10587,2025-06-27,CUST-209,Small Business,West,Cardiff,Furniture,Storage,8,154.98,0.05,1177.85,756.46,421.39
+ORD-11329,2024-08-26,CUST-149,,South,Southampton,Technology,Accessories,7,25.97,0.2,145.43,128.81,16.62
+ORD-10430,2024-05-11,CUST-235,Small Business,North,Leeds,Office Supplies,Binders,1,8.74,0.1,7.87,5.57,2.3
+ORD-10532,2025-06-04,CUST-206,Corporate,North,Newcastle,Furniture,Storage,6,151.55,0.1,818.37,647.75,170.62
+ORD-11468,2025-08-23,CUST-200,Corporate,West,Exeter,Furniture,Desks,8,375.49,0,3003.92,2169.15,834.77
+ORD-10199,2024-01-23,CUST-031,Small Business,West,Cardiff,Furniture,Chairs,2,201.7,0,403.4,264.6,138.8
+ORD-10644,2025-10-12,CUST-048,Corporate,North,Newcastle,Office Supplies,Paper,1,10.75,0,10.75,8.59,2.16
+ORD-10891,2025-02-08,CUST-093,Corporate,South,Southampton,Furniture,Chairs,7,198.66,0,1390.62,816.41,574.21
+ORD-10187,2025-02-20,CUST-046,Consumer,West,Plymouth,Furniture,Storage,5,67.92,0,339.6,211.01,128.59
+ORD-10848,2024-11-03,CUST-181,Small Business,North,Newcastle,Office Supplies,Binders,8,10.91,0,87.28,60.6,26.68
+ORD-10550,2024-06-28,CUST-079,Consumer,East,Cambridge,Office Supplies,Paper,1,14.7,0,14.7,11.7,3.0
+ORD-10604,2024-05-30,CUST-013,Small Business,West,Exeter,Furniture,Storage,8,55.72,0,445.76,260.71,185.05
+ORD-10841,2025-10-04,CUST-193,Small Business,West,Plymouth,Technology,Laptops,7,503.46,0.05,3348.01,2205.01,1143.0
+ORD-11007,2025-10-22,CUST-184,Consumer,West,Plymouth,Technology,Phones,8,681.4,0.15,4633.52,3622.8,1010.72
+ORD-11010,2025-11-05,CUST-179,Small Business,South,Bristol,Office Supplies,Pens,5,11.27,0,56.35,40.82,15.53
+ORD-10655,2024-08-11,CUST-274,Small Business,South,Southampton,Technology,Laptops,5,546.35,0.05,2595.16,1781.36,813.8
+ORD-10166,2024-02-12,CUST-016,Small Business,North,Manchester,Technology,Laptops,5,876.85,0.15,3726.61,2642.4,1084.21
+ORD-10854,2024-10-07,CUST-157,Consumer,North,Newcastle,Technology,Phones,4,689.74,0.05,2621.01,2173.91,447.1
+ORD-10015,2024-03-28,CUST-271,Small Business,West,Plymouth,Technology,Accessories,3,48.29,0.15,123.14,96.89,26.25
+ORD-10924,2025-08-05,CUST-188,Small Business,West,Plymouth,Technology,Phones,7,629.5,0.05,4186.18,3367.67,818.51
+ORD-11103,2025-03-30,CUST-171,Small Business,North,Newcastle,Furniture,Chairs,5,223.0,0.2,892.0,667.38,224.62
+ORD-10175,2025-05-27,CUST-264,Corporate,North,Leeds,Technology,Laptops,6,511.67,0.2,2456.02,2052.11,403.91
+ORD-10965,2024-11-04,CUST-233,Corporate,East,Cambridge,Furniture,Desks,6,290.12,0.05,1653.68,1223.87,429.81
+ORD-10922,2024-11-12,CUST-181,Corporate,North,Leeds,Furniture,Chairs,3,146.41,0,439.23,259.31,179.92
+ORD-10512,2024-02-29,CUST-148,Small Business,North,Manchester,Office Supplies,Pens,2,11.79,0.05,22.4,17.24,5.16
+ORD-11261,2024-04-11,CUST-008,Consumer,West,Cardiff,Technology,Laptops,2,770.58,0.15,1309.99,926.09,383.9
+ORD-11188,2025-04-21,CUST-222,Corporate,West,Cardiff,Office Supplies,Paper,2,18.01,0,36.02,25.64,10.38
+ORD-10475,2025-09-01,CUST-223,Corporate,East,Cambridge,Technology,Accessories,7,50.42,0,352.94,262.95,89.99
+ORD-11405,2024-01-25,CUST-072,Consumer,East,Ipswich,Furniture,Chairs,4,202.56,0.05,769.73,602.63,167.1
+ORD-10111,2025-03-16,CUST-233,Consumer,North,Manchester,Office Supplies,Paper,4,22.06,0.05,83.83,58.49,25.34
+ORD-10548,2024-06-22,CUST-143,Consumer,North,Manchester,Office Supplies,Binders,1,12.71,0,12.71,8.53,4.18
+ORD-10482,2025-09-23,CUST-044,Consumer,West,Cardiff,Office Supplies,Paper,4,13.81,0,55.24,39.85,15.39
+ORD-10408,2024-01-17,CUST-020,Corporate,South,Bristol,Office Supplies,Pens,3,8.84,0.1,23.87,15.22,8.65
+ORD-10975,2024-04-19,CUST-181,Small Business,North,Manchester,Technology,Laptops,3,852.34,0,2557.02,1424.63,1132.39
+ORD-10852,2025-01-16,CUST-139,Small Business,South,Brighton,Furniture,Chairs,7,120.11,0.05,798.73,467.87,330.86
+ORD-10257,2025-10-10,CUST-048,Corporate,North,Newcastle,Furniture,Storage,6,144.97,0.05,826.33,685.04,141.29
+ORD-10699,2024-08-12,CUST-185,Corporate,East,Cambridge,Office Supplies,Pens,3,8.57,0,25.71,18.79,6.92
+ORD-11382,2024-10-10,CUST-224,Small Business,West,Exeter,Technology,Phones,7,225.5,0.15,1341.72,1255.58,86.14
+ORD-11301,2024-10-21,CUST-278,Corporate,North,Newcastle,Furniture,Chairs,2,156.44,0,312.88,248.29,64.59
+ORD-10243,2025-03-12,CUST-102,Corporate,West,Exeter,Technology,Phones,3,514.88,0.15,1312.94,1103.38,209.56
+ORD-11295,2025-11-19,CUST-134,Consumer,East,Ipswich,Office Supplies,Binders,7,7.03,0.05,46.75,35.77,10.98
+ORD-11113,2025-10-08,CUST-018,Small Business,South,Southampton,Furniture,Chairs,6,148.78,0,892.68,616.79,275.89
+ORD-10283,2025-12-29,CUST-044,Corporate,East,Ipswich,Technology,Laptops,7,864.57,0.15,5144.19,4683.6,460.59
+ORD-11288,2025-11-10,CUST-011,Corporate,South,Bristol,Furniture,Chairs,3,203.58,0.05,580.2,408.1,172.1
+ORD-10097,2024-07-24,CUST-152,Corporate,South,Bristol,Office Supplies,Binders,5,9.37,0.2,37.48,27.69,9.79
+ORD-10838,2024-11-07,CUST-101,Consumer,West,Plymouth,Office Supplies,Paper,8,16.54,0.15,112.47,88.74,23.73
+ORD-10045,2024-08-12,CUST-272,Consumer,South,Bristol,Office Supplies,Pens,4,6.65,0.2,21.28,15.44,5.84
+ORD-11174,2024-08-03,CUST-081,Consumer,South,Southampton,Furniture,Chairs,7,96.46,0.2,540.18,400.37,139.81
+ORD-11109,2024-05-15,CUST-097,Corporate,East,Cambridge,Technology,Phones,3,552.96,0,1658.88,970.62,688.26
+ORD-11477,2024-05-18,CUST-144,Small Business,South,Bristol,Office Supplies,Paper,2,9.37,0,18.74,11.51,7.23
+ORD-10885,2025-06-05,CUST-005,Consumer,West,Plymouth,Office Supplies,Binders,5,7.81,0,39.05,23.27,15.78
+ORD-10145,2025-03-05,CUST-124,Small Business,West,Plymouth,Technology,Laptops,8,826.51,0.1,5950.87,4522.75,1428.12
+ORD-10999,2024-05-08,CUST-055,Consumer,West,Exeter,Office Supplies,Paper,8,14.26,0.2,91.26,64.29,26.97
+ORD-10331,2025-10-24,CUST-142,Small Business,East,Cambridge,Furniture,Storage,2,55.13,0,110.26,87.89,22.37
+ORD-11486,2025-08-22,CUST-228,Small Business,East,Cambridge,Furniture,Chairs,4,217.47,0.05,826.39,570.83,255.56
+ORD-10886,2025-04-11,CUST-122,Consumer,East,Cambridge,Furniture,Chairs,5,116.31,0.1,523.39,337.17,186.22
+ORD-10173,2025-01-09,CUST-231,Consumer,West,Plymouth,Furniture,Chairs,4,136.11,0,544.44,374.74,169.7
+ORD-11023,2024-02-06,CUST-029,Consumer,West,Cardiff,Office Supplies,Paper,7,18.01,0.05,119.77,78.9,40.87
+ORD-10051,2024-08-13,CUST-085,Small Business,West,Exeter,Technology,Phones,1,417.92,0.05,397.02,264.97,132.05
+ORD-10607,2025-11-13,CUST-180,Consumer,East,Cambridge,Furniture,Chairs,7,196.03,0,1372.21,887.17,485.04
+ORD-10271,2025-12-19,CUST-105,Consumer,West,Cardiff,Technology,Accessories,3,36.83,0,110.49,63.08,47.41
+ORD-10315,2025-12-04,CUST-293,Small Business,West,Plymouth,Office Supplies,Paper,2,14.53,0.05,27.61,22.54,5.07
+ORD-10304,2025-05-23,CUST-172,Consumer,South,Southampton,Furniture,Storage,6,50.89,0,305.34,180.75,124.59
+ORD-10559,2025-04-09,CUST-032,Consumer,East,Cambridge,Furniture,Storage,6,166.47,0,998.82,589.79,409.03
+ORD-11330,2024-01-25,CUST-042,,West,Plymouth,Office Supplies,Paper,1,5.8,0,5.8,3.52,2.28
+ORD-10913,2024-02-27,CUST-208,Corporate,South,Southampton,Furniture,Chairs,2,216.28,0.2,346.05,312.79,33.26
+ORD-11407,2024-07-28,CUST-028,Consumer,West,Exeter,Technology,Phones,4,679.81,0,2719.24,2105.4,613.84
+ORD-11334,2024-07-29,CUST-118,Corporate,South,Bristol,Office Supplies,Pens,4,9.47,0.1,34.09,28.58,5.51
+ORD-11422,2025-01-20,CUST-078,Corporate,North,Leeds,Technology,Laptops,1,487.04,0,487.04,333.67,153.37
+ORD-10195,2024-05-16,CUST-112,Corporate,West,Cardiff,Technology,Phones,6,573.87,0.05,3271.06,2498.01,773.05
+ORD-10125,2025-03-23,CUST-171,Small Business,North,Leeds,Technology,Phones,2,494.44,0.05,939.44,759.1,180.34
+ORD-10386,2025-10-18,CUST-155,Consumer,North,Newcastle,Office Supplies,Pens,2,2.46,0,4.92,3.85,1.07
+ORD-10966,2025-10-18,CUST-166,Consumer,North,Newcastle,Furniture,Storage,4,54.38,0,217.52,164.52,53.0
+ORD-11328,2024-09-02,CUST-022,Consumer,North,Leeds,Office Supplies,Pens,1,7.58,0.15,6.44,5.77,0.67
+ORD-10560,2025-02-01,CUST-103,Corporate,East,Ipswich,Technology,Phones,5,677.8,0,3389.0,2237.23,1151.77
+ORD-10508,2024-02-20,CUST-153,Small Business,South,Southampton,Technology,Laptops,1,743.97,0,743.97,567.99,175.98
+ORD-10962,2025-10-23,CUST-141,Corporate,West,Exeter,Office Supplies,Binders,6,6.81,0,40.86,24.49,16.37
+ORD-10974,2025-06-09,CUST-076,Small Business,South,Southampton,Furniture,Chairs,7,73.04,0,511.28,368.92,142.36
+ORD-10326,2025-10-12,CUST-180,Corporate,North,Manchester,Office Supplies,Paper,8,9.84,0.1,70.85,52.08,18.77
+ORD-10258,2025-04-14,CUST-146,Corporate,East,Cambridge,Technology,Accessories,7,29.89,0.2,167.38,126.16,41.22
+ORD-10526,2024-06-01,CUST-073,Small Business,South,Bristol,Furniture,Chairs,2,62.9,0,125.8,86.25,39.55
+ORD-10845,2025-07-23,CUST-093,Small Business,West,Plymouth,Technology,Accessories,2,51.86,0.2,82.98,76.57,6.41
+ORD-10244,2025-08-29,CUST-275,Consumer,West,Cardiff,Furniture,Chairs,4,193.9,0,775.6,572.46,203.14
+ORD-10433,2025-02-14,CUST-285,Corporate,East,Cambridge,Furniture,Chairs,4,168.57,0.2,539.42,387.69,151.73
+ORD-11165,2024-02-27,CUST-126,Small Business,West,Cardiff,Office Supplies,Pens,5,4.48,0.2,17.92,16.46,1.46
+ORD-10225,2025-01-28,CUST-175,Consumer,South,Bristol,Office Supplies,Pens,6,2.78,0,16.68,9.58,7.1
+ORD-10116,2024-08-19,CUST-093,Small Business,West,Exeter,Office Supplies,Pens,1,8.14,0.1,7.33,6.37,0.96
+ORD-10389,2025-08-09,CUST-212,Small Business,West,Plymouth,Office Supplies,Pens,5,11.47,0,57.35,42.27,15.08
+ORD-10001,2025-10-16,CUST-280,Small Business,North,Leeds,Technology,Accessories,4,23.75,0,95.0,69.74,25.26
+ORD-10168,2025-05-10,CUST-177,Small Business,West,Exeter,Technology,Phones,6,503.33,0.2,2415.98,2203.35,212.63
+ORD-10618,2025-01-16,CUST-097,Small Business,West,Plymouth,Furniture,Desks,3,472.32,0,1416.96,856.51,560.45
+ORD-11364,2025-01-10,CUST-143,Corporate,West,Exeter,Technology,Accessories,6,36.26,0.15,184.93,149.22,35.71
+ORD-10105,2024-12-07,CUST-076,Consumer,South,Bristol,Technology,Accessories,4,20.26,0.1,72.94,48.95,23.99
+ORD-10695,2025-04-27,CUST-005,Corporate,North,Leeds,Furniture,Storage,5,73.97,0.1,332.87,280.11,52.76
+ORD-11460,2025-06-24,CUST-064,Consumer,East,Ipswich,Furniture,Chairs,7,136.86,0.1,862.22,595.81,266.41
+ORD-10930,2025-03-16,CUST-091,Corporate,West,Cardiff,Technology,Laptops,1,545.17,0.2,436.14,393.02,43.12
+ORD-10921,2025-12-30,CUST-008,Corporate,West,Cardiff,Technology,Laptops,2,898.65,0,1797.3,1243.24,554.06
+ORD-11219,2025-03-30,CUST-242,Corporate,South,Brighton,Office Supplies,Binders,1,12.13,0.15,10.31,7.03,3.28
+ORD-11189,2025-02-15,CUST-115,Corporate,East,Ipswich,Technology,Accessories,1,51.41,0,51.41,31.17,20.24
+ORD-11207,2025-08-14,CUST-198,Consumer,East,Ipswich,Technology,Phones,3,411.01,0.1,1109.73,905.17,204.56
+ORD-10476,2024-05-03,CUST-269,Corporate,South,Brighton,Office Supplies,Pens,1,10.49,0.15,8.92,7.81,1.11
+ORD-10082,2024-06-06,CUST-283,Corporate,West,Cardiff,Office Supplies,Binders,5,9.11,0.05,43.27,34.56,8.71
+ORD-10950,2024-04-23,CUST-186,Consumer,West,Cardiff,Office Supplies,Paper,5,7.14,0,35.7,27.62,8.08
+ORD-10558,2024-05-13,CUST-039,Corporate,West,Plymouth,Office Supplies,Pens,3,7.66,0,22.98,16.64,6.34
+ORD-11193,2024-01-28,CUST-107,Small Business,South,Southampton,Furniture,Chairs,7,218.49,0,1529.43,1010.94,518.49
+ORD-11046,2025-09-15,CUST-077,Small Business,South,Southampton,Furniture,Storage,6,140.21,0,841.26,542.37,298.89
+ORD-10411,2025-03-11,CUST-097,Small Business,South,Brighton,Furniture,Desks,2,418.05,0,836.1,584.91,251.19
+ORD-10938,2025-02-24,CUST-091,Corporate,East,Ipswich,Furniture,Storage,6,99.62,0,597.72,467.17,130.55
+ORD-10354,2024-06-19,CUST-292,Small Business,North,Newcastle,Technology,Accessories,3,46.32,0,138.96,90.88,48.08
+ORD-10979,2025-08-12,CUST-201,Small Business,East,Cambridge,Technology,Laptops,5,689.46,0,3447.3,2656.66,790.64
+ORD-10176,2024-12-01,CUST-289,Small Business,East,Cambridge,Technology,Phones,5,695.31,0.1,3128.89,2204.46,924.43
+ORD-10953,2024-12-21,CUST-016,Consumer,West,Plymouth,Office Supplies,Pens,3,7.46,0.1,20.14,16.46,3.68
+ORD-10733,2025-05-31,CUST-120,Corporate,West,Cardiff,Technology,Phones,8,230.32,0.1,1658.3,1200.92,457.38
+ORD-10367,2025-08-15,CUST-128,Corporate,South,Southampton,Office Supplies,Paper,6,7.07,0.1,38.18,32.68,5.5
+ORD-10322,2024-10-14,CUST-165,Small Business,West,Exeter,Office Supplies,Pens,4,2.98,0,11.92,7.45,4.47
+ORD-11412,2025-07-15,CUST-101,Corporate,North,Leeds,Technology,Phones,8,365.08,0.15,2482.54,2133.92,348.62
+ORD-11054,2024-10-27,CUST-230,Small Business,North,Manchester,Furniture,Desks,2,357.02,0.15,606.93,400.8,206.13
+ORD-11095,2025-06-07,CUST-194,Consumer,West,Exeter,Furniture,Storage,5,106.04,0.1,477.18,392.35,84.83
+ORD-10092,2025-04-17,CUST-177,Consumer,East,Ipswich,Furniture,Desks,8,383.39,0,3067.12,2206.49,860.63
+ORD-11211,2024-04-08,CUST-117,Small Business,East,Cambridge,Office Supplies,Binders,6,3.76,0.05,21.43,16.03,5.4
+ORD-10465,2025-12-19,CUST-041,Consumer,East,Cambridge,Technology,Phones,2,310.36,0,620.72,485.75,134.97
+ORD-10208,2024-06-01,CUST-074,Corporate,East,Cambridge,Furniture,Chairs,8,203.34,0,1626.72,1240.11,386.61
+ORD-10204,2024-01-17,CUST-126,Small Business,South,Bristol,Technology,Laptops,1,495.4,0.05,470.63,346.51,124.12
+ORD-10200,2025-04-28,CUST-216,Small Business,North,Manchester,Furniture,Desks,3,212.99,0.2,511.18,453.91,57.27
+ORD-10993,2025-07-28,CUST-017,Consumer,South,Southampton,Technology,Accessories,4,23.53,0.05,89.41,65.54,23.87
+ORD-10990,2024-10-22,CUST-286,Small Business,North,Newcastle,Technology,Phones,3,663.62,0.05,1891.32,1433.88,457.44
+ORD-11084,2024-02-07,CUST-280,Small Business,East,Cambridge,Office Supplies,Pens,1,7.99,0,7.99,5.77,2.22
+ORD-10691,2024-04-29,CUST-250,Small Business,North,Manchester,Technology,Accessories,7,33.86,0.2,189.62,169.33,20.29
+ORD-10537,2025-11-07,CUST-156,Corporate,South,Southampton,Furniture,Storage,8,80.81,0,646.48,388.8,257.68
+ORD-10960,2025-01-15,CUST-291,Corporate,East,Cambridge,Technology,Phones,6,261.15,0.15,1331.86,866.07,465.79
+ORD-11377,2025-08-02,CUST-218,Corporate,South,Bristol,Furniture,Desks,6,217.15,0.1,1172.61,936.82,235.79
+ORD-10024,2025-07-09,CUST-261,Small Business,North,Leeds,Office Supplies,Binders,8,3.69,0.1,26.57,23.02,3.55
+ORD-10270,2024-09-25,CUST-213,Small Business,South,Southampton,Technology,Laptops,7,876.91,0.1,5524.53,3815.75,1708.78
+ORD-10797,2024-01-16,CUST-189,Small Business,West,Cardiff,Office Supplies,Binders,4,3.14,0.05,11.93,7.6,4.33
+ORD-10788,2025-02-25,CUST-023,Corporate,North,Manchester,Furniture,Chairs,6,203.53,0.05,1160.12,809.32,350.8
+ORD-10069,2025-12-03,CUST-214,Consumer,North,Newcastle,Technology,Laptops,5,815.01,0,4075.05,3253.84,821.21
+ORD-10617,2024-11-04,CUST-266,,East,Cambridge,Office Supplies,Pens,2,8.88,0.1,15.98,12.34,3.64
+ORD-10955,2024-10-07,CUST-205,Corporate,West,Cardiff,Technology,Laptops,5,606.85,0.05,2882.54,2234.11,648.43
+ORD-10717,2025-08-19,CUST-067,Consumer,South,Southampton,Furniture,Desks,7,184.3,0.2,1032.08,842.45,189.63
+ORD-10579,2024-02-14,CUST-027,Corporate,North,Newcastle,Office Supplies,Binders,7,6.42,0,44.94,28.47,16.47
+ORD-11050,2025-05-10,CUST-071,Corporate,South,Bristol,Furniture,Desks,3,230.42,0.1,622.13,422.52,199.61
+ORD-10049,2025-02-21,CUST-011,Small Business,East,Ipswich,Office Supplies,Binders,4,7.99,0.2,25.57,20.93,4.64
+ORD-11353,2025-02-19,CUST-096,Corporate,East,Ipswich,Technology,Accessories,4,41.91,0,167.64,92.88,74.76
+ORD-11085,2024-11-16,CUST-007,Consumer,South,Brighton,Furniture,Desks,2,398.1,0,796.2,522.65,273.55
+ORD-10945,2025-08-14,CUST-119,Small Business,West,Cardiff,Technology,Accessories,3,29.52,0.05,84.13,68.73,15.4
+ORD-10486,2025-02-01,CUST-195,Small Business,East,Ipswich,Office Supplies,Pens,2,5.6,0,11.2,6.98,4.22
+ORD-10846,2025-12-12,CUST-083,Small Business,South,Brighton,Technology,Accessories,6,32.36,0,194.16,108.69,85.47
+ORD-10641,2024-03-08,CUST-216,Corporate,East,Cambridge,Technology,Phones,6,284.89,0,1709.34,1137.1,572.24
+ORD-10743,2025-10-02,CUST-108,Corporate,East,Norwich,Office Supplies,Paper,8,9.69,0,77.52,43.35,34.17
+ORD-10504,2024-06-12,CUST-084,Small Business,West,Cardiff,Office Supplies,Binders,3,3.53,0,10.59,7.32,3.27
+ORD-11335,2024-09-15,CUST-199,Corporate,South,Bristol,Office Supplies,Paper,4,11.2,0.2,35.84,26.67,9.17
+ORD-10764,2025-04-12,CUST-067,Consumer,South,Brighton,Furniture,Desks,7,381.32,0.15,2268.85,1511.71,757.14
+ORD-11195,2025-06-12,CUST-213,Small Business,North,Leeds,Technology,Laptops,8,504.16,0.15,3428.29,2828.18,600.11
+ORD-10818,2024-07-05,CUST-099,Consumer,North,Manchester,Furniture,Storage,3,154.01,0,462.03,260.93,201.1
+ORD-10569,2024-05-01,CUST-073,Consumer,South,Southampton,Office Supplies,Pens,3,7.23,0.15,18.44,15.07,3.37
+ORD-10020,2025-10-31,CUST-217,Small Business,North,Leeds,Technology,Phones,2,564.11,0,1128.22,674.56,453.66
+ORD-10353,2024-12-16,CUST-216,Small Business,South,Bristol,Technology,Phones,8,400.13,0,3201.04,2429.36,771.68
+ORD-10141,2024-03-26,CUST-179,Consumer,South,Brighton,Furniture,Desks,3,466.86,0.2,1120.46,923.5,196.96
+ORD-10611,2024-07-09,CUST-238,Corporate,West,Cardiff,Furniture,Storage,5,108.68,0.2,434.72,378.37,56.35
+ORD-10134,2024-03-24,CUST-193,Consumer,South,Bristol,Furniture,Desks,7,488.69,0,3420.83,2390.34,1030.49
+ORD-10688,2025-11-07,CUST-094,Corporate,East,Cambridge,Furniture,Desks,1,354.95,0,354.95,260.93,94.02
+ORD-10422,2025-02-17,CUST-060,Corporate,North,Newcastle,Furniture,Chairs,2,137.36,0.1,247.25,156.07,91.18
+ORD-10884,2025-08-02,CUST-085,Small Business,North,Manchester,Office Supplies,Paper,7,19.81,0.05,131.74,100.01,31.73
+ORD-10782,2025-02-04,CUST-106,Consumer,South,Southampton,Technology,Laptops,8,691.4,0.15,4701.52,3137.25,1564.27
+ORD-10413,2024-04-19,CUST-142,Small Business,South,Bristol,Furniture,Storage,5,121.95,0.2,487.8,417.08,70.72
+ORD-10744,2024-07-19,CUST-290,Small Business,West,Cardiff,Technology,Phones,8,484.55,0,3876.4,2666.76,1209.64
+ORD-10287,2024-06-10,CUST-128,Consumer,East,Cambridge,Office Supplies,Pens,4,8.03,0.2,25.7,24.54,1.16
+ORD-10920,2025-11-28,CUST-221,Corporate,South,Brighton,Office Supplies,Paper,6,24.87,0.05,141.76,111.37,30.39
+ORD-10120,2025-03-28,CUST-250,Corporate,West,Plymouth,Furniture,Chairs,2,203.44,0,406.88,267.51,139.37
+ORD-10333,2024-05-23,CUST-293,Small Business,North,Leeds,Office Supplies,Binders,5,14.97,0.05,71.11,48.74,22.37
+ORD-11068,2025-02-05,CUST-229,Corporate,East,Cambridge,Office Supplies,Binders,4,6.55,0,26.2,20.72,5.48
+ORD-10577,2025-03-04,CUST-238,Small Business,North,Newcastle,Office Supplies,Paper,2,8.84,0.1,15.91,11.32,4.59
+ORD-10907,2025-03-07,CUST-014,Small Business,South,Bristol,Technology,Laptops,3,475.14,0,1425.42,1126.81,298.61
+ORD-10903,2024-04-02,CUST-212,Corporate,East,Ipswich,Technology,Laptops,6,795.39,0,4772.34,3214.42,1557.92
+ORD-11015,2024-03-29,CUST-209,Consumer,North,Newcastle,Office Supplies,Pens,1,2.96,0.2,2.37,1.73,0.64
+ORD-10035,2024-06-12,CUST-117,Corporate,North,Leeds,Furniture,Chairs,4,223.13,0,892.52,673.09,219.43
+ORD-10554,2025-06-28,CUST-300,Consumer,East,Cambridge,Furniture,Storage,5,168.53,0,842.65,520.41,322.24
+ORD-11430,2024-05-05,CUST-026,Consumer,East,Norwich,Office Supplies,Paper,1,22.91,0,22.91,13.5,9.41
+ORD-11125,2025-01-31,CUST-055,Small Business,West,Exeter,Technology,Phones,7,679.26,0,4754.82,2809.56,1945.26
+ORD-11183,2025-06-27,CUST-185,Small Business,East,Cambridge,Office Supplies,Paper,2,7.81,0.2,12.5,11.66,0.84
+ORD-10104,2025-01-11,CUST-011,Consumer,East,Norwich,Technology,Phones,2,337.94,0.2,540.7,511.0,29.7
+ORD-10295,2025-08-02,CUST-242,Corporate,East,Ipswich,Furniture,Desks,6,212.94,0.1,1149.88,772.66,377.22
+ORD-11431,2024-09-15,CUST-168,Corporate,West,Plymouth,Technology,Phones,7,431.75,0.2,2417.8,2198.04,219.76
+ORD-10908,2025-03-10,CUST-188,Consumer,East,Norwich,Technology,Accessories,2,15.3,0.05,29.07,23.24,5.83
+ORD-10402,2025-05-13,CUST-144,Consumer,West,Cardiff,Office Supplies,Paper,3,15.04,0.05,42.86,26.68,16.18
+ORD-10363,2024-08-15,CUST-085,Small Business,North,Manchester,Furniture,Desks,5,440.46,0.1,1982.07,1498.66,483.41
+ORD-11140,2025-07-25,CUST-273,Small Business,North,Newcastle,Furniture,Desks,8,261.87,0,2094.96,1394.17,700.79
+ORD-10929,2025-07-12,CUST-032,Small Business,South,Southampton,Furniture,Chairs,6,181.64,0.1,980.86,607.95,372.91
+ORD-10112,2025-03-01,CUST-035,Small Business,North,Leeds,Furniture,Desks,5,259.38,0,1296.9,1022.47,274.43
+ORD-10659,2024-11-04,CUST-018,Small Business,North,Manchester,Technology,Phones,3,305.19,0.05,869.79,648.08,221.71
+ORD-11269,2025-03-22,CUST-163,Consumer,East,Norwich,Furniture,Storage,1,59.99,0.15,50.99,47.0,3.99
+ORD-10601,2024-08-31,CUST-018,Consumer,North,Newcastle,Technology,Phones,8,487.26,0,3898.08,2504.2,1393.88
+ORD-10165,2025-06-30,CUST-173,Small Business,North,Newcastle,Office Supplies,Pens,3,3.69,0,11.07,7.91,3.16
+ORD-10572,2024-12-11,CUST-089,Consumer,West,Exeter,Furniture,Chairs,3,245.41,0,736.23,558.88,177.35
+ORD-10115,2024-04-16,CUST-143,Corporate,South,Bristol,Technology,Accessories,2,34.11,0,68.22,51.94,16.28
+ORD-10769,2025-08-20,CUST-194,Consumer,North,Newcastle,Technology,Laptops,8,852.7,0.2,5457.28,4151.6,1305.68
+ORD-10136,2024-07-03,CUST-277,Consumer,South,Bristol,Furniture,Desks,3,217.2,0,651.6,370.95,280.65
+ORD-11489,2025-08-17,CUST-279,Consumer,South,Brighton,Technology,Accessories,4,18.99,0.2,60.77,44.18,16.59
+ORD-10053,2024-09-23,CUST-216,Corporate,West,Exeter,Furniture,Chairs,6,146.39,0.2,702.67,676.24,26.43
+ORD-11340,2024-06-27,CUST-139,Small Business,North,Leeds,Technology,Laptops,8,776.16,0.2,4967.42,4791.14,176.28
+ORD-11411,2025-09-28,CUST-019,Corporate,East,Ipswich,Furniture,Desks,2,167.82,0.05,318.86,248.25,70.61
+ORD-10167,2025-10-04,CUST-226,Small Business,East,Cambridge,Office Supplies,Binders,7,8.8,0,61.6,40.86,20.74
+ORD-10154,2025-04-02,CUST-208,Consumer,North,Manchester,Office Supplies,Binders,7,10.38,0,72.66,51.58,21.08
+ORD-10414,2025-02-10,CUST-158,Small Business,South,Bristol,Furniture,Storage,8,149.73,0,1197.84,769.68,428.16
+ORD-11032,2024-01-22,CUST-197,Consumer,West,Exeter,Technology,Phones,7,338.98,0,2372.86,1795.77,577.09
+ORD-10793,2024-02-05,CUST-003,Corporate,South,Brighton,Furniture,Storage,2,46.69,0.05,88.71,67.48,21.23
+ORD-10240,2024-12-19,CUST-160,Small Business,North,Manchester,Furniture,Chairs,2,116.13,0,232.26,176.01,56.25
+ORD-11141,2024-06-23,CUST-272,Corporate,West,Exeter,Furniture,Desks,2,161.29,0.15,274.19,216.66,57.53
+ORD-10129,2025-06-03,CUST-047,Consumer,North,Newcastle,Furniture,Desks,1,308.17,0,308.17,233.57,74.6
+ORD-11355,2025-02-01,CUST-017,Consumer,East,Cambridge,Technology,Phones,8,414.26,0.15,2816.97,2332.12,484.85
+ORD-10801,2024-08-30,CUST-105,Consumer,West,Plymouth,Technology,Accessories,3,13.97,0,41.91,28.28,13.63
+ORD-11303,2025-02-26,CUST-129,Consumer,East,Cambridge,Technology,Phones,6,325.47,0.15,1659.9,1191.6,468.3
+ORD-11053,2024-06-19,CUST-124,Corporate,North,Newcastle,Technology,Accessories,7,53.34,0.05,354.71,238.44,116.27
+ORD-10014,2025-09-05,CUST-291,Consumer,East,Norwich,Furniture,Chairs,6,81.25,0.2,390.0,366.45,23.55
+ORD-10003,2024-08-13,CUST-143,Small Business,West,Cardiff,Office Supplies,Binders,1,12.71,0.2,10.17,9.55,0.62
+ORD-10459,2024-07-16,CUST-287,Corporate,North,Manchester,Office Supplies,Binders,3,7.3,0,21.9,16.97,4.93
+ORD-10980,2024-04-13,CUST-148,Corporate,South,Bristol,Office Supplies,Pens,4,4.68,0,18.72,13.97,4.75
+ORD-10337,2025-09-27,CUST-078,Consumer,North,Leeds,Furniture,Chairs,7,155.09,0.1,977.07,678.07,299.0
+ORD-11343,2024-09-30,CUST-023,Consumer,North,Newcastle,Office Supplies,Binders,4,14.56,0,58.24,42.07,16.17
+ORD-11458,2025-10-26,CUST-209,Small Business,North,Leeds,Office Supplies,Paper,3,14.41,0,43.23,31.75,11.48
+ORD-10557,2024-02-04,CUST-045,Small Business,North,Newcastle,Office Supplies,Paper,4,6.14,0.1,22.1,17.43,4.67
+ORD-11227,2024-02-10,CUST-222,Small Business,East,Ipswich,Office Supplies,Binders,1,13.23,0.05,12.57,9.97,2.6
+ORD-10637,2024-06-17,CUST-284,Small Business,West,Plymouth,Furniture,Chairs,7,119.37,0.05,793.81,619.17,174.64
+ORD-10493,2024-11-21,CUST-164,Consumer,North,Manchester,Office Supplies,Pens,2,11.49,0,22.98,14.46,8.52
+ORD-10306,2025-03-05,CUST-296,Corporate,South,Bristol,Furniture,Desks,6,458.62,0.1,2476.55,1771.66,704.89
+ORD-10817,2024-03-12,CUST-102,Consumer,West,Exeter,Office Supplies,Binders,7,10.85,0,75.95,45.12,30.83
+ORD-10547,2024-12-27,CUST-243,Corporate,East,Ipswich,Furniture,Chairs,5,66.71,0.15,283.52,248.91,34.61
+ORD-10394,2025-10-18,CUST-250,Corporate,West,Plymouth,Furniture,Desks,6,197.01,0.05,1122.96,786.91,336.05
+ORD-11461,2025-03-06,CUST-066,Small Business,East,Ipswich,Office Supplies,Pens,2,6.98,0.05,13.26,9.74,3.52
+ORD-10247,2024-11-08,CUST-096,Small Business,North,Manchester,Technology,Phones,7,546.72,0.05,3635.69,2675.51,960.18
+ORD-10690,2024-08-04,CUST-003,Corporate,South,Southampton,Technology,Accessories,5,59.11,0.2,236.44,212.31,24.13
+ORD-10643,2025-12-08,CUST-104,Corporate,South,Southampton,Furniture,Desks,6,325.97,0,1955.82,1376.32,579.5
+ORD-11198,2024-01-17,CUST-066,Consumer,East,Ipswich,Office Supplies,Pens,1,10.97,0,10.97,8.36,2.61
+ORD-11149,2024-11-28,CUST-200,Small Business,South,Bristol,Technology,Accessories,2,41.27,0,82.54,45.87,36.67
+ORD-10299,2024-02-08,CUST-104,Corporate,North,Leeds,Technology,Laptops,1,720.75,0.1,648.68,482.54,166.14
+ORD-10202,2025-06-25,CUST-273,Small Business,South,Southampton,Office Supplies,Paper,1,21.7,0,21.7,14.45,7.25
+ORD-10873,2024-10-15,CUST-059,Consumer,West,Exeter,Technology,Phones,3,323.87,0.15,825.87,658.57,167.3
+ORD-10987,2025-05-24,CUST-194,Consumer,North,Newcastle,Technology,Accessories,7,47.05,0,329.35,198.13,131.22
+ORD-10031,2024-02-15,CUST-288,Small Business,North,Leeds,Furniture,Chairs,5,181.05,0,905.25,665.64,239.61
+ORD-11436,2024-02-10,CUST-033,Consumer,West,Exeter,Office Supplies,Pens,8,7.47,0,59.76,37.12,22.64
+ORD-10150,2024-07-23,CUST-183,Small Business,North,Leeds,Furniture,Desks,8,330.38,0,2643.04,1477.87,1165.17
+ORD-11351,2025-11-03,CUST-233,Consumer,West,Cardiff,Technology,Accessories,7,27.56,0.15,163.98,142.35,21.63
+ORD-11116,2025-02-12,CUST-120,Corporate,West,Plymouth,Technology,Phones,6,561.69,0.05,3201.63,2425.28,776.35
+ORD-11499,2025-11-08,CUST-241,Small Business,North,Leeds,Furniture,Desks,7,437.55,0.15,2603.42,1716.63,886.79
+ORD-10784,2024-01-08,CUST-236,Small Business,South,Southampton,Furniture,Chairs,4,216.67,0.1,780.01,547.93,232.08
+ORD-10192,2024-12-01,CUST-197,,North,Leeds,Furniture,Storage,3,53.35,0.05,152.05,100.98,51.07
+ORD-10545,2025-04-21,CUST-277,Small Business,North,Newcastle,Office Supplies,Pens,8,2.88,0.15,19.58,16.94,2.64
+ORD-11112,2024-12-16,CUST-265,Consumer,East,Ipswich,Technology,Accessories,5,48.67,0,243.35,162.3,81.05
+ORD-11158,2024-02-06,CUST-082,Small Business,South,Bristol,Technology,Accessories,4,24.42,0,97.68,67.49,30.19
+ORD-10735,2024-05-25,CUST-149,Consumer,East,Ipswich,Office Supplies,Paper,7,20.64,0.1,130.03,95.78,34.25
+ORD-10832,2024-11-23,CUST-162,Small Business,East,Norwich,Office Supplies,Paper,4,15.4,0,61.6,39.97,21.63
+ORD-10302,2024-11-20,CUST-151,Consumer,South,Brighton,Office Supplies,Pens,6,8.94,0,53.64,38.43,15.21
+ORD-10062,2025-09-02,CUST-124,Corporate,East,Ipswich,Office Supplies,Paper,4,15.33,0,61.32,37.43,23.89
+ORD-10700,2024-06-14,CUST-052,Consumer,South,Southampton,Furniture,Storage,8,144.9,0,1159.2,687.78,471.42
+ORD-10890,2025-12-05,CUST-298,Corporate,West,Plymouth,Office Supplies,Binders,4,13.44,0.2,43.01,35.51,7.5
+ORD-10292,2024-01-31,CUST-018,Corporate,West,Plymouth,Office Supplies,Binders,4,5.07,0,20.28,12.55,7.73
+ORD-11135,2025-02-14,CUST-293,Consumer,North,Manchester,Technology,Accessories,2,22.84,0.2,36.54,35.54,1.0
+ORD-11196,2024-08-03,CUST-205,Corporate,North,Leeds,Office Supplies,Binders,2,8.74,0.05,16.61,9.68,6.93
+ORD-10706,2025-03-25,CUST-191,Consumer,West,Plymouth,Technology,Laptops,8,825.67,0,6605.36,4106.48,2498.88
+ORD-11321,2024-10-30,CUST-196,Consumer,North,Newcastle,Technology,Accessories,7,42.2,0,295.4,189.69,105.71
+ORD-10584,2024-08-13,CUST-268,Consumer,East,Cambridge,Office Supplies,Paper,3,20.79,0.1,56.13,49.43,6.7
+ORD-10036,2024-01-25,CUST-275,Small Business,South,Southampton,Furniture,Desks,2,247.51,0.2,396.02,306.8,89.22
+ORD-10284,2024-04-07,CUST-134,Consumer,South,Southampton,Office Supplies,Binders,1,3.9,0.05,3.7,2.79,0.91
+ORD-11248,2024-04-08,CUST-117,Corporate,East,Cambridge,Furniture,Chairs,5,194.38,0.05,923.3,556.59,366.71
+ORD-10500,2025-01-31,CUST-151,Corporate,North,Newcastle,Technology,Phones,5,419.78,0.2,1679.12,1588.67,90.45
+ORD-10741,2024-02-01,CUST-005,Corporate,West,Cardiff,Office Supplies,Paper,7,12.06,0.2,67.54,59.12,8.42
+ORD-10668,2024-05-13,CUST-075,Corporate,West,Cardiff,Technology,Accessories,5,20.78,0.15,88.31,74.73,13.58
+ORD-10452,2024-02-02,CUST-129,Consumer,East,Cambridge,Technology,Laptops,7,475.22,0,3326.54,2281.33,1045.21
+ORD-11270,2025-08-05,CUST-029,Consumer,North,Manchester,Technology,Phones,5,629.74,0,3148.7,2007.39,1141.31
+ORD-10468,2025-11-03,CUST-235,Small Business,South,Bristol,Office Supplies,Pens,7,11.48,0.15,68.31,46.32,21.99
+ORD-10634,2024-01-28,CUST-267,Consumer,South,Southampton,Furniture,Storage,3,135.09,0,405.27,285.91,119.36
+ORD-11441,2024-12-02,CUST-011,Consumer,South,Brighton,Office Supplies,Pens,7,4.0,0,28.0,17.7,10.3
+ORD-10357,2025-08-13,CUST-198,Consumer,South,Brighton,Office Supplies,Binders,2,9.23,0.05,17.54,13.21,4.33
+ORD-10906,2025-07-25,CUST-074,Consumer,West,Plymouth,Technology,Laptops,6,476.81,0,2860.86,2180.51,680.35
+ORD-10063,2025-05-02,CUST-189,Corporate,West,Exeter,Furniture,Chairs,4,77.68,0.05,295.18,224.63,70.55
+ORD-10856,2025-02-02,CUST-263,,South,Bristol,Furniture,Storage,7,134.89,0.05,897.02,659.15,237.87
+ORD-10937,2025-08-13,CUST-234,Consumer,North,Manchester,Furniture,Desks,5,155.67,0.1,700.51,587.47,113.04
+ORD-10242,2025-12-28,CUST-170,Consumer,North,Newcastle,Technology,Phones,3,523.98,0.15,1336.15,960.42,375.73
+ORD-10816,2025-10-13,CUST-001,Consumer,East,Norwich,Technology,Phones,7,574.37,0.15,3417.5,2521.01,896.49
+ORD-11490,2024-09-04,CUST-023,Consumer,North,Manchester,Furniture,Storage,5,115.26,0,576.3,364.81,211.49
+ORD-10969,2025-08-20,CUST-063,Corporate,West,Plymouth,Technology,Laptops,3,593.7,0.2,1424.88,1239.7,185.18
+ORD-11437,2025-03-03,CUST-020,Corporate,West,Cardiff,Office Supplies,Pens,6,4.31,0.2,20.69,18.04,2.65
+ORD-10836,2025-07-15,CUST-145,Consumer,West,Exeter,Furniture,Desks,6,387.26,0.2,1858.85,1505.3,353.55
+ORD-10113,2024-03-28,CUST-288,Consumer,North,Newcastle,Furniture,Chairs,6,201.47,0.2,967.06,704.17,262.89
+ORD-10828,2024-01-30,CUST-064,Corporate,South,Bristol,Furniture,Desks,4,418.21,0.15,1421.91,1027.8,394.11
+ORD-11228,2024-01-27,CUST-234,Corporate,South,Southampton,Office Supplies,Paper,6,5.48,0,32.88,20.49,12.39
+ORD-11483,2024-04-30,CUST-082,Consumer,South,Southampton,Furniture,Storage,5,145.92,0.2,583.68,526.54,57.14
+ORD-11155,2025-06-07,CUST-188,Consumer,West,Exeter,Furniture,Chairs,5,79.69,0.2,318.76,301.35,17.41
+ORD-10457,2025-05-01,CUST-031,Corporate,South,Brighton,Furniture,Chairs,8,107.26,0,858.08,619.09,238.99
+ORD-11346,2025-01-16,CUST-045,Corporate,West,Plymouth,Furniture,Desks,8,201.67,0.15,1371.36,1106.07,265.29
+ORD-10222,2025-10-22,CUST-244,Small Business,East,Cambridge,Office Supplies,Paper,1,22.9,0,22.9,13.81,9.09
+ORD-10390,2025-06-08,CUST-028,Small Business,South,Bristol,Technology,Laptops,5,549.35,0,2746.75,1589.42,1157.33
+ORD-10359,2024-09-03,CUST-294,Consumer,East,Cambridge,Furniture,Chairs,7,156.32,0.05,1039.53,825.36,214.17
+ORD-11291,2025-12-29,CUST-087,Small Business,North,Manchester,Furniture,Storage,8,177.7,0,1421.6,1002.89,418.71
+ORD-11462,2024-07-07,CUST-037,Small Business,North,Newcastle,Office Supplies,Paper,1,7.65,0,7.65,6.12,1.53
+ORD-11025,2025-03-13,CUST-122,Corporate,South,Brighton,Technology,Phones,6,259.0,0,1554.0,929.93,624.07
+ORD-11265,2025-09-06,CUST-059,Consumer,North,Leeds,Office Supplies,Pens,8,5.95,0,47.6,34.07,13.53
+ORD-11320,2024-03-03,CUST-105,Consumer,South,Brighton,Office Supplies,Pens,7,4.82,0.05,32.05,24.47,7.58
+ORD-10211,2025-05-05,CUST-246,Small Business,South,Brighton,Furniture,Desks,1,484.96,0,484.96,380.35,104.61
+ORD-10677,2024-04-25,CUST-140,Small Business,South,Bristol,Technology,Phones,5,246.79,0,1233.95,936.25,297.7
+ORD-10301,2025-12-22,CUST-250,Small Business,West,Plymouth,Office Supplies,Paper,6,11.73,0,70.38,55.88,14.5
+ORD-10509,2024-03-30,CUST-294,Small Business,North,Newcastle,Technology,Phones,3,696.87,0.15,1777.02,1298.47,478.55
+ORD-10787,2025-02-06,CUST-112,Small Business,North,Manchester,Technology,Laptops,5,573.2,0.15,2436.1,2232.83,203.27
+ORD-10750,2025-08-29,CUST-122,Corporate,East,Norwich,Furniture,Chairs,4,80.49,0,321.96,244.09,77.87
+ORD-11097,2024-10-11,CUST-092,Corporate,South,Brighton,Furniture,Storage,5,101.83,0.15,432.78,295.34,137.44
+ORD-10298,2025-12-18,CUST-090,Corporate,East,Cambridge,Office Supplies,Pens,4,3.42,0.2,10.94,10.9,0.04
+ORD-10606,2024-01-24,CUST-262,Corporate,North,Leeds,Office Supplies,Binders,2,11.12,0.1,20.02,14.42,5.6
+ORD-11070,2025-05-15,CUST-166,Corporate,West,Exeter,Office Supplies,Paper,5,5.58,0.1,25.11,16.85,8.26
+ORD-10184,2024-05-29,CUST-246,Small Business,East,Norwich,Technology,Phones,2,677.66,0,1355.32,1058.51,296.81
+ORD-10935,2024-04-26,CUST-297,Small Business,West,Cardiff,Furniture,Storage,8,141.12,0.2,903.17,862.88,40.29
+ORD-11350,2024-06-17,CUST-203,Corporate,South,Bristol,Office Supplies,Pens,8,9.88,0,79.04,49.9,29.14
+ORD-10608,2025-04-01,CUST-218,Consumer,North,Newcastle,Technology,Accessories,7,54.39,0.2,304.58,251.52,53.06
+ORD-10770,2024-06-09,CUST-022,Corporate,East,Cambridge,Furniture,Storage,2,51.87,0,103.74,68.59,35.15
+ORD-10862,2025-03-11,CUST-269,Consumer,East,Norwich,Technology,Accessories,1,43.06,0.1,38.75,28.51,10.24
+ORD-11447,2024-12-14,CUST-035,Small Business,West,Plymouth,Furniture,Chairs,7,213.38,0,1493.66,884.07,609.59
+ORD-10340,2024-03-31,CUST-274,,South,Brighton,Office Supplies,Binders,7,10.6,0.05,70.49,58.72,11.77
+ORD-11274,2024-01-04,CUST-011,Small Business,North,Newcastle,Furniture,Storage,4,56.75,0.2,181.6,160.51,21.09
+ORD-10928,2024-07-23,CUST-233,Corporate,West,Cardiff,Furniture,Chairs,8,120.28,0,962.24,698.18,264.06
+ORD-10033,2024-02-10,CUST-080,Corporate,East,Norwich,Technology,Accessories,2,22.48,0,44.96,33.5,11.46
+ORD-10373,2025-09-22,CUST-025,Small Business,South,Southampton,Office Supplies,Pens,4,7.61,0.1,27.4,22.71,4.69
+ORD-11176,2024-05-28,CUST-214,Small Business,East,Norwich,Furniture,Storage,6,89.55,0.05,510.43,336.89,173.54
+ORD-10586,2025-08-28,CUST-018,Small Business,South,Southampton,Office Supplies,Paper,1,13.36,0,13.36,10.66,2.7
+ORD-10593,2024-12-08,CUST-137,Consumer,South,Bristol,Office Supplies,Paper,4,17.98,0.2,57.54,52.95,4.59
+ORD-10133,2025-09-04,CUST-077,Corporate,North,Manchester,Office Supplies,Pens,6,5.35,0,32.1,22.13,9.97
+ORD-11157,2025-05-18,CUST-141,Small Business,South,Bristol,Furniture,Desks,8,253.35,0,2026.8,1513.7,513.1
+ORD-11421,2025-05-18,CUST-168,Consumer,West,Plymouth,Office Supplies,Paper,4,13.11,0,52.44,32.03,20.41
+ORD-11040,2024-03-22,CUST-254,Corporate,East,Norwich,Office Supplies,Pens,2,5.14,0.05,9.77,6.12,3.65
+ORD-10098,2024-12-12,CUST-286,Small Business,North,Manchester,Furniture,Chairs,4,86.74,0.2,277.57,249.49,28.08
+ORD-11252,2025-01-18,CUST-020,Corporate,South,Bristol,Furniture,Storage,3,158.44,0.1,427.79,279.11,148.68
+ORD-11281,2025-07-09,CUST-265,Consumer,West,Exeter,Furniture,Storage,4,97.7,0,390.8,247.93,142.87
+ORD-10759,2024-11-02,CUST-118,Consumer,West,Exeter,Furniture,Chairs,1,79.92,0.05,75.92,48.34,27.58
+ORD-11388,2024-01-04,CUST-210,Consumer,South,Bristol,Office Supplies,Binders,7,8.22,0.05,54.66,34.72,19.94
+ORD-10110,2025-09-14,CUST-259,Small Business,South,Bristol,Technology,Laptops,6,573.76,0.05,3270.43,2749.42,521.01
+ORD-10255,2025-11-26,CUST-128,Small Business,North,Leeds,Technology,Phones,5,659.38,0.2,2637.52,2353.9,283.62
+ORD-10767,2024-03-24,CUST-266,Small Business,West,Exeter,Office Supplies,Pens,7,2.65,0.2,14.84,14.29,0.55
+ORD-10479,2025-02-12,CUST-203,Small Business,East,Ipswich,Technology,Phones,3,450.91,0.2,1082.18,789.61,292.57
+ORD-10435,2024-11-19,CUST-131,Consumer,West,Exeter,Furniture,Desks,1,346.75,0.05,329.41,199.29,130.12
+ORD-11258,2025-09-16,CUST-022,Consumer,West,Cardiff,Furniture,Desks,5,497.3,0.2,1989.2,1792.8,196.4
+ORD-11484,2025-01-22,CUST-081,Corporate,North,Leeds,Technology,Phones,3,217.56,0.15,554.78,496.51,58.27
+ORD-10280,2024-03-29,CUST-253,Corporate,West,Cardiff,Technology,Phones,5,300.34,0.15,1276.44,1059.72,216.72
+ORD-11466,2025-05-15,CUST-269,Consumer,East,Cambridge,Furniture,Chairs,7,107.9,0.05,717.54,445.36,272.18
+ORD-11226,2025-10-20,CUST-216,Small Business,North,Manchester,Office Supplies,Paper,4,7.35,0,29.4,20.43,8.97
+ORD-10977,2024-04-10,CUST-142,Corporate,North,Newcastle,Office Supplies,Binders,7,11.78,0,82.46,51.41,31.05
+ORD-11263,2025-01-15,CUST-159,Corporate,West,Cardiff,Technology,Laptops,4,513.75,0.1,1849.5,1473.71,375.79
+ORD-10612,2024-01-28,CUST-252,Corporate,North,Newcastle,Technology,Phones,8,350.08,0,2800.64,1998.13,802.51
+ORD-10702,2024-02-02,CUST-175,Corporate,North,Manchester,Furniture,Desks,4,189.89,0,759.56,524.47,235.09
+ORD-11397,2025-02-23,CUST-091,Small Business,East,Cambridge,Technology,Accessories,2,13.34,0.1,24.01,15.02,8.99
+ORD-10917,2024-11-12,CUST-067,Small Business,North,Newcastle,Furniture,Desks,4,485.56,0,1942.24,1433.3,508.94
+ORD-11081,2024-04-20,CUST-056,Corporate,West,Plymouth,Technology,Accessories,7,58.76,0.2,329.06,250.09,78.97
+ORD-11084,2024-02-07,CUST-280,Small Business,East,Cambridge,Office Supplies,Pens,1,7.99,0,7.99,5.77,2.22
+ORD-11136,2024-11-06,CUST-096,Corporate,South,Southampton,Office Supplies,Paper,8,12.48,0,99.84,73.9,25.94
+ORD-10623,2024-02-14,CUST-103,Small Business,North,Leeds,Furniture,Storage,2,41.44,0.2,66.3,48.15,18.15
+ORD-10496,2025-05-29,CUST-017,Consumer,West,Exeter,Office Supplies,Pens,7,5.74,0.05,38.17,26.86,11.31
+ORD-10238,2025-10-15,CUST-205,Consumer,North,Manchester,Technology,Laptops,6,745.92,0,4475.52,3185.45,1290.07
+ORD-10083,2025-01-27,CUST-260,Corporate,South,Southampton,Office Supplies,Pens,3,9.46,0.2,22.7,16.1,6.6
+ORD-10595,2025-06-28,CUST-201,Corporate,East,Norwich,Furniture,Storage,2,91.54,0,183.08,141.52,41.56
+ORD-11326,2024-06-16,CUST-280,Consumer,South,Brighton,Technology,Phones,6,686.16,0,4116.96,2689.04,1427.92
+ORD-11349,2025-02-09,CUST-282,Consumer,North,Newcastle,Furniture,Chairs,1,248.2,0.1,223.38,142.95,80.43
+ORD-10432,2025-07-15,CUST-191,Corporate,East,Cambridge,Technology,Phones,6,435.67,0,2614.02,1557.9,1056.12
+ORD-10293,2025-09-26,CUST-103,Corporate,South,Bristol,Office Supplies,Binders,8,8.99,0,71.92,41.13,30.79
+ORD-11150,2025-06-07,CUST-166,Small Business,South,Brighton,Technology,Phones,4,384.53,0,1538.12,1027.53,510.59
+ORD-10870,2024-12-05,CUST-282,Consumer,North,Manchester,Technology,Accessories,8,19.95,0.15,135.66,127.0,8.66
+ORD-10994,2024-12-29,CUST-089,Corporate,South,Bristol,Office Supplies,Pens,7,5.86,0,41.02,31.72,9.3
+ORD-10995,2025-03-22,CUST-157,Small Business,East,Norwich,Office Supplies,Paper,4,18.67,0,74.68,43.61,31.07
+ORD-11304,2024-06-14,CUST-229,Corporate,North,Leeds,Technology,Laptops,1,672.27,0.1,605.04,496.75,108.29
+ORD-11172,2025-04-26,CUST-276,Corporate,West,Cardiff,Technology,Laptops,7,479.5,0.15,2853.03,2101.71,751.32
+ORD-10894,2024-01-13,CUST-043,Consumer,North,Manchester,Furniture,Desks,1,157.25,0.2,125.8,119.14,6.66
+ORD-10376,2024-03-17,CUST-083,Small Business,South,Bristol,Technology,Accessories,7,35.69,0,249.83,164.17,85.66
+ORD-11127,2025-01-28,CUST-060,Corporate,West,Plymouth,Technology,Phones,7,526.91,0.05,3503.95,2739.87,764.08
+ORD-11043,2024-08-28,CUST-191,Consumer,East,Ipswich,Technology,Laptops,2,678.12,0.1,1220.62,772.19,448.43
+ORD-10881,2025-08-23,CUST-243,Small Business,South,Brighton,Technology,Accessories,2,32.29,0,64.58,50.72,13.86
+ORD-10107,2025-08-25,CUST-244,Consumer,East,Cambridge,Technology,Laptops,3,569.42,0.15,1452.02,1119.32,332.7
+ORD-10729,2024-11-24,CUST-271,Corporate,West,Exeter,Office Supplies,Paper,1,14.83,0,14.83,9.78,5.05
+ORD-10698,2025-09-29,CUST-119,Corporate,East,Ipswich,Furniture,Storage,3,101.07,0,303.21,221.81,81.4
+ORD-10521,2025-05-23,CUST-020,Consumer,South,Brighton,Furniture,Desks,5,440.31,0,2201.55,1499.86,701.69
+ORD-10448,2024-08-13,CUST-212,Small Business,East,Norwich,Technology,Phones,5,512.66,0,2563.3,1825.36,737.94
+ORD-10360,2024-03-31,CUST-019,Consumer,West,Plymouth,Furniture,Desks,8,191.55,0.15,1302.54,1093.13,209.41
+ORD-10205,2024-02-15,CUST-295,Corporate,West,Exeter,Furniture,Chairs,1,162.55,0,162.55,109.88,52.67
+ORD-10436,2025-10-06,CUST-211,Corporate,North,Leeds,Furniture,Storage,6,86.85,0,521.1,359.6,161.5
+ORD-10657,2024-01-22,CUST-283,Small Business,North,Manchester,Office Supplies,Pens,1,9.99,0.15,8.49,7.79,0.7
+ORD-10149,2025-04-20,CUST-104,Corporate,West,Cardiff,Office Supplies,Paper,2,21.23,0.15,36.09,31.59,4.5
+ORD-10934,2024-05-28,CUST-256,Corporate,East,Cambridge,Office Supplies,Pens,6,9.43,0,56.58,33.25,23.33
+ORD-10316,2025-08-08,CUST-041,Consumer,South,Bristol,Technology,Phones,3,286.44,0,859.32,646.31,213.01
+ORD-10792,2024-05-07,CUST-111,Corporate,West,Plymouth,Technology,Laptops,1,752.13,0.15,639.31,465.05,174.26
+ORD-10056,2024-06-20,CUST-102,Corporate,North,Leeds,Technology,Phones,1,254.05,0,254.05,176.3,77.75
+ORD-10182,2025-05-10,CUST-251,Small Business,South,Southampton,Technology,Phones,4,479.04,0,1916.16,1423.31,492.85
+ORD-10815,2024-06-18,CUST-046,Corporate,West,Cardiff,Furniture,Storage,7,82.31,0.1,518.55,361.26,157.29
+ORD-11457,2025-04-25,CUST-087,Consumer,East,Norwich,Furniture,Storage,3,54.96,0.1,148.39,129.42,18.97
+ORD-10740,2025-05-02,CUST-040,Consumer,North,Newcastle,Technology,Accessories,8,18.68,0.2,119.55,96.87,22.68
+ORD-10417,2025-04-27,CUST-206,Small Business,West,Plymouth,Technology,Laptops,6,568.39,0,3410.34,2394.94,1015.4
+ORD-11066,2025-03-20,CUST-299,Corporate,North,Leeds,Furniture,Storage,3,125.57,0,376.71,246.57,130.14
+ORD-10114,2024-12-03,CUST-160,Consumer,North,Manchester,Furniture,Desks,7,455.76,0.2,2552.26,2485.13,67.13
+ORD-10396,2024-03-18,CUST-279,Consumer,North,Newcastle,Office Supplies,Pens,7,2.31,0.2,12.94,11.28,1.66
+ORD-11449,2024-12-29,CUST-044,Corporate,North,Leeds,Office Supplies,Binders,7,10.78,0.15,64.14,57.3,6.84
+ORD-10037,2024-01-29,CUST-161,Corporate,North,Manchester,Furniture,Chairs,5,170.31,0,851.55,491.43,360.12
+ORD-10874,2025-12-18,CUST-077,Small Business,South,Brighton,Office Supplies,Binders,2,5.38,0.15,9.15,7.88,1.27
+ORD-10264,2025-01-11,CUST-289,Consumer,East,Norwich,Technology,Phones,3,586.73,0.15,1496.16,1405.05,91.11
+ORD-10239,2025-03-16,CUST-257,Corporate,North,Leeds,Technology,Laptops,4,566.43,0.05,2152.43,1458.06,694.37
+ORD-10197,2024-07-26,CUST-047,Small Business,South,Bristol,Technology,Phones,8,627.24,0,5017.92,3613.27,1404.65
+ORD-11064,2024-07-13,CUST-136,Consumer,North,Manchester,Office Supplies,Pens,3,2.08,0.1,5.62,4.02,1.6
+ORD-10095,2025-05-23,CUST-071,Corporate,East,Ipswich,Technology,Accessories,4,50.1,0.15,170.34,119.75,50.59
+ORD-10892,2024-07-08,CUST-091,Corporate,South,Southampton,Technology,Accessories,3,34.53,0.15,88.05,64.28,23.77
+ORD-10878,2025-11-07,CUST-156,Corporate,East,Norwich,Technology,Phones,2,436.03,0.05,828.46,519.93,308.53
+ORD-10810,2024-01-14,CUST-037,Corporate,East,Cambridge,Furniture,Desks,7,473.99,0.15,2820.24,2134.38,685.86
+ORD-11371,2025-02-27,CUST-192,Corporate,East,Cambridge,Technology,Phones,7,403.2,0,2822.4,2166.66,655.74
+ORD-10487,2025-12-27,CUST-012,Corporate,North,Leeds,Furniture,Desks,2,453.37,0,906.74,543.79,362.95
+ORD-11278,2025-02-15,CUST-228,Corporate,South,Southampton,Office Supplies,Binders,7,5.5,0.05,36.57,29.68,6.89
+ORD-10044,2025-02-28,CUST-055,,South,Southampton,Office Supplies,Pens,7,5.84,0,40.88,23.99,16.89
+ORD-10752,2024-03-04,CUST-151,Consumer,West,Exeter,Technology,Phones,7,505.37,0,3537.59,2035.73,1501.86
+ORD-10088,2024-03-23,CUST-019,Corporate,East,Ipswich,Office Supplies,Pens,6,5.8,0.15,29.58,25.39,4.19
+ORD-11292,2024-09-15,CUST-123,Consumer,South,Bristol,Office Supplies,Binders,1,14.78,0.05,14.04,9.31,4.73
+ORD-11098,2025-01-09,CUST-092,Consumer,West,Plymouth,Office Supplies,Binders,4,11.74,0.1,42.26,32.4,9.86
+ORD-11065,2024-06-04,CUST-110,Consumer,West,Cardiff,Technology,Accessories,3,34.84,0,104.52,74.07,30.45
+ORD-10267,2025-07-20,CUST-201,Small Business,East,Cambridge,Office Supplies,Paper,5,21.96,0,109.8,74.6,35.2
+ORD-10603,2025-04-14,CUST-294,Corporate,East,Ipswich,Technology,Laptops,6,886.57,0.15,4521.51,3863.83,657.68
+ORD-10075,2024-03-23,CUST-295,Small Business,North,Newcastle,Furniture,Storage,5,85.13,0,425.65,243.83,181.82
+ORD-10523,2024-12-01,CUST-268,Corporate,South,Brighton,Technology,Accessories,3,43.84,0,131.52,96.16,35.36
+ORD-10189,2025-05-22,CUST-172,Consumer,South,Southampton,Office Supplies,Binders,1,13.52,0,13.52,9.36,4.16
+ORD-11361,2024-06-15,CUST-249,Consumer,North,Leeds,Furniture,Storage,2,86.4,0.15,146.88,101.73,45.15
+ORD-10857,2024-06-08,CUST-128,Small Business,South,Bristol,Technology,Phones,5,483.78,0,2418.9,1885.8,533.1
+ORD-10692,2025-09-25,CUST-098,Consumer,East,Norwich,Office Supplies,Pens,7,11.63,0.2,65.13,50.94,14.19
+ORD-10687,2025-06-19,CUST-049,Small Business,West,Exeter,Furniture,Storage,2,46.68,0,93.36,63.33,30.03
+ORD-10564,2025-03-22,CUST-275,Corporate,West,Exeter,Office Supplies,Paper,1,15.8,0.05,15.01,12.46,2.55
+ORD-10925,2025-10-01,CUST-030,Small Business,East,Ipswich,Furniture,Chairs,8,189.62,0,1516.96,1167.08,349.88
+ORD-10492,2025-12-01,CUST-290,Consumer,South,Brighton,Technology,Phones,3,544.27,0.05,1551.17,1304.49,246.68
+ORD-10151,2025-11-02,CUST-096,Corporate,East,Cambridge,Furniture,Chairs,7,211.88,0.05,1409.0,1091.35,317.65
+ORD-10303,2024-06-30,CUST-290,Small Business,North,Leeds,Office Supplies,Pens,1,5.92,0,5.92,4.15,1.77
+ORD-11036,2025-04-19,CUST-122,Corporate,West,Cardiff,Office Supplies,Pens,5,7.68,0,38.4,30.34,8.06
+ORD-11233,2025-08-18,CUST-039,Consumer,East,Norwich,Office Supplies,Pens,5,8.42,0.2,33.68,29.05,4.63
+ORD-11378,2025-11-05,CUST-284,Corporate,South,Southampton,Office Supplies,Paper,5,21.04,0,105.2,75.93,29.27
+ORD-10442,2025-06-20,CUST-127,Corporate,North,Newcastle,Technology,Phones,2,509.05,0.15,865.38,797.07,68.31
+ORD-10323,2025-03-02,CUST-029,Small Business,North,Newcastle,Technology,Phones,7,305.7,0.15,1818.91,1436.12,382.79
+ORD-11481,2025-07-23,CUST-120,Consumer,South,Bristol,Technology,Accessories,1,14.88,0.15,12.65,9.21,3.44
+ORD-10399,2025-05-10,CUST-106,Consumer,East,Ipswich,Technology,Laptops,4,792.66,0,3170.64,1953.4,1217.24
+ORD-11474,2024-07-23,CUST-126,Small Business,West,Exeter,Office Supplies,Pens,6,7.65,0,45.9,29.6,16.3
+ORD-10286,2025-04-05,CUST-062,Corporate,West,Cardiff,Furniture,Desks,6,192.26,0.2,922.85,694.34,228.51
+ORD-11202,2024-01-30,CUST-087,Small Business,West,Cardiff,Technology,Accessories,7,53.6,0,375.2,256.96,118.24
+ORD-11344,2025-03-21,CUST-242,Small Business,West,Plymouth,Technology,Accessories,1,52.42,0,52.42,33.6,18.82
+ORD-10703,2024-02-17,CUST-057,Corporate,East,Norwich,Technology,Accessories,2,53.68,0.15,91.26,60.4,30.86
+ORD-10978,2025-09-14,CUST-028,Consumer,West,Cardiff,Office Supplies,Binders,1,4.31,0.15,3.66,2.64,1.02
+ORD-11086,2025-06-16,CUST-269,Corporate,North,Manchester,Technology,Laptops,2,646.92,0,1293.84,998.04,295.8
+ORD-10814,2025-08-15,CUST-097,Consumer,South,Southampton,Technology,Laptops,7,796.94,0.05,5299.65,4052.94,1246.71
+ORD-10474,2024-04-04,CUST-296,Corporate,West,Cardiff,Office Supplies,Paper,6,19.69,0.2,94.51,79.23,15.28
+ORD-11365,2025-07-24,CUST-071,Consumer,West,Cardiff,Technology,Laptops,6,489.26,0.05,2788.78,1909.09,879.69
+ORD-10599,2025-04-13,CUST-148,Consumer,East,Norwich,Office Supplies,Paper,5,22.97,0,114.85,85.83,29.02
+ORD-11105,2025-05-28,CUST-210,Consumer,South,Brighton,Office Supplies,Binders,8,4.01,0,32.08,19.85,12.23
+ORD-10223,2024-02-17,CUST-107,,North,Newcastle,Office Supplies,Binders,1,13.79,0,13.79,10.79,3.0
+ORD-10588,2024-05-15,CUST-236,Corporate,East,Ipswich,Furniture,Chairs,2,183.05,0,366.1,245.27,120.83
+ORD-11178,2025-11-08,CUST-103,Small Business,East,Norwich,Furniture,Desks,7,158.29,0.2,886.42,715.35,171.07
+ORD-11383,2024-11-16,CUST-275,Corporate,North,Manchester,Technology,Laptops,1,505.31,0,505.31,384.94,120.37
+ORD-10253,2025-03-25,CUST-072,Small Business,North,Leeds,Technology,Laptops,6,814.82,0.2,3911.14,3557.61,353.53
+ORD-10146,2024-05-27,CUST-269,Small Business,East,Cambridge,Furniture,Chairs,4,176.81,0.1,636.52,462.64,173.88
+ORD-11237,2025-03-26,CUST-283,Corporate,South,Bristol,Technology,Laptops,1,583.56,0.2,466.85,410.27,56.58
+ORD-10638,2025-07-06,CUST-181,Small Business,West,Exeter,Furniture,Storage,1,159.61,0.05,151.63,98.3,53.33
+ORD-10157,2025-02-11,CUST-288,Corporate,East,Norwich,Office Supplies,Binders,2,6.0,0,12.0,8.81,3.19
+ORD-10119,2024-03-27,CUST-249,Corporate,North,Newcastle,Technology,Laptops,1,789.5,0.15,671.07,450.33,220.74
+ORD-11413,2025-09-23,CUST-292,Consumer,West,Cardiff,Furniture,Desks,1,227.08,0,227.08,125.58,101.5
+ORD-10709,2024-06-17,CUST-267,Small Business,West,Exeter,Technology,Phones,3,579.6,0.1,1564.92,981.47,583.45
+ORD-11249,2025-10-24,CUST-031,Consumer,North,Newcastle,Furniture,Desks,5,413.14,0,2065.7,1590.23,475.47
+ORD-10754,2025-10-28,CUST-100,Small Business,North,Newcastle,Furniture,Storage,4,85.95,0,343.8,197.92,145.88
+ORD-10803,2025-02-28,CUST-128,Small Business,East,Ipswich,Technology,Laptops,6,831.12,0,4986.72,3044.7,1942.02
+ORD-10438,2025-04-02,CUST-293,Corporate,North,Manchester,Furniture,Storage,3,80.11,0.2,192.26,142.25,50.01
+ORD-11272,2024-03-12,CUST-034,Corporate,South,Southampton,Office Supplies,Pens,3,4.88,0,14.64,10.05,4.59
+ORD-10007,2025-10-12,CUST-113,Small Business,South,Bristol,Office Supplies,Pens,8,4.45,0.05,33.82,21.98,11.84
+ORD-10851,2025-04-12,CUST-099,Small Business,North,Newcastle,Furniture,Storage,3,99.55,0.1,268.78,179.47,89.31
+ORD-10246,2024-04-26,CUST-061,Small Business,East,Norwich,Furniture,Desks,5,366.08,0.1,1647.36,1276.78,370.58
+ORD-11221,2025-01-25,CUST-116,Corporate,East,Ipswich,Technology,Accessories,3,33.33,0.15,84.99,72.28,12.71
+ORD-10581,2025-11-24,CUST-113,Consumer,East,Norwich,Technology,Laptops,2,596.76,0,1193.52,876.57,316.95
+ORD-10541,2024-06-06,CUST-224,Small Business,East,Norwich,Office Supplies,Paper,2,7.69,0.15,13.07,8.52,4.55
+ORD-11019,2025-12-21,CUST-257,Small Business,East,Cambridge,Technology,Laptops,2,885.65,0.1,1594.17,1229.0,365.17
+ORD-11305,2025-11-21,CUST-292,Small Business,North,Manchester,Furniture,Storage,6,147.99,0.15,754.75,639.56,115.19
+ORD-10968,2024-02-14,CUST-088,Corporate,North,Leeds,Technology,Phones,6,237.52,0.15,1211.35,1002.13,209.22
+ORD-10684,2025-11-12,CUST-047,Small Business,North,Manchester,Furniture,Storage,8,67.98,0.05,516.65,363.89,152.76
+ORD-11433,2025-05-13,CUST-093,Corporate,East,Cambridge,Technology,Laptops,4,847.9,0.1,3052.44,2377.45,674.99
+ORD-10501,2024-02-25,CUST-202,Small Business,South,Southampton,Furniture,Storage,2,103.24,0,206.48,153.76,52.72
+ORD-10027,2024-05-14,CUST-038,Small Business,East,Ipswich,Furniture,Desks,2,475.16,0,950.32,631.56,318.76
+ORD-11073,2025-09-11,CUST-284,Corporate,North,Leeds,Office Supplies,Paper,2,21.05,0.2,33.68,30.57,3.11
+ORD-11224,2024-03-26,CUST-137,Small Business,North,Leeds,Technology,Accessories,4,50.3,0.1,181.08,135.56,45.52
+ORD-10262,2024-04-03,CUST-005,Small Business,North,Newcastle,Technology,Laptops,3,664.56,0.1,1794.31,1209.26,585.05
+ORD-11126,2024-03-25,CUST-295,Consumer,East,Ipswich,Office Supplies,Pens,7,3.01,0.2,16.86,15.84,1.02
+ORD-10230,2024-01-13,CUST-072,Small Business,East,Cambridge,Furniture,Desks,4,422.71,0.1,1521.76,1150.24,371.52
+ORD-10850,2025-09-08,CUST-084,Corporate,South,Southampton,Office Supplies,Binders,7,6.33,0,44.31,30.46,13.85
+ORD-10686,2025-06-23,CUST-154,Consumer,North,Leeds,Furniture,Desks,8,303.07,0,2424.56,1423.58,1000.98
+ORD-10219,2025-05-29,CUST-182,Small Business,West,Exeter,Technology,Laptops,3,863.12,0,2589.36,1548.39,1040.97
+ORD-11201,2024-01-31,CUST-014,Corporate,West,Exeter,Technology,Phones,6,401.83,0.2,1928.78,1485.88,442.9
+ORD-10061,2025-11-15,CUST-175,Corporate,West,Exeter,Furniture,Chairs,6,153.92,0,923.52,620.5,303.02
+ORD-10055,2024-07-23,CUST-132,Consumer,North,Manchester,Office Supplies,Paper,8,9.77,0.15,66.44,45.22,21.22
+ORD-11399,2025-06-30,CUST-005,Consumer,North,Manchester,Furniture,Storage,3,146.52,0,439.56,300.4,139.16
+ORD-10379,2025-02-17,CUST-272,Consumer,North,Manchester,Furniture,Chairs,6,227.85,0,1367.1,875.22,491.88
+ORD-10022,2024-06-19,CUST-136,Consumer,West,Exeter,Furniture,Desks,7,224.81,0,1573.67,930.29,643.38
+ORD-10018,2024-03-10,CUST-293,Small Business,North,Newcastle,Furniture,Chairs,5,157.69,0.15,670.18,529.33,140.85
+ORD-11075,2024-06-14,CUST-270,Consumer,East,Norwich,Furniture,Desks,4,225.47,0,901.88,504.17,397.71
+ORD-11132,2024-04-24,CUST-075,Small Business,East,Ipswich,Office Supplies,Paper,7,15.63,0,109.41,64.97,44.44
+ORD-10834,2025-05-29,CUST-171,Corporate,North,Leeds,Furniture,Storage,4,120.36,0.05,457.37,299.88,157.49
+ORD-11418,2025-08-28,CUST-079,Consumer,East,Norwich,Furniture,Chairs,4,216.57,0.2,693.02,646.13,46.89
+ORD-10946,2025-12-28,CUST-082,Corporate,South,Southampton,Office Supplies,Paper,7,17.63,0.2,98.73,91.39,7.34
+ORD-10196,2025-11-27,CUST-281,Consumer,North,Newcastle,Office Supplies,Binders,6,9.34,0,56.04,43.67,12.37
+ORD-10798,2024-03-09,CUST-049,Small Business,South,Bristol,Furniture,Desks,8,418.64,0,3349.12,2438.6,910.52
+ORD-10671,2024-03-01,CUST-024,Small Business,North,Leeds,Furniture,Chairs,6,149.48,0.1,807.19,703.9,103.29
+ORD-11018,2024-04-13,CUST-129,Corporate,North,Manchester,Furniture,Chairs,6,69.78,0,418.68,253.72,164.96
+ORD-11425,2024-04-20,CUST-134,Consumer,East,Norwich,Office Supplies,Binders,2,10.39,0.2,16.62,14.61,2.01
+ORD-11254,2024-12-11,CUST-188,Consumer,West,Cardiff,Office Supplies,Pens,8,10.32,0,82.56,59.21,23.35
+ORD-10172,2024-02-21,CUST-136,Consumer,East,Ipswich,Furniture,Storage,8,163.53,0,1308.24,895.06,413.18
+ORD-10158,2024-09-25,CUST-070,Corporate,East,Norwich,Office Supplies,Binders,5,5.57,0.15,23.67,21.7,1.97
+ORD-10072,2025-04-06,CUST-136,Consumer,West,Plymouth,Furniture,Chairs,5,103.98,0.15,441.91,397.67,44.24
+ORD-10833,2024-10-30,CUST-164,Small Business,South,Southampton,Furniture,Storage,5,103.81,0,519.05,382.42,136.63
+ORD-10081,2024-06-11,CUST-061,Consumer,East,Ipswich,Office Supplies,Paper,2,16.05,0,32.1,25.62,6.48
+ORD-11423,2024-01-03,CUST-293,Small Business,West,Cardiff,Technology,Laptops,6,510.07,0.15,2601.36,2207.83,393.53
+ORD-10662,2025-03-30,CUST-265,Consumer,South,Bristol,Technology,Phones,5,300.04,0,1500.2,1041.07,459.13
+ORD-10803,2025-02-28,CUST-128,Small Business,East,Ipswich,Technology,Laptops,6,831.12,0,4986.72,3044.7,1942.02
+ORD-10830,2025-01-25,CUST-097,Corporate,West,Plymouth,Technology,Laptops,5,566.59,0,2832.95,1637.01,1195.94
+ORD-10276,2025-04-11,CUST-060,Consumer,East,Norwich,Technology,Phones,3,629.68,0,1889.04,1113.26,775.78
+ORD-10444,2025-04-23,CUST-289,Small Business,East,Cambridge,Office Supplies,Binders,3,4.62,0.1,12.47,9.69,2.78
+ORD-11009,2025-04-15,CUST-242,Small Business,South,Bristol,Furniture,Storage,7,82.41,0,576.87,449.4,127.47
+ORD-10406,2024-01-20,CUST-074,Consumer,East,Ipswich,Technology,Laptops,8,652.14,0.2,4173.7,3497.65,676.05
+ORD-11293,2024-11-09,CUST-042,Small Business,East,Cambridge,Furniture,Desks,5,268.13,0.15,1139.55,1070.88,68.67
+ORD-10188,2025-08-10,CUST-019,Consumer,South,Southampton,Office Supplies,Pens,1,9.23,0,9.23,6.04,3.19
+ORD-11216,2024-11-25,CUST-035,Corporate,South,Brighton,Office Supplies,Binders,5,3.0,0.15,12.75,10.33,2.42
+ORD-10494,2025-02-25,CUST-014,Consumer,East,Ipswich,Furniture,Storage,5,170.73,0,853.65,635.78,217.87
+ORD-10407,2024-07-05,CUST-068,Consumer,East,Norwich,Technology,Accessories,8,44.28,0.1,318.82,247.14,71.68
+ORD-11243,2024-10-09,CUST-111,Consumer,East,Ipswich,Office Supplies,Paper,8,19.27,0.05,146.45,111.93,34.52
+ORD-10099,2024-04-02,CUST-196,Small Business,West,Plymouth,Technology,Phones,8,468.29,0,3746.32,2690.63,1055.69
+ORD-11115,2025-01-01,CUST-223,Corporate,East,Ipswich,Technology,Phones,1,473.39,0.05,449.72,356.13,93.59
+ORD-10254,2024-07-30,CUST-137,Corporate,North,Newcastle,Office Supplies,Binders,3,9.39,0,28.17,22.39,5.78
+ORD-10956,2024-09-13,CUST-106,Small Business,South,Bristol,Technology,Accessories,5,52.3,0.05,248.42,150.55,97.87
+ORD-11396,2024-09-13,CUST-096,Corporate,North,Leeds,Office Supplies,Binders,5,8.44,0,42.2,32.27,9.93
+ORD-10932,2024-02-25,CUST-275,Corporate,North,Newcastle,Furniture,Desks,5,487.18,0,2435.9,1460.69,975.21
+ORD-11229,2025-01-02,CUST-083,Small Business,East,Norwich,Furniture,Chairs,1,112.56,0,112.56,74.8,37.76
+ORD-10194,2024-11-10,CUST-114,Corporate,South,Brighton,Furniture,Storage,5,110.35,0.15,468.99,319.66,149.33
+ORD-10185,2024-07-25,CUST-272,Consumer,East,Norwich,Office Supplies,Pens,2,4.72,0.1,8.5,6.94,1.56
+ORD-10210,2024-04-04,CUST-287,Small Business,South,Brighton,Technology,Phones,1,388.58,0.2,310.86,220.79,90.07
+ORD-11487,2024-11-19,CUST-239,Corporate,East,Norwich,Office Supplies,Paper,1,23.52,0,23.52,15.32,8.2
+ORD-10455,2024-05-05,CUST-121,Consumer,East,Ipswich,Furniture,Storage,6,81.83,0,490.98,376.05,114.93
+ORD-10809,2024-10-17,CUST-098,Consumer,West,Cardiff,Office Supplies,Pens,6,6.81,0,40.86,29.78,11.08
+ORD-10251,2025-08-02,CUST-022,Corporate,West,Plymouth,Office Supplies,Pens,2,3.13,0,6.26,4.66,1.6
+ORD-10646,2024-11-03,CUST-281,Small Business,West,Cardiff,Office Supplies,Pens,7,5.13,0.05,34.11,22.01,12.1
+ORD-11203,2024-04-12,CUST-275,Corporate,North,Manchester,Furniture,Chairs,2,77.5,0,155.0,122.79,32.21
+ORD-10528,2025-01-27,CUST-274,Corporate,North,Leeds,Technology,Phones,8,395.96,0.1,2850.91,2023.85,827.06
+ORD-11078,2024-01-16,CUST-218,Corporate,South,Bristol,Technology,Accessories,7,39.41,0,275.87,209.07,66.8
+ORD-11500,2025-02-20,CUST-270,Consumer,South,Brighton,Technology,Phones,8,501.05,0.1,3607.56,2560.44,1047.12
+ORD-10728,2025-11-05,CUST-274,Small Business,South,Bristol,Technology,Phones,4,593.38,0.2,1898.82,1724.14,174.68
+ORD-10428,2024-04-19,CUST-247,Small Business,North,Manchester,Technology,Accessories,8,57.79,0.1,416.09,255.04,161.05
+ORD-10443,2024-10-17,CUST-167,Corporate,West,Exeter,Office Supplies,Paper,3,7.63,0,22.89,12.79,10.1
+ORD-10420,2024-03-29,CUST-036,Consumer,East,Norwich,Furniture,Desks,7,384.38,0.1,2421.59,1614.6,806.99
+ORD-10490,2024-12-15,CUST-117,Small Business,West,Exeter,Office Supplies,Paper,7,6.76,0.1,42.59,37.39,5.2
+ORD-10597,2025-03-02,CUST-119,Consumer,South,Bristol,Furniture,Desks,1,297.05,0,297.05,177.42,119.63
+ORD-10118,2025-06-27,CUST-291,Corporate,South,Bristol,Furniture,Desks,3,308.78,0,926.34,581.66,344.68
+ORD-11309,2025-01-09,CUST-201,Consumer,North,Manchester,Furniture,Storage,3,166.75,0.1,450.23,393.45,56.78
+ORD-10594,2025-11-27,CUST-241,Small Business,West,Plymouth,Furniture,Chairs,6,72.04,0.05,410.63,290.27,120.36
+ORD-10077,2025-03-22,CUST-254,Consumer,West,Exeter,Technology,Phones,6,373.98,0,2243.88,1610.06,633.82
+ORD-11443,2024-04-09,CUST-002,Consumer,East,Norwich,Furniture,Storage,2,136.82,0,273.64,217.74,55.9
+ORD-11380,2025-10-25,CUST-037,Corporate,West,Exeter,Furniture,Chairs,5,134.41,0.1,604.85,446.76,158.09
+ORD-10127,2024-05-29,CUST-289,Small Business,East,Ipswich,Technology,Laptops,2,721.08,0,1442.16,1136.17,305.99
+ORD-11250,2025-01-17,CUST-291,Corporate,North,Newcastle,Technology,Laptops,1,883.62,0,883.62,558.2,325.42
+ORD-10954,2024-01-24,CUST-065,Consumer,South,Southampton,Technology,Phones,4,257.39,0,1029.56,650.56,379.0
+ORD-10275,2024-10-02,CUST-040,Small Business,North,Manchester,Technology,Phones,5,603.55,0.1,2715.97,1707.95,1008.02
+ORD-10680,2024-03-24,CUST-232,Corporate,West,Exeter,Office Supplies,Pens,5,6.8,0.1,30.6,24.29,6.31
+ORD-10565,2024-12-07,CUST-236,Corporate,East,Cambridge,Furniture,Chairs,2,180.13,0,360.26,246.29,113.97
+ORD-10366,2025-05-25,CUST-091,Small Business,North,Newcastle,Office Supplies,Pens,7,2.49,0.2,13.94,12.14,1.8
+ORD-11063,2024-06-09,CUST-267,Consumer,East,Cambridge,Furniture,Desks,2,370.72,0.15,630.22,535.31,94.91
+ORD-11026,2024-04-04,CUST-030,Small Business,North,Leeds,Technology,Phones,1,573.74,0.2,458.99,317.69,141.3
+ORD-11139,2025-09-18,CUST-200,Small Business,East,Cambridge,Office Supplies,Pens,8,8.09,0.1,58.25,42.4,15.85
+ORD-10495,2025-09-23,CUST-245,Corporate,East,Norwich,Office Supplies,Pens,4,8.12,0,32.48,23.45,9.03
+ORD-11467,2024-07-27,CUST-272,Consumer,West,Cardiff,Technology,Phones,5,270.35,0,1351.75,887.48,464.27
+ORD-10224,2024-05-27,CUST-277,Corporate,West,Exeter,Technology,Phones,4,281.23,0.1,1012.43,853.43,159.0
+ORD-10463,2024-06-06,CUST-067,Consumer,East,Norwich,Furniture,Desks,2,374.32,0,748.64,509.67,238.97
+ORD-10047,2024-09-22,CUST-147,Corporate,South,Brighton,Office Supplies,Binders,8,12.19,0.15,82.89,59.47,23.42
+ORD-11035,2025-09-28,CUST-148,Corporate,West,Plymouth,Furniture,Storage,1,170.0,0.2,136.0,98.14,37.86
+ORD-11087,2024-05-23,CUST-166,Small Business,West,Plymouth,Furniture,Chairs,7,116.38,0,814.66,594.69,219.97
+ORD-11180,2025-02-03,CUST-276,Small Business,West,Exeter,Technology,Phones,7,693.46,0,4854.22,2792.92,2061.3
+ORD-11051,2024-09-23,CUST-102,Consumer,East,Norwich,Furniture,Desks,7,191.29,0.05,1272.08,905.53,366.55
+ORD-11450,2024-04-08,CUST-163,Consumer,North,Leeds,Office Supplies,Paper,6,14.47,0,86.82,61.32,25.5
+ORD-10574,2024-05-16,CUST-092,,North,Leeds,Office Supplies,Pens,3,5.76,0,17.28,13.3,3.98
+ORD-10843,2025-11-15,CUST-093,Consumer,South,Southampton,Technology,Accessories,8,38.65,0,309.2,223.69,85.51
+ORD-10631,2024-06-21,CUST-143,Corporate,North,Newcastle,Furniture,Chairs,7,124.34,0,870.38,529.38,341.0
+ORD-10773,2024-08-21,CUST-141,Corporate,North,Leeds,Technology,Laptops,4,612.11,0,2448.44,1467.01,981.43
+ORD-10963,2024-05-02,CUST-295,,North,Leeds,Furniture,Chairs,7,174.27,0,1219.89,846.73,373.16
+ORD-10174,2024-10-13,CUST-261,Consumer,North,Manchester,Technology,Laptops,6,627.26,0.1,3387.2,2953.41,433.79
+ORD-11370,2024-05-29,CUST-127,Consumer,South,Bristol,Office Supplies,Paper,2,22.22,0.05,42.22,30.15,12.07
+ORD-10048,2024-10-05,CUST-033,Consumer,East,Cambridge,Furniture,Storage,3,51.28,0,153.84,99.34,54.5
+ORD-10393,2025-08-21,CUST-114,Corporate,South,Bristol,Office Supplies,Pens,6,5.64,0.05,32.15,20.04,12.11
+ORD-10602,2024-11-20,CUST-256,Consumer,East,Norwich,Technology,Phones,3,424.21,0.1,1145.37,795.89,349.48
+ORD-11448,2024-08-20,CUST-002,Consumer,West,Plymouth,Office Supplies,Binders,6,7.65,0,45.9,35.57,10.33
+ORD-11400,2024-06-24,CUST-068,Consumer,East,Norwich,Office Supplies,Paper,1,15.02,0.05,14.27,8.77,5.5
+ORD-11114,2025-12-19,CUST-052,Corporate,North,Leeds,Office Supplies,Binders,1,13.43,0,13.43,8.8,4.63
+ORD-10697,2024-03-03,CUST-060,Corporate,North,Manchester,Furniture,Storage,2,84.22,0,168.44,130.24,38.2
+ORD-10756,2025-03-22,CUST-189,Small Business,East,Norwich,Furniture,Storage,3,163.93,0,491.79,328.21,163.58
+ORD-11384,2024-05-10,CUST-142,Consumer,North,Manchester,Office Supplies,Pens,1,6.23,0.15,5.3,4.31,0.99
+ORD-10470,2024-11-18,CUST-280,Small Business,East,Norwich,Furniture,Desks,7,417.46,0.2,2337.78,2137.51,200.27
+ORD-10826,2025-01-29,CUST-281,Consumer,East,Cambridge,Office Supplies,Paper,1,19.24,0,19.24,12.98,6.26
+ORD-10383,2025-11-17,CUST-037,Small Business,South,Bristol,Office Supplies,Binders,4,13.03,0.1,46.91,39.46,7.45
+ORD-10087,2024-04-12,CUST-204,Corporate,West,Plymouth,Technology,Accessories,3,17.21,0,51.63,34.46,17.17
+ORD-10596,2024-10-22,CUST-012,Consumer,North,Manchester,Technology,Laptops,3,574.17,0.05,1636.38,1012.19,624.19
+ORD-10766,2024-10-28,CUST-251,Small Business,South,Brighton,Furniture,Chairs,5,70.12,0.2,280.48,203.91,76.57
+ORD-10727,2025-07-26,CUST-010,Corporate,North,Leeds,Technology,Accessories,1,37.09,0.1,33.38,25.24,8.14
+ORD-10321,2025-02-09,CUST-156,Consumer,East,Cambridge,Office Supplies,Paper,8,5.99,0,47.92,37.1,10.82
+ORD-10799,2024-11-28,CUST-247,Small Business,West,Cardiff,Office Supplies,Pens,3,3.33,0.15,8.49,7.4,1.09
+ORD-11294,2025-07-18,CUST-019,Corporate,North,Newcastle,Technology,Accessories,1,10.53,0,10.53,6.79,3.74
+ORD-10598,2025-10-22,CUST-281,Small Business,East,Cambridge,Furniture,Storage,6,87.99,0.05,501.54,368.68,132.86
+ORD-10800,2024-12-09,CUST-064,Consumer,North,Manchester,Office Supplies,Pens,4,6.49,0.1,23.36,18.09,5.27
+ORD-10084,2024-01-03,CUST-171,Small Business,East,Ipswich,Office Supplies,Binders,8,13.05,0.2,83.52,61.3,22.22
+ORD-10947,2024-07-27,CUST-041,Small Business,North,Newcastle,Technology,Laptops,3,646.84,0,1940.52,1367.14,573.38
+ORD-10169,2024-05-13,CUST-050,Corporate,East,Norwich,Office Supplies,Pens,4,3.06,0.05,11.63,7.11,4.52
+ORD-10516,2024-11-03,CUST-090,Small Business,East,Norwich,Technology,Laptops,6,758.63,0.05,4324.19,3327.8,996.39
+ORD-10635,2025-04-22,CUST-017,Small Business,South,Southampton,Furniture,Storage,5,109.71,0.1,493.69,348.83,144.86
+ORD-10214,2025-07-30,CUST-292,Corporate,South,Brighton,Office Supplies,Paper,7,5.32,0,37.24,21.9,15.34
+ORD-10439,2024-03-14,CUST-203,Corporate,North,Manchester,Technology,Phones,6,314.11,0.15,1601.96,1173.84,428.12
+ORD-10883,2025-10-06,CUST-149,Small Business,North,Leeds,Furniture,Chairs,1,151.74,0,151.74,106.19,45.55
+ORD-11496,2024-03-19,CUST-240,Consumer,South,Brighton,Technology,Phones,1,450.71,0,450.71,290.65,160.06
+ORD-10755,2024-05-09,CUST-160,Consumer,East,Ipswich,Furniture,Desks,8,318.49,0,2547.92,1556.24,991.68
+ORD-10268,2025-10-23,CUST-007,Consumer,North,Manchester,Technology,Phones,4,392.94,0.05,1493.17,1115.2,377.97
+ORD-10860,2024-09-02,CUST-218,Consumer,North,Newcastle,Technology,Accessories,5,12.87,0.1,57.91,50.35,7.56
+ORD-10498,2025-05-16,CUST-202,Corporate,East,Ipswich,Furniture,Chairs,1,141.24,0.1,127.12,103.65,23.47
+ORD-10043,2024-08-28,CUST-038,Small Business,East,Cambridge,Technology,Laptops,1,516.31,0,516.31,410.97,105.34
+ORD-10325,2024-02-29,CUST-259,Corporate,South,Southampton,Technology,Phones,6,225.28,0.15,1148.93,810.71,338.22
+ORD-10610,2025-01-19,CUST-071,Corporate,North,Leeds,Technology,Phones,5,519.4,0.05,2467.15,1541.9,925.25
+ORD-10835,2024-08-03,CUST-082,Corporate,South,Brighton,Office Supplies,Pens,3,2.53,0.2,6.07,5.1,0.97
+ORD-10630,2025-05-18,CUST-053,Corporate,North,Newcastle,Furniture,Desks,2,332.93,0,665.86,390.09,275.77
+ORD-11366,2024-01-25,CUST-135,Small Business,South,Southampton,Technology,Accessories,4,19.34,0.05,73.49,55.31,18.18
+ORD-11372,2025-04-05,CUST-267,Small Business,South,Southampton,Office Supplies,Paper,7,14.59,0.15,86.81,78.43,8.38
+ORD-11322,2024-06-09,CUST-084,Small Business,West,Plymouth,Furniture,Chairs,8,238.01,0,1904.08,1141.39,762.69
+ORD-11171,2024-12-15,CUST-164,Consumer,East,Ipswich,Office Supplies,Pens,8,7.03,0,56.24,44.67,11.57
+ORD-11069,2024-09-10,CUST-066,Small Business,West,Exeter,Technology,Laptops,6,659.13,0.15,3361.56,2287.38,1074.18
+ORD-10350,2025-11-16,CUST-234,Corporate,West,Exeter,Technology,Laptops,2,800.79,0.15,1361.34,1170.59,190.75
+ORD-10605,2025-09-24,CUST-143,Small Business,South,Brighton,Furniture,Desks,1,182.37,0.1,164.13,129.54,34.59
+ORD-11389,2025-03-30,CUST-252,Corporate,West,Exeter,Technology,Accessories,7,54.41,0,380.87,261.02,119.85
+ORD-11268,2024-07-24,CUST-035,Corporate,South,Brighton,Office Supplies,Paper,2,14.38,0,28.76,17.46,11.3
+ORD-10820,2024-01-31,CUST-022,Consumer,South,Brighton,Furniture,Desks,2,385.48,0,770.96,435.8,335.16
+ORD-11427,2025-01-02,CUST-159,Consumer,East,Ipswich,Furniture,Storage,7,138.79,0.05,922.95,730.34,192.61
+ORD-10290,2025-12-03,CUST-228,Consumer,North,Leeds,Office Supplies,Pens,2,4.59,0,9.18,7.34,1.84
+ORD-10135,2024-12-02,CUST-186,Small Business,South,Southampton,Office Supplies,Pens,2,10.29,0.15,17.49,14.77,2.72
+ORD-11379,2024-07-28,CUST-173,Small Business,West,Cardiff,Office Supplies,Pens,5,3.73,0.15,15.85,11.41,4.44
+ORD-10318,2025-07-19,CUST-215,Small Business,East,Norwich,Furniture,Storage,1,104.14,0.2,83.31,75.51,7.8
+ORD-10497,2024-01-16,CUST-225,Consumer,East,Ipswich,Furniture,Chairs,4,201.05,0.2,643.36,483.44,159.92
+ORD-10549,2024-05-15,CUST-229,Small Business,East,Cambridge,Furniture,Desks,2,154.97,0.1,278.95,184.0,94.95
+ORD-10819,2025-02-22,CUST-033,Corporate,West,Exeter,Office Supplies,Pens,3,3.09,0,9.27,5.78,3.49
+ORD-10132,2025-03-24,CUST-174,Corporate,West,Plymouth,Office Supplies,Pens,6,8.1,0,48.6,37.88,10.72
+ORD-11327,2025-06-21,CUST-134,Consumer,West,Cardiff,Office Supplies,Binders,2,11.34,0.2,18.14,13.65,4.49
+ORD-11083,2025-02-16,CUST-173,Corporate,West,Cardiff,Office Supplies,Pens,4,10.4,0,41.6,30.86,10.74
+ORD-10385,2025-08-11,CUST-274,Corporate,South,Brighton,Furniture,Desks,7,285.81,0.05,1900.64,1258.62,642.02
+ORD-11471,2025-02-17,CUST-285,Corporate,North,Newcastle,Technology,Accessories,2,57.86,0,115.72,89.65,26.07
+ORD-10775,2025-08-16,CUST-108,Consumer,North,Manchester,Furniture,Storage,3,111.77,0.2,268.25,217.74,50.51
+ORD-10398,2024-01-11,CUST-075,Small Business,South,Bristol,Office Supplies,Pens,3,3.66,0.05,10.43,6.48,3.95
+ORD-11057,2024-08-25,CUST-074,Corporate,East,Norwich,Furniture,Desks,7,166.9,0,1168.3,736.85,431.45
+ORD-10510,2024-06-30,CUST-195,Corporate,West,Cardiff,Office Supplies,Pens,1,5.6,0,5.6,4.16,1.44
+ORD-11021,2024-12-08,CUST-038,Consumer,North,Newcastle,Technology,Laptops,6,696.19,0.2,3341.71,2990.14,351.57
+ORD-10971,2025-12-29,CUST-039,Consumer,North,Manchester,Furniture,Storage,4,156.98,0.15,533.73,446.94,86.79
+ORD-11122,2025-02-13,CUST-014,Consumer,East,Norwich,Furniture,Storage,7,142.25,0.1,896.18,645.71,250.47
+ORD-10364,2024-05-23,CUST-098,Corporate,West,Plymouth,Technology,Phones,4,505.43,0,2021.72,1582.11,439.61
+ORD-11319,2024-11-23,CUST-062,Consumer,West,Exeter,Furniture,Storage,4,163.65,0.2,523.68,492.71,30.97
+ORD-10530,2024-08-17,CUST-167,Small Business,South,Southampton,Office Supplies,Binders,7,13.95,0,97.65,70.79,26.86
+ORD-10133,2025-09-04,CUST-077,Corporate,North,Manchester,Office Supplies,Pens,6,5.35,0,32.1,22.13,9.97
+ORD-11282,2024-07-03,CUST-080,Small Business,West,Plymouth,Technology,Accessories,3,20.32,0,60.96,48.52,12.44
+ORD-10536,2025-09-02,CUST-001,Consumer,West,Cardiff,Furniture,Desks,1,375.75,0,375.75,227.1,148.65
+ORD-10011,2024-06-12,CUST-006,Small Business,West,Plymouth,Office Supplies,Paper,8,12.7,0.1,91.44,62.27,29.17
